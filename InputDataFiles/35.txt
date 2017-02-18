@@ -1,0 +1,67 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Pure Flats , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Adidas Altros 1.0 W Running Shoes , 1333 , 2399 , 4 , 5 , 5 , 1
+Footwear, Women's Shoes, Puma Wirko Xc Wn'S Sneakers , 1299 , 1999 , 4 , 4.5 , 4 , 1
+Footwear, Women's Shoes, Buywell jitnd Sneakers , 497 , 1099 , 3 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Cutwork Bellies , 470 , 499 , 1 , 1.5 , 3 , 1
+Footwear, Women's Shoes, Crocs Relief Sandals , 1792 , 1995 , 4 , 2.0 , 3 , 1
+Footwear, Women's Shoes, Soft & Sleek Wedges , 499 , 2199 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Chics Boots , 499 , 499 , 1 , 0 , 4 , 1
+Footwear, Men's Shoes, Fila Trekking Outdoor Shoes , 1999 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Sparx Sandals , 1218 , 1499 , 3 , 3.4 , 4 , 1
+Footwear, Men's Shoes, Adidas Adizero Feather Prime M Running Shoes , 6599 , 11999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Puma Hip Hop Iii Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Lee Cooper Loafers , 2999 , 2999 , 4 , 0 , 5 , 1
+Footwear, Men's Shoes, Adidas Aerobot Indoor Shoes , 3799 , 3799 , 4 , 0 , 3 , 1
+Footwear, Men's Shoes, Adidas Aerobot Indoor Shoes , 3799 , 3799 , 4 , 0 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 1494 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Skech-Flex Training & Gym Shoes , 2999 , 4999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Puma Lazy Slip On DP Sneakers , 2499 , 2499 , 4 , 0 , 5 , 1
+Footwear, Men's Shoes, Woodland Sneakers , 1794 , 2395 , 5 , 4.33333333333 , 3 , 5
+Footwear, Men's Shoes, Diesel Form-Actions Dess-Trukk Corporate Casuals , 17548 , 21990 , 5 , 3.66666666667 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 2092 , 3499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 1793 , 2999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 1793 , 2999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Sneakers , 2391 , 3999 , 5 , 5 , 0 , 1
+Footwear, Men's Shoes, Diesel Urbany Sprawl Low Sneakers , 7573 , 9490 , 5 , 3.66666666667 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Boat Shoes , 2092 , 3499 , 5 , 5 , 3 , 1
+Footwear, Men's Shoes, Woodland Outdoors Shoes , 2543 , 3395 , 5 , 4.33333333333 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 2092 , 3499 , 5 , 5 , 3 , 5
+Footwear, Men's Shoes, United Colors of Benetton Fashion XV SS IV Flip Flops , 558 , 799 , 5 , 5 , 0 , 5
+Footwear, Men's Shoes, United Colors of Benetton Fashion XV SS IV Flip Flops , 558 , 799 , 5 , 5 , 5 , 5
+Footwear, Men's Shoes, Woodland Outdoors Shoes , 2318 , 3095 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Outdoors Shoes , 2543 , 3395 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2543 , 3395 , 5 , 4.33333333333 , 5 , 1
+Footwear, Men's Shoes, Diesel Eastcop Gotcha Sneakers , 7174 , 8990 , 5 , 3.66666666667 , 0 , 1
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2468 , 3295 , 5 , 4.33333333333 , 5 , 1
+Footwear, Men's Shoes, Diesel Metro-Poliss Sub-Ways Sneakers , 9169 , 11490 , 5 , 3.66666666667 , 1 , 1
+Footwear, Men's Shoes, United Colors of Benetton Sneakers , 1973 , 3299 , 5 , 5 , 4 , 5
+Footwear, Men's Shoes, United Colors of Benetton Basic I Flip Flops , 348 , 499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Woodland Leather Sandals , 1944 , 2595 , 5 , 4.33333333333 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Sneakers , 1494 , 2499 , 5 , 5 , 4 , 5
+Footwear, Men's Shoes, Diesel Palky Klawny Corporate Casuals , 11962 , 14990 , 5 , 3.66666666667 , 0 , 1
+Footwear, Men's Shoes, Kenneth Cole Reaction Proud 2 Be Le Monk Strap , 7972 , 9990 , 5 , 3.66666666667 , 0 , 1
+Footwear, Women's Shoes, Superdry Californi Flip Flops , 1588 , 1990 , 5 , 3.0 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 5 , 1
+Footwear, Women's Shoes, Carlton London Flats , 1497 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Wedges , 1492 , 2995 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Flats , 1243 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Loafers , 1243 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Van Heusen Heels , 1492 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Flats , 658 , 1199 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Solester Kate Green Bellies , 449 , 999 , 5 , 5 , 2 , 1
+Footwear, Women's Shoes, Lavie Flats , 603 , 1099 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Flats , 546 , 995 , 5 , 5 , 2 , 1
+Footwear, Women's Shoes, Lavie Flats , 696 , 1395 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Bellies , 944 , 1895 , 5 , 5 , 5 , 1
+Footwear, Women's Shoes, Carlton London Heels , 1243 , 2495 , 5 , 5 , 3 , 1
+Footwear, Women's Shoes, Lavie Heels , 779 , 1299 , 5 , 5 , 5 , 1
+Footwear, Women's Shoes, Tresmode Bellies , 1245 , 2500 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Lavie Heels , 1425 , 2595 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Heels , 1370 , 2495 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Lavie Wedges , 1145 , 2295 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Lavie Wedges , 1295 , 2595 , 5 , 5 , 4 , 1

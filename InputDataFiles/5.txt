@@ -1,0 +1,192 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Men's Shoes, Puma Kuris II Ind. Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Tremor Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, adidas Adi Rio Flip Flops , 999 , 999 , 2 , 0 , 3 , 1
+Footwear, Men's Shoes, Puma PUMA Rebound v.2 Hi Sneakers , 2474 , 4499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Pacer Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Kevler 2 DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Nova Ind. Sports Sandals , 879 , 1599 , 3 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Unlimited Mid DP Mid Ankle Sneakers , 3249 , 4999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Puma Atom Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma TX-3 Sneakers , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Axis III Ind. Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Osu v4 DP Running Shoes , 3249 , 4999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Globalite Roadster Boots , 749 , 999 , 2 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Puma Carlos Ind. Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Pacer Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Axis III DP Running Shoes , 1949 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Puma Axis III Ind. Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Sparx Sandals , 589 , 725 , 2 , 3.4 , 4 , 1
+Footwear, Men's Shoes, Puma Brent Dp Running Shoes , 1819 , 2799 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Fila Scroll Sneakers , 1799 , 2699 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Lotto Rapid Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Ceylon Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Skechers Go Walk 2 Walking Shoes , 2399 , 3999 , 4 , 5 , 5 , 5
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Pluto DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 5
+Footwear, Men's Shoes, Adidas Altros 1.0 M Running Shoes , 1374 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Lotto Pounce Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Argus DP Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Fila Scroll Sneakers , 1799 , 2699 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Hip Hop 4 Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Reebok On Court Iv Lp Canvas Shoes , 1299 , 1999 , 3 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Street Rider Wns Ind Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Sir Corbett Hector Lace Up Shoes , 799 , 1999 , 3 , 5 , 3 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1264 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Brent Dp Running Shoes , 1819 , 2799 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Lotto Rapid Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Walk 2 Walking Shoes , 2399 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Run Ultra Running Shoes , 3899 , 6499 , 5 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 4 , 5
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Brown Genuine Leather Belt Black-02 , 243 , 649 , 1 , 5 , 2 , 5
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 4 , 5
+Men's Accessories, Men's Belts, SkyWays Men Casual Evening Party Black Brown Genuine Leather Belt Black-02 , 243 , 649 , 1 , 5 , 3 , 5
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Reversible Belt BLACKBROWN1 , 299 , 750 , 1 , 5 , 3 , 5
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 3 , 5
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 2 , 5
+Men's Accessories, Men's Belts, WildHide Men Formal Black Genuine Leather Belt Black , 349 , 2999 , 5 , 5 , 4 , 5
+Men's Accessories, Men's Belts, SkyWays Men Evening/Party Casual Black Genuine Leather Belt BLK-02 , 150 , 399 , 1 , 5 , 3 , 5
+Men's Accessories, Men's Belts, OTLS Men Women Casual Black Canvas Belt Black , 149 , 334 , 1 , 5 , 3 , 5
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Artificial Leather Belt BLK-03 , 131 , 349 , 1 , 5 , 2 , 5
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 2 , 5
+Men's Accessories, Men's Belts, SkyWays Men Casual Formal Black Artificial Leather Belt BLK-01 , 131 , 349 , 1 , 5 , 3 , 5
+Men's Accessories, Men's Belts, Allura Men Evening/Party Casual Semi-formal Brown Genuine Leather Belt Brown , 249 , 799 , 1 , 5 , 4 , 5
+Men's Accessories, Men's Belts, Swastika Men Casual Brown Genuine Leather Belt Brown 022 , 499 , 999 , 2 , 5 , 4 , 5
+Men's Accessories, Men's Belts, OTLS Men Women Casual Black Red Canvas Belt Blue, Red , 169 , 379 , 1 , 5 , 4 , 5
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 249 , 999 , 2 , 5 , 3 , 5
+Men's Accessories, Men's Belts, OTLS Men Women Casual Green Canvas Belt Olive , 149 , 333 , 1 , 5 , 3 , 5
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Blue Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Red Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Black Brown Artificial Leather Belt Black Brown , 281 , 749 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Casual Brown Genuine Leather Belt Brown , 345 , 745 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Brown Artificial Leather Belt BRN-01 , 131 , 349 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Evening/Party Casual White Genuine Leather Belt White-02 , 180 , 399 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Black Brown Artificial Leather Belt Black Brown , 243 , 649 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Brown Artificial Leather Belt Brown , 315 , 745 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Brown Artificial Leather Belt BRN-01 , 157 , 349 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Reversible Belt BLBW27 , 299 , 750 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Hornbull Men Casual Brown Genuine Leather Belt Dark Brown , 899 , 2899 , 5 , 5 , 4 , 1
+Men's Accessories, Men's Belts, WildHorn Men Formal Black Genuine Leather Belt Black , 590 , 4999 , 5 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Brown Artificial Leather Belt BRN-01 , 180 , 399 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 1999 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Kook N Keech Regular Fit Men's Jeans , 749 , 1499 , 3 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 629 , 899 , 1 , 4.0 , 0 , 1
+Men's Clothing, Men's Jeans, Ben Carter Slim Fit Men's Jeans , 529 , 1399 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Alan Woods Slim Fit Men's Jeans , 579 , 1399 , 2 , 5 , 5 , 1
+Men's Clothing, Men's Jeans, Club Vintage Slim Fit Men's Jeans , 499 , 1599 , 3 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Fizzaro Regular Fit Men's Jeans , 494 , 1499 , 3 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 2 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Lee Regular Fit Fit Men's Jeans , 1299 , 2599 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Men's Jeans , 1599 , 1999 , 3 , 3.0 , 5 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Levi's Men's Jeans , 1679 , 2799 , 5 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, High Star Slim Fit Men's Jeans , 599 , 999 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 699 , 1999 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Uber Urban Regular Fit Men's Jeans , 549 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Uber Urban Slim Fit Men's Jeans , 599 , 2599 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Axsglow Slim Fit Men's Jeans , 469 , 2499 , 4 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Roadster Slim Fit Men's Jeans , 674 , 1499 , 3 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Alan Woods Slim Fit Men's Jeans , 579 , 1399 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Stylox Slim Fit Men's Jeans , 449 , 1299 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Lee Skinny Fit Fit Men's Jeans , 1149 , 2299 , 4 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Lee Regular Fit Men's Jeans , 1349 , 2699 , 5 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Lee Skinny Fit Fit Men's Jeans , 1149 , 2299 , 4 , 5 , 5 , 1
+Men's Clothing, Men's Jeans, Newport Straight Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 1 , 1
+Men's Clothing, Men's Jeans, Leana Regular Fit Men's Jeans , 699 , 1700 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Lee Slim Fit Fit Men's Jeans , 1149 , 2299 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Newport Straight Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, High Star Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Flyjohn Slim Fit Men's Jeans , 498 , 1099 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 0 , 1
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 549 , 1999 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Jeans, Fizzaro Regular Fit Men's Jeans , 444 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Newport Straight Fit Fit Men's Jeans , 629 , 899 , 1 , 4.0 , 3 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Fit Men's Jeans , 1199 , 1999 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Indigen Slim Fit Men's Jeans , 549 , 899 , 1 , 4.8 , 4 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Fit Men's Jeans , 1199 , 1999 , 3 , 5 , 5 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 629 , 899 , 1 , 4.0 , 4 , 1
+Men's Clothing, Men's Jeans, Uk Blue Slim Fit Men's Jeans , 390 , 1000 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Lee Slim Fit Fit Men's Jeans , 1749 , 3499 , 5 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Fit Men's Jeans , 2239 , 2799 , 5 , 3.0 , 2 , 1
+Men's Clothing, Men's Jeans, Leana Regular Fit Men's Jeans , 599 , 1500 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Jeans, Roadster Slim Fit Men's Jeans , 936 , 1499 , 3 , 4.7 , 5 , 1
+Men's Clothing, Men's Jeans, Roadster Regular Fit Men's Jeans , 749 , 1499 , 3 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Fit Men's Jeans , 2239 , 2799 , 5 , 3.0 , 4 , 1
+Men's Clothing, Men's Jeans, Lee Low Rise Down To Slim Fit Men's Jeans , 999 , 1999 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Lee Skinny Fit Fit Men's Jeans , 1699 , 3399 , 5 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Kafe Regular Fit Men's Jeans , 599 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Unisopent Designs Solid Men's V-neck T-Shirt , 349 , 499 , 1 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Trendmakerz Graphic Print Men's Round Neck T-Shirt , 449 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Difference of Opinion Printed Men's Round Neck T-Shirt , 499 , 499 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Amore Printed Men's Round Neck Reversible T-Shirt , 199 , 799 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 5) , 1499 , 4999 , 5 , 5 , 5 , 1
+Men's Clothing, Men's Tshirts, Huetrap Graphic Print Men's Round Neck T-Shirt , 499 , 499 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Unisopent Designs Solid Men's V-neck T-Shirt , 349 , 499 , 1 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Alan Jones Printed Men's Round Neck T-Shirt (Pack of 2) , 699 , 1598 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Gritstones Solid Men's Round Neck T-Shirt , 519 , 649 , 2 , 3.0 , 3 , 1
+Men's Clothing, Men's Tshirts, Leana Striped Men's Henley T-Shirt , 329 , 758 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 629 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Rodid Solid Men's V-neck T-Shirt , 399 , 1000 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Rodid Solid Men's V-neck T-Shirt , 399 , 1000 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt , 279 , 939 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Jockey Solid Men's Round Neck T-Shirt , 379 , 379 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Duke Striped Men's Polo Neck T-Shirt (Pack of 2) , 725 , 725 , 2 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Zovi Solid Men's Round Neck T-Shirt , 149 , 299 , 1 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Alan Jones Printed Men's Round Neck T-Shirt , 369 , 799 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Jockey Solid Men's V-neck T-Shirt , 349 , 349 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Lee Printed Men's Round Neck T-Shirt , 599 , 1199 , 3 , 5 , 0 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt , 279 , 939 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 4) , 949 , 3199 , 5 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Unisopent Designs Solid Men's V-neck T-Shirt , 349 , 499 , 1 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's V-neck T-Shirt (Pack of 2) , 469 , 1299 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's V-neck T-Shirt (Pack of 2) , 469 , 1299 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt , 449 , 1099 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 899 , 2 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Denim Shirt , 699 , 1302 , 3 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Koolpals Men's Solid Formal Shirt , 349 , 800 , 2 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Denim Shirt , 699 , 1590 , 4 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Denim Shirt , 599 , 1209 , 3 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt (Pack of 2) , 799 , 1267 , 3 , 4.6 , 4 , 5
+Men's Clothing, Men's Shirts, Venga Men's Solid Casual Shirt , 285 , 325 , 1 , 2.2 , 2 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 549 , 1299 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt (Pack of 2) , 799 , 1690 , 4 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 899 , 2 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt (Pack of 3) , 1199 , 1665 , 4 , 3.7 , 3 , 5
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt , 449 , 1099 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt , 449 , 1099 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Koolpals Men's Solid Formal Shirt , 349 , 800 , 2 , 5 , 2 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 549 , 1299 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 899 , 2 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 1469 , 3 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt (Pack of 3) , 1199 , 2199 , 4 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Lee Marc Men's Solid Formal Shirt , 650 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Striped Formal Shirt , 349 , 800 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 549 , 1039 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt , 449 , 950 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 1469 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 899 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Being Fab Men's Solid Casual Shirt , 429 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 977 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Denim Shirt , 885 , 1771 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt , 449 , 1099 , 3 , 5 , 4 , 1

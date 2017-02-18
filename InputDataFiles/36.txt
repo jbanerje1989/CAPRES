@@ -1,0 +1,34 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Pure- Welcome PF01 Flats , 299 , 499 , 1 , 5 , 2 , 1
+Footwear, Women's Shoes, Skechers Ez Flex 2 - Navigate Walking Shoes , 2399 , 3999 , 5 , 5 , 3 , 1
+Footwear, Women's Shoes, Pure Flats , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Adidas Altros 1.0 W Running Shoes , 1333 , 2399 , 4 , 5 , 5 , 1
+Footwear, Women's Shoes, Puma Wirko Xc Wn'S Sneakers , 1299 , 1999 , 4 , 4.5 , 4 , 1
+Footwear, Women's Shoes, Buywell jitnd Sneakers , 497 , 1099 , 3 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Cutwork Bellies , 470 , 499 , 1 , 1.5 , 3 , 1
+Footwear, Women's Shoes, Crocs Relief Sandals , 1792 , 1995 , 4 , 2.0 , 3 , 1
+Footwear, Women's Shoes, Soft & Sleek Wedges , 499 , 2199 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Chics Boots , 499 , 499 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, ShopSome Wedges , 399 , 799 , 2 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Axis III Ind. Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Osu v4 DP Running Shoes , 3249 , 4999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Globalite Roadster Boots , 749 , 999 , 2 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Puma Carlos Ind. Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Pacer Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Axis III DP Running Shoes , 1949 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Sandals , 3195 , 3195 , 5 , 0 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Fashion 15 SS 5 Flip Flops , 348 , 499 , 5 , 5 , 5 , 5
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2543 , 3395 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Loafers , 2690 , 4499 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Woodland Sneakers , 2543 , 3395 , 5 , 4.33333333333 , 0 , 1
+Footwear, Men's Shoes, Kenneth Cole Reaction After Market Loafers , 7181 , 8999 , 5 , 3.66666666667 , 0 , 1
+Footwear, Women's Shoes, Carlton London Heels , 1990 , 3995 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Van Heusen Bellies , 1073 , 1795 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Lavie Wedges , 1425 , 2595 , 5 , 5 , 5 , 5
+Footwear, Women's Shoes, DONE BY NONE Missing That Holiday Beat Wedges , 1317 , 2399 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Lavie Heels , 719 , 1199 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Van Heusen Wedges , 1492 , 2495 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Superdry Glitter Flip Flops , 1588 , 1990 , 5 , 3.0 , 0 , 5
+Footwear, Women's Shoes, Tresmode Bellies , 1494 , 3000 , 5 , 5 , 0 , 5

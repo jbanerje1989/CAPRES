@@ -1,0 +1,90 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Myra Pair Of Multicolored Flats , 319 , 899 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Paduki Ethnic Footwear Flats , 249 , 599 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Do Bhai Flats , 499 , 499 , 1 , 0 , 4 , 5
+Footwear, Women's Shoes, Remson India Black gola Flats , 399 , 499 , 1 , 3.0 , 4 , 5
+Footwear, Women's Shoes, Forever Footwear Flats , 299 , 799 , 2 , 5 , 3 , 5
+Footwear, Women's Shoes, Pure Flats , 299 , 499 , 1 , 5 , 4 , 5
+Footwear, Women's Shoes, Reebok Classic Proton Lp Sneakers , 1277 , 2299 , 4 , 5 , 4 , 5
+Footwear, Women's Shoes, Nike Chroma Thong 3 Flip Flops , 599 , 999 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Pure- Welcome 26HF Flats , 299 , 499 , 1 , 5 , 5 , 1
+Footwear, Women's Shoes, Do Bhai Cutwork Bellies , 470 , 499 , 1 , 1.5 , 4 , 1
+Footwear, Women's Shoes, Myra Pair Of Embroidered Slip On Flats , 299 , 799 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Soft & Sleek Wedges , 499 , 2199 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Reebok Gradient Flip Iii Lp Slippers , 499 , 899 , 2 , 5 , 0 , 1
+Footwear, Women's Shoes, Puma Running Shoes , 1649 , 2999 , 4 , 5 , 5 , 1
+Footwear, Women's Shoes, Viger 204/L/Red Slippers , 98 , 999 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Forever Footwear Flats , 299 , 799 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Wedges , 499 , 499 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Aadolf Flats , 119 , 599 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Paduki Ethnic Bellies , 249 , 599 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Reebok Speed Diva Smooth Lp Running Shoes , 1666 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Reebok Realflex Speed 2.0 Running Shoes , 4199 , 6999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Adidas Ermis M Running Shoes , 2999 , 2999 , 4 , 0 , 3 , 1
+Footwear, Men's Shoes, Puma Kuris II Ind. Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Tremor Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, adidas Adi Rio Flip Flops , 999 , 999 , 2 , 0 , 3 , 1
+Footwear, Men's Shoes, Puma PUMA Rebound v.2 Hi Sneakers , 2474 , 4499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Pacer Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Kevler 2 DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Nova Ind. Sports Sandals , 879 , 1599 , 3 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Unlimited Mid DP Mid Ankle Sneakers , 3249 , 4999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Puma Atom Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma TX-3 Sneakers , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Axis III Ind. Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Osu v4 DP Running Shoes , 3249 , 4999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Globalite Roadster Boots , 749 , 999 , 2 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Puma Carlos Ind. Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Pacer Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Axis III DP Running Shoes , 1949 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Fila Trekking Outdoor Shoes , 1999 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Sparx Sandals , 1218 , 1499 , 3 , 3.4 , 4 , 1
+Footwear, Men's Shoes, Adidas Adizero Feather Prime M Running Shoes , 6599 , 11999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Puma Hip Hop Iii Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Lee Cooper Loafers , 2999 , 2999 , 4 , 0 , 5 , 1
+Footwear, Men's Shoes, Adidas Aerobot Indoor Shoes , 3799 , 3799 , 4 , 0 , 3 , 1
+Footwear, Men's Shoes, Adidas Aerobot Indoor Shoes , 3799 , 3799 , 4 , 0 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 1494 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Skech-Flex Training & Gym Shoes , 2999 , 4999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Puma Lazy Slip On DP Sneakers , 2499 , 2499 , 4 , 0 , 5 , 1
+Footwear, Men's Shoes, Puma Atom Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Danmaneao Men Casual Formal Brown Artificial Leather Belt Brown , 275 , 360 , 1 , 3.3 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Purple Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, OTLS Men Women Casual Grey White Canvas Belt Navy, White , 169 , 379 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Swastika Men Casual Brown Genuine Leather Belt Brown 022 , 499 , 999 , 2 , 5 , 5 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Artificial Leather Belt Black , 225 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Best Walk Men Formal Black Genuine Leather Belt black , 149 , 799 , 1 , 5 , 2 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black White Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, WildHide Men Formal Black Genuine Leather Belt Black , 399 , 1299 , 2 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Evening/Party Casual Yellow Genuine Leather Belt Yellow-02 , 180 , 399 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Blimey Men Semi-formal Brown Genuine Leather Belt DustyBrown-05 , 249 , 1099 , 2 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Danmaneao Men Casual Formal Black Artificial Leather Belt Black , 265 , 360 , 1 , 3.6 , 3 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 279 , 999 , 2 , 5 , 4 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Brown Genuine Leather Belt Black-01 , 360 , 799 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Formal Black Artificial Leather Belt BLK-02 , 180 , 399 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, OTLS Men Women Casual Orange Beige Canvas Belt Beige, Brown , 169 , 379 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Artificial Leather Belt BLK-02 , 225 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Black Brown Genuine Leather Reversible Belt Black and Brown , 345 , 745 , 1 , 5 , 3 , 1
+Footwear, Men's Shoes, United Colors of Benetton Boat Shoes , 2092 , 3499 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Woodland Boots , 2618 , 3495 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Outdoors Shoes , 2318 , 3095 , 5 , 4.33333333333 , 4 , 5
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 2092 , 3499 , 5 , 5 , 5 , 5
+Footwear, Men's Shoes, Woodland Sneakers , 1794 , 2395 , 5 , 4.33333333333 , 3 , 5
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Wedges , 1492 , 2995 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Flats , 1243 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Loafers , 1243 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Van Heusen Heels , 1492 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Flats , 658 , 1199 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Solester Kate Green Bellies , 449 , 999 , 5 , 5 , 2 , 1
+Footwear, Women's Shoes, Lavie Flats , 603 , 1099 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Flats , 546 , 995 , 5 , 5 , 2 , 1
+Footwear, Women's Shoes, Lavie Flats , 696 , 1395 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Bellies , 944 , 1895 , 5 , 5 , 5 , 1
+Footwear, Women's Shoes, Carlton London Heels , 1243 , 2495 , 5 , 5 , 3 , 1
+Footwear, Women's Shoes, Lavie Heels , 779 , 1299 , 5 , 5 , 5 , 1

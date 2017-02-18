@@ -1,0 +1,76 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Lancer Purple Canvas Shoes , 399 , 399 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Dolphin Miles Wedges , 315 , 525 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Puma Street Rider Wn's DP Sneakers , 1819 , 2799 , 4 , 4.5 , 4 , 1
+Footwear, Women's Shoes, Ridhi Sidhi Bead Studded Flats , 349 , 899 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 349 , 499 , 1 , 4.0 , 4 , 1
+Footwear, Women's Shoes, Goyal Black Flats , 198 , 600 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Puma Street Rider Wns Ind Running shoes , 1539 , 2799 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Reebok Classic Proton Lp Sneakers , 1277 , 2299 , 4 , 5 , 0 , 1
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Men's Shoes, Puma Strike Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lee Cooper Corporate Casuals , 2499 , 2499 , 4 , 0 , 4 , 1
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Hip Hop III Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Breeze V Flip Flops , 1399 , 1399 , 3 , 0 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 3 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Sparx Sandals , 1275 , 1275 , 3 , 0 , 4 , 1
+Footwear, Men's Shoes, Clarks Reeder Place Corporate Casuals , 3486 , 6999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Fila Trekking Outdoor Shoes , 1999 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Sparx Sandals , 1218 , 1499 , 3 , 3.4 , 4 , 1
+Men's Clothing, Men's Jeans, Uk Blue Slim Fit Men's Jeans , 390 , 1000 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Lee Slim Fit Fit Men's Jeans , 1749 , 3499 , 5 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Fit Men's Jeans , 2239 , 2799 , 5 , 3.0 , 2 , 1
+Men's Clothing, Men's Jeans, Leana Regular Fit Men's Jeans , 599 , 1500 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Jeans, Roadster Slim Fit Men's Jeans , 936 , 1499 , 3 , 4.7 , 5 , 1
+Men's Clothing, Men's Jeans, Roadster Regular Fit Men's Jeans , 749 , 1499 , 3 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Fit Men's Jeans , 2239 , 2799 , 5 , 3.0 , 4 , 1
+Men's Clothing, Men's Jeans, Lee Low Rise Down To Slim Fit Men's Jeans , 999 , 1999 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, I-Voc Men's Solid Casual Shirt , 599 , 1399 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Denim Shirt , 699 , 1302 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 977 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Yuva Men's Solid Formal Shirt , 499 , 1299 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 570 , 1142 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Yuva Men's Solid Formal Shirt , 499 , 600 , 2 , 2.6 , 3 , 1
+Men's Clothing, Men's Shirts, Global Nomad Men's Solid Casual Shirt , 699 , 999 , 2 , 4.0 , 4 , 1
+Men's Clothing, Men's Shirts, Protext Men's Solid Formal Shirt , 598 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Striped Formal Shirt , 349 , 800 , 2 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Being Fab Men's Solid Casual Shirt , 329 , 1099 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, United Colors of Benetton Men's Solid Casual Shirt , 1259 , 2099 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 949 , 1899 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Ivoc Men's Solid Formal Shirt , 299 , 899 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt , 449 , 950 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Mc-John Men's Solid Formal Shirt , 599 , 2099 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Lee Marc Men's Solid Formal Shirt , 650 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, United Colors of Benetton Men's Solid Casual Shirt , 1379 , 2299 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Tshirts, Huetrap Graphic Print Men's Round Neck T-Shirt , 499 , 499 , 1 , 0 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt , 279 , 939 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Unisopent Designs Solid Men's V-neck T-Shirt , 349 , 499 , 1 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Trendmakerz Graphic Print Men's Round Neck T-Shirt , 449 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Difference of Opinion Printed Men's Round Neck T-Shirt , 499 , 499 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Amore Printed Men's Round Neck Reversible T-Shirt , 199 , 799 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 5) , 1499 , 4999 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Tops, Bedazzle Casual 3/4 Sleeve Printed Women's Top , 399 , 1200 , 3 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Kashana Fashions Casual 3/4 Sleeve Floral Print Women's... , 399 , 1499 , 3 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 516 , 699 , 2 , 3.6 , 3 , 1
+Women's Clothing, Women's Tops, U&F Casual 3/4 Sleeve Solid Women's Top , 499 , 1349 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Vvoguish Casual 3/4 Sleeve Printed Women's Top , 443 , 699 , 2 , 4.6 , 1 , 1
+Women's Clothing, Women's Tops, Protext Women's Solid Casual Shirt , 599 , 1499 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 419 , 699 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 532 , 799 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, India Inc Casual Cape Sleeve Printed Women's Top , 249 , 1099 , 3 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Kasturi Women's Solid Casual Denim Shirt , 699 , 2399 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Tops, So Sweety Printed Women's Round Neck T-Shirt (Pack of 4) , 499 , 999 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 5 , 1
+Women's Clothing, Women's Tops, So Sweety Printed Women's Round Neck T-Shirt (Pack of 4) , 499 , 999 , 2 , 5 , 5 , 1
+Women's Clothing, Women's Tops, Golden Couture Casual Party Festive Formal Full Slee... , 499 , 999 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Trend18 Casual 3/4 Sleeve Printed Women's Top , 492 , 799 , 2 , 4.8 , 4 , 1
+Women's Clothing, Women's Tops, Neburu Women's Solid Casual Shirt , 649 , 1399 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 4 , 1
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 999 , 2899 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Espresso Casual 3/4 Sleeve Solid Women's Top , 499 , 799 , 2 , 4.7 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 532 , 799 , 2 , 4.3 , 4 , 1

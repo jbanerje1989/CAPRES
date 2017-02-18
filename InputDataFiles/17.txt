@@ -1,0 +1,117 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Men's Shoes, Puma Pluto DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 5
+Footwear, Men's Shoes, Adidas Altros 1.0 M Running Shoes , 1374 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Lotto Pounce Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Argus DP Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Fila Scroll Sneakers , 1799 , 2699 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Hip Hop 4 Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Reebok On Court Iv Lp Canvas Shoes , 1299 , 1999 , 3 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Street Rider Wns Ind Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Sir Corbett Hector Lace Up Shoes , 799 , 1999 , 3 , 5 , 3 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1264 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Brent Dp Running Shoes , 1819 , 2799 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Lotto Rapid Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Walk 2 Walking Shoes , 2399 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Run Ultra Running Shoes , 3899 , 6499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Nivia Destroyer Spain Football Studs , 559 , 799 , 2 , 5 , 4 , 1
+Footwear, Men's Shoes, Fila Blown Running Shoes , 1733 , 2599 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Tremor Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Starling DP Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP burnt olive-white swan-w Sneakers , 1494 , 2299 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Skech-Flex Training & Gym Shoes , 2999 , 4999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Puma Lazy Slip On DP Sneakers , 2499 , 2499 , 4 , 0 , 5 , 1
+Footwear, Men's Shoes, Puma Atom Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 3 , 1
+Footwear, Men's Shoes, Fila Runaway II Running Shoes , 1533 , 2299 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 3 , 1
+Footwear, Men's Shoes, Puma Ceylon II DP Running Shoes , 2199 , 3999 , 4 , 5 , 5 , 1
+Footwear, Men's Shoes, Puma 917 Mid 2.0 Ind. Sneakers , 1484 , 2699 , 4 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Casual Black Canvas Belt Black , 199 , 350 , 1 , 5 , 2 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Semi-formal Tan Artificial Leather Belt Tan-01 , 187 , 499 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Casual Black Genuine Leather Belt Black , 345 , 745 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Stylox Men Casual Brown Genuine Leather Belt Brown-7 , 99 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Reversible Belt BLBW37 , 299 , 600 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Semi-formal Tan Artificial Leather Belt Tan-01 , 187 , 499 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Black Genuine Leather Reversible Belt Black Brown , 299 , 450 , 1 , 4.3 , 4 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Pink Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Walletsnbags Men Boys Formal Black Genuine Leather, Genuine Leather Belt B5-BLK , 499 , 699 , 1 , 3.8 , 4 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Casual Brown Genuine Leather Belt Brown , 345 , 699 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Hornbull Men Casual Formal Black Genuine Leather Belt Black , 499 , 1599 , 3 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Swastika Men Formal Brown Genuine Leather Belt Brown-69 , 499 , 999 , 2 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Casual Black Genuine Leather Belt Black , 295 , 699 , 1 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Borse Hand-Held Bag (Purple) , 399 , 1200 , 2 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Borse Shoulder Bag (Brown) , 399 , 1500 , 3 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Multicolor) , 249 , 599 , 1 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Diana Korr Hand-Held Bag (Yellow-9) , 1249 , 3350 , 5 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Diana Korr Hand-Held Bag (Blue-40) , 1249 , 3350 , 5 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Brown) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Fostelo Shoulder Bag (Maroon) , 599 , 1799 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Shoulder Bag (Brown) , 499 , 1800 , 3 , 5 , 0 , 1
+Women's Accessories, Women's Handbags, Sms Hand-Held Bag (Brown) , 525 , 1250 , 2 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, JG Shoppe Hand Bag (Black-980) , 495 , 855 , 2 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-Held Bag (Off White) , 499 , 2800 , 4 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Green) , 249 , 599 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Grey) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Diana Korr Hand-Held Bag (Red-6) , 1249 , 3350 , 5 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Pink) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Shoulder Bag (Purple) , 499 , 1800 , 3 , 5 , 0 , 1
+Women's Accessories, Women's Handbags, Shilpkart Hand-Held Bag (Turquoise) , 289 , 549 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Shoulder Bag (Green) , 1199 , 2399 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Bagsy Malone Hand-Held Bag (Purple Plum 120) , 999 , 1699 , 3 , 5 , 3 , 1
+Footwear, Women's Shoes, Carlton London Heels , 1370 , 2495 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Solovoga Mebowed Bellies , 1096 , 2200 , 5 , 5 , 1 , 5
+Footwear, Women's Shoes, Solovoga Tianstrap Flats , 996 , 2000 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Lavie Flats , 659 , 1099 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Lavie Bellies , 659 , 1099 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Superdry Lifestyle Shoes , 6775 , 8490 , 5 , 3.0 , 0 , 1
+Footwear, Women's Shoes, Kenneth Cole Reaction Flats , 3583 , 4490 , 5 , 3.0 , 0 , 1
+Footwear, Women's Shoes, Carlton London Lifestyle Shoes , 2193 , 3995 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Superdry Californi Flip Flops , 1588 , 1990 , 5 , 3.0 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 5 , 1
+Footwear, Women's Shoes, Carlton London Flats , 1497 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Wedges , 1492 , 2995 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Flats , 1243 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Loafers , 1243 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Van Heusen Heels , 1492 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Flats , 658 , 1199 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Solester Kate Green Bellies , 449 , 999 , 5 , 5 , 2 , 1
+Footwear, Women's Shoes, Lavie Flats , 603 , 1099 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Flats , 546 , 995 , 5 , 5 , 2 , 1
+Footwear, Women's Shoes, Lavie Flats , 696 , 1395 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Bellies , 944 , 1895 , 5 , 5 , 5 , 1
+Footwear, Women's Shoes, Puma Running Shoes , 1649 , 2999 , 4 , 5 , 5 , 1
+Footwear, Women's Shoes, Viger 204/L/Red Slippers , 98 , 999 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Forever Footwear Flats , 299 , 799 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Wedges , 499 , 499 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Aadolf Flats , 119 , 599 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Paduki Ethnic Bellies , 249 , 599 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Reebok Speed Diva Smooth Lp Running Shoes , 1666 , 2999 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 280 , 499 , 1 , 5 , 2 , 1
+Footwear, Women's Shoes, Aadolf Heels , 299 , 1400 , 3 , 5 , 5 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 299 , 499 , 1 , 5 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 280 , 499 , 1 , 5 , 5 , 1
+Footwear, Women's Shoes, Queen Steps Bellies , 399 , 799 , 2 , 5 , 0 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 280 , 499 , 1 , 5 , 3 , 1
+Footwear, Women's Shoes, Queen Steps Wedges , 449 , 899 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Do Bhai she-White Flats , 475 , 499 , 1 , 1.4 , 4 , 1
+Footwear, Women's Shoes, Aadolf Flats , 119 , 599 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Forever Footwear Flats , 219 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Acto SL-03 Running Shoes , 499 , 499 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Jade Tie Up Flats , 399 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Neon-Deep Brown Ballerinas Bellies , 299 , 499 , 1 , 5 , 3 , 1
+Footwear, Women's Shoes, Forever Footwear Heels , 299 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Shezone Flats , 449 , 499 , 1 , 2.0 , 4 , 1
+Footwear, Women's Shoes, Shezone Flats , 449 , 499 , 1 , 2.0 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 349 , 499 , 1 , 4.0 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Lycra Belly Heels , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Puma Lucie Wn S Slippers , 777 , 1399 , 3 , 5 , 0 , 1
+Footwear, Women's Shoes, Hannah Traders Heels , 499 , 700 , 2 , 3.8 , 4 , 1

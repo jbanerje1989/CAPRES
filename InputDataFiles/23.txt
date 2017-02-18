@@ -1,0 +1,103 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Dolphin Miles Designer Wedges Wedges , 315 , 525 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Goyal Black Flats , 198 , 600 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Puma Street Rider Wns Ind Running shoes , 1539 , 2799 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Reebok Classic Proton Lp Sneakers , 1277 , 2299 , 4 , 5 , 0 , 1
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Pure- Welcome PF01 Flats , 299 , 499 , 1 , 5 , 2 , 1
+Footwear, Women's Shoes, Skechers Ez Flex 2 - Navigate Walking Shoes , 2399 , 3999 , 5 , 5 , 3 , 1
+Footwear, Women's Shoes, Pure Flats , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Adidas Altros 1.0 W Running Shoes , 1333 , 2399 , 4 , 5 , 5 , 1
+Footwear, Women's Shoes, Puma Wirko Xc Wn'S Sneakers , 1299 , 1999 , 4 , 4.5 , 4 , 1
+Footwear, Women's Shoes, Aadolf Flats , 119 , 599 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Paduki Ethnic Bellies , 249 , 599 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Reebok Speed Diva Smooth Lp Running Shoes , 1666 , 2999 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 280 , 499 , 1 , 5 , 2 , 1
+Footwear, Women's Shoes, Aadolf Heels , 299 , 1400 , 3 , 5 , 5 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 299 , 499 , 1 , 5 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 280 , 499 , 1 , 5 , 5 , 1
+Footwear, Women's Shoes, Queen Steps Bellies , 399 , 799 , 2 , 5 , 0 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 280 , 499 , 1 , 5 , 3 , 1
+Footwear, Women's Shoes, Queen Steps Wedges , 449 , 899 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Do Bhai she-White Flats , 475 , 499 , 1 , 1.4 , 4 , 1
+Footwear, Women's Shoes, Aadolf Flats , 119 , 599 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Forever Footwear Flats , 219 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Reebok Nc Plimsole Summer Lp Sneakers , 1999 , 3599 , 5 , 5 , 1 , 1
+Footwear, Women's Shoes, Dolphin Miles Stylish Wedges , 299 , 475 , 1 , 4.7 , 4 , 1
+Footwear, Women's Shoes, Adorn Heels , 499 , 1199 , 3 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai W017-MOUSE Flats , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Wedges , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Pure- Welcome Flats , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Flats , 745 , 1495 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Carlton London Bellies , 1197 , 1995 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, La Isla Heels , 779 , 2599 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Solovoga Bairun Flats , 1096 , 2200 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Tresmode Bewedged Wedges , 1345 , 2700 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Carlton London Heels , 1990 , 3995 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Van Heusen Bellies , 1073 , 1795 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Lavie Wedges , 1425 , 2595 , 5 , 5 , 5 , 5
+Footwear, Women's Shoes, DONE BY NONE Missing That Holiday Beat Wedges , 1317 , 2399 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Lavie Heels , 1425 , 2595 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Heels , 1370 , 2495 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Carlos Ind. Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Pacer Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Axis III DP Running Shoes , 1949 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Puma Axis III Ind. Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Sparx Sandals , 589 , 725 , 2 , 3.4 , 4 , 1
+Footwear, Men's Shoes, Puma Brent Dp Running Shoes , 1819 , 2799 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Fila Run It Running Shoes , 1666 , 2499 , 4 , 5 , 5 , 1
+Footwear, Men's Shoes, Sparx Sneakers , 1014 , 1249 , 3 , 3.4 , 3 , 1
+Footwear, Men's Shoes, Puma Axis IV XT DP Running Shoes , 1949 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Puma Drongos DP Mid Ankle Sneakers , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Unlimited Mid DP Mid Ankle Sneakers , 3249 , 4999 , 5 , 5 , 0 , 1
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Pluto DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 5
+Footwear, Men's Shoes, Adidas Altros 1.0 M Running Shoes , 1374 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Lotto Pounce Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Argus DP Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Fila Scroll Sneakers , 1799 , 2699 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Hip Hop 4 Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Reebok On Court Iv Lp Canvas Shoes , 1299 , 1999 , 3 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Street Rider Wns Ind Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Sir Corbett Hector Lace Up Shoes , 799 , 1999 , 3 , 5 , 3 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1264 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Brent Dp Running Shoes , 1819 , 2799 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Lotto Rapid Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Walk 2 Walking Shoes , 2399 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Run Ultra Running Shoes , 3899 , 6499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Nivia Destroyer Spain Football Studs , 559 , 799 , 2 , 5 , 4 , 1
+Footwear, Men's Shoes, Fila Blown Running Shoes , 1733 , 2599 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Tremor Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Starling DP Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Boat Shoes , 2092 , 3499 , 5 , 5 , 3 , 1
+Footwear, Men's Shoes, Woodland Outdoors Shoes , 2543 , 3395 , 5 , 4.33333333333 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 2092 , 3499 , 5 , 5 , 3 , 5
+Footwear, Men's Shoes, United Colors of Benetton Fashion XV SS IV Flip Flops , 558 , 799 , 5 , 5 , 0 , 5
+Footwear, Men's Shoes, United Colors of Benetton Fashion XV SS IV Flip Flops , 558 , 799 , 5 , 5 , 5 , 5
+Footwear, Men's Shoes, Woodland Outdoors Shoes , 2318 , 3095 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Outdoors Shoes , 2543 , 3395 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2543 , 3395 , 5 , 4.33333333333 , 5 , 1
+Footwear, Men's Shoes, Diesel Eastcop Gotcha Sneakers , 7174 , 8990 , 5 , 3.66666666667 , 0 , 1
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2468 , 3295 , 5 , 4.33333333333 , 5 , 1
+Footwear, Men's Shoes, Diesel Metro-Poliss Sub-Ways Sneakers , 9169 , 11490 , 5 , 3.66666666667 , 1 , 1
+Footwear, Men's Shoes, United Colors of Benetton Sneakers , 1973 , 3299 , 5 , 5 , 4 , 5
+Footwear, Men's Shoes, United Colors of Benetton Basic I Flip Flops , 348 , 499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Woodland Leather Sandals , 1944 , 2595 , 5 , 4.33333333333 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Sneakers , 1494 , 2499 , 5 , 5 , 4 , 5
+Footwear, Men's Shoes, Diesel Palky Klawny Corporate Casuals , 11962 , 14990 , 5 , 3.66666666667 , 0 , 1
+Footwear, Men's Shoes, Kenneth Cole Reaction Proud 2 Be Le Monk Strap , 7972 , 9990 , 5 , 3.66666666667 , 0 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Brown Artificial Leather Belt Brown , 315 , 745 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Brown Artificial Leather Belt BRN-01 , 157 , 349 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Reversible Belt BLBW27 , 299 , 750 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Hornbull Men Casual Brown Genuine Leather Belt Dark Brown , 899 , 2899 , 5 , 5 , 4 , 1
+Men's Accessories, Men's Belts, WildHorn Men Formal Black Genuine Leather Belt Black , 590 , 4999 , 5 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Brown Artificial Leather Belt BRN-01 , 180 , 399 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 1999 , 3 , 5 , 3 , 1

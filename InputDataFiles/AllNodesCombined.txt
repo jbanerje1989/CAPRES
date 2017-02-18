@@ -1,0 +1,79 @@
+0;12.972149;77.750722;Fabindia;No.48, Regent Prime, Whitefield Main Road, Bengaluru
+1;12.959816;77.748288;Puma;Prestige Ozone, Whitefield, Bengaluru
+2;12.959767;77.701599;Kalamandir;Chinnapanahalli, Aswath Nagar, Marathahalli, Bengaluru
+3;12.956519;77.697646;Brand Factory;RAJATHA PLAZA, NOS.228,229,231 & 232,MARATHAHALLI MAIN ROAD, Bengaluru
+4;12.958118;77.744209;Life Style;Phase 2, Whitefield, Bengaluru
+5;12.997313;77.696863;Izod;44, First floor, Phoenix Marketcity, Krishnarajapura, Bengaluru
+6;12.997507;77.69682;Spykar;43, First floor, Phoenix Marketcity, Krishnarajapura, Bengaluru
+7;12.956457;77.696848;Cantabil;Varthur Road, Marathahalli, Bengaluru
+8;12.996979;77.696858;Enamor;38, Second floor, Phoenix Marketcity, Krishnarajapura, Bengaluru
+9;12.997311;77.696597;La Senza;19, Upper Ground floor, Phoenix Marketcity, Krishnarajapura, Bengaluru
+10;12.979309;77.712076;Arvind Limited;No.23/1, Sonnenahalli Village, ITPL Main Road, Seetharampalya, Bengaluru
+11;12.996916;77.696717;Converse;Shop No. F28, 1st Floor, Phoenix Market City, Whitefield Road, Bengaluru
+12;12.959888;77.747982;Jute Cottage;108, Forum Value Mall, Whitefield Main Road, Near-B B M P, 2nd Cross Road, Palm Meadows, Whitefield, Bengaluru
+13;12.958944;77.718025;Stritva;294, 8th Main, BEML Layout, Brookefield, Bengaluru
+14;12.959931;77.747762;Soch;No. 62, Fourm Value Mall, Shop No. 103/104, 1st Floor, Whitefield Main Road, Prestige Ozone, Whitefield, Bengaluru
+15;12.995993;77.696597;Gant;68, Upper Ground floor, Phoenix Marketcity, Krishnarajapura, Bengaluru
+16;12.996736;77.696769;Alcott;65, Upper Ground floor, Phoenix Marketcity, Krishnarajapura, Bengaluru
+17;12.996764;77.696632;Charles & Keith;UG #51-52, Phoneix Market City, Mahadevpura Post, Whitefield Road, Bengaluru
+18;12.978925;77.728828;Shoppers Stop;Anchor 16 20 Ground & Anchor 18 20, Upper Ground Floor, Inorbit Mall, 6th Road, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru
+19;12.997034;77.69091;BAN-PHOENIX MAR;Mahadevpura Main Road, Bengaluru
+20;12.95991;77.747499;Bata;Shop No 127, First Floor, Whitefield Main Road, 62, Forum Value Mall, Whitefield
+21;12.99725;77.696879;Crocs;Devasandra Industrial Estate, Krishnarajapura, Bengaluru
+22;12.997611;77.696466;Clarks;METRO, BFM-BANGALORE SHOP NO.64, First floor, Phoenix Marketcity, ITPL Main Road, Krishnarajapura, Bengaluru
+23;13.006706;77.698649;Liberty Exclusive Showroom;Devasandra Main Road, Swathantra Nagar, Krishnarajapura, Bengaluru
+24;12.959916;77.747776;Reebok;Shop No.5, Forum Value Mall, No.62, Whitefield road, Whitefield road, Bengaluru
+25;12.959914;77.7481;Metro Shoes Limited;110, Forum Value Mall, Whitefield Main Road, Near-B B M P Whitefild, Whitefield, Bengaluru
+26;12.95637;77.700747;Red Tape;Shop No 4, PSA Quarishi Building, Ground Floor, Marathalli Main Road, Near-Narayan Reddy Building, Marathahalli, Bengaluru
+27;12.979373;77.728675;Hush Puppies;8th Road, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru
+28;12.977352;77.718889;M Store;Whitefield, ITPL Main Rd, Bengaluru
+29;12.996549;77.69677;Vans;58, First floor, Phoenix Marketcity, Krishnarajapura, Bengaluru
+30;12.959887;77.748047;Mr. Pronto;Shop 303 A, Forum Value Mall,, Whitefield,, Bengaluru
+31;12.986886;77.73639;Red Tape;Pattandur Agrahara, Whitefield, Bengaluru
+32;12.996879;77.696847;Catwalk;52, First floor, Phoenix Marketcity, Krishnarajapura, Bengaluru
+33;12.95565;77.721265;Liberty Exclusive Showroom - Whitefield;No.183, Thubarahalli, Varthur Hobli,, Whitefield Main Road,, Bengaluru
+34;12.955942;77.72948;thoppia;next to bhagini iris,whitefield main road,, siddapura, Bengaluru
+35;12.996775;77.696734;Aldo;Devasandra Industrial Estate, Krishnarajapura, Bengaluru
+36;12.95691;77.698981;Black The Shoe Store;Old Airport Road, Marathahalli village, Marathahalli, Bengaluru
+37;12.997828;77.696337;Rockport;34, First floor, Phoenix Marketcity, Krishnarajapura, Bengaluru
+38;12.997028;77.696809;Ruosh;1st Floor, Shop No. 52, Whitefield Road, Phoenix Marketcity Mall, Bengaluru
+39;13.0040167;77.6877765;Krishnarajapura;Krishnarajapura
+40;12.985802;77.762966;MVJ College of Engineering;ITPL Main Road, Near ITPB, Whitefield, Bangalore
+41;12.975227;77.729292;Vydehi Institute of Medical Sciences & Research Centre;#82, EPIP Area, Nallurahalli, Near BMTC 18th Depot, Whitefield, Bengaluru
+42;12.98606;77.735515;International Technology Park Bangalore;Whitefield, Bengaluru
+43;12.966619;77.711763;CMRIT;No.132, AECS Layout, Kundalahalli, ITPL Main Road, Bengaluru
+44;12.98667;77.737734;Vivanta by Taj - Whitefield, Bangalore;ITPL Main Road, Bengaluru
+45;12.976874;77.718486;Ginger Hotel Whitefield;128, EPIP Zone Phase 2, Opp SAP Labs, Whitefield, Bangalore
+46;12.972162;77.7178;MGM Mark;#23, EPIP Zone, Whitefield, Bengaluru
+47;12.979522;77.72818;Bengaluru Marriott Hotel Whitefield;Plot No 75, 8th Road, EPIP Zone, Whitefield, Bengaluru
+48;12.95015;77.69917;Park Plaza Bengaluru;90-4, Marathahalli, Outer Ring Road, Bengaluru
+49;12.977369;77.695376;Jalsa;No. 25, Outer Ring Road, Doddanakundi Village, Marathahalli, Bengaluru
+50;12.990319;77.73267;Aloft Bengaluru Whitefield;17C, Road, Off Opposite, ITPL Main Road, Sadaramangala Industrial Area, Bengaluru
+51;12.977381;77.714461;Fortune Select Trinity;134-136, EPIP Area, Road No. 1, Whitefield, Bengaluru
+52;12.959624;77.74795;The Forum Value Mall;62, Whitefield Main Rd, Whitefield, Bengaluru
+53;13.022149;77.711268;Evoma;#14, Old Madras Road, Near Garden City College, Bhattrahalli, K R Puram, Bengaluru
+54;12.990047;77.723142;The Zuri Whitefield, Bangalore;ITPL Main Road, Whitefield, Bengaluru
+55;12.989088;77.733905;Hotel Nandhini;Bengaluru
+56;12.931183;77.687641;Country Club;No.55/1, Near Vrindavan Tech Village, Marathahalli Outer Ring Road, Deevarabeesanahalli, Bangalore
+57;12.933925;77.692502;New Horizon College of Engineering;Near Marathalli, Outer Ring Road, Kadubeesanahalli, Bengaluru
+58;12.9715987;77.5945627;Bengaluru;Bengaluru
+59;12.943242;77.691906;Prestige Tech Park II;Sarjapur - Marathahalli Outer Ring Road, Bengaluru
+60;12.986498;77.718143;Swarna Silicon Castle;Basavanna Nagar Main Road, Basavanna Nagar, Hoodi, Bengaluru
+61;12.977899;77.725106;Neil Rao Towers;117 & 118, Road No. 3, EPIP Zone, Whitefield, Bengaluru
+62;12.965196;77.713422;21st Century Realtors;175, 1st Floor, A Block, AECS Layout, Kundalahalli,, Brookefields, Bengaluru
+63;13.014969;77.702264;Monarch Properties;#54, III Floor, Monarch Plaza, Brigade Road, Opp. Nilgiris, Bengaluru
+64;12.988286;77.703496;Gopalan Urban Woods;Sri Krishna Temple Road, Garudachar Palya, Mahadevapura, Bengaluru
+65;12.975085;77.726756;Regus Bangalore;No. 104 Epip Zone, Whitefield, 2nd Floor, Prestige Omega, Bengaluru
+66;12.908323;77.795433;shirdi sai layout;Kamanahalli, Varthur, Bengaluru
+67;12.94844;77.691637;77 East;Yemalur Main Road, Marathahalli, Bengaluru
+68;12.968114;77.739639;Sohum Isiri;Survey No.43/3,New No.43/5, Borewell Road, Nallurhalli, Whitefield, Bengaluru
+69;12.975135;77.726183;Chaithanya Projects Private Limited;#104, 3rd Floor, Prestige Omega, EPIP Zone, Whitefield, Bengaluru
+70;12.959164;77.713412;Software Icons 1;Lakshminarayanapura, Kundanahalli Gate,, 4th Cross Road, AECS Layout - C Block, AECS Layout, Bengaluru
+71;12.969661;77.750097;House Of Colours;Whitefield Main Rd, Whitefield, Bengaluru
+72;12.956968;77.701825;Rajesh;# 01, Guru Complex , Marathahalli main road., Marathahalli , Bangalore
+73;12.964461;77.706344;Nakshatra Villas;13/1, AECS Layout, Next to Rohan Mihira,, Chinnappanahalli, Bengaluru
+74;12.958486;77.699874;VKC-Commercial and Residential Properties-Koramangala, Sarjapur, Marathalli;Bangalore Corporate Office �Chourasia Height� #22, Ground Floor, First Cross, Ashwathnagar, Marathalli, Bengaluru
+75;12.955741;77.720494;RE/MAX Ultimate;Varthur Road, Thubarahalli, Whitefield, Bengaluru
+76;12.961134;77.716695;Choice Consultancy Real Estate Agency;#74, Second Floor, Govinda Reddy Building, Kundalahalli Main Road,, Bengaluru
+77;12.975047;77.726986;Pathfinder Realty Solutions;Whitefield, Bengaluru
+78;12.934184;77.686504;Banyan Tree Apartments;Kariyammana Agrahara, Hobli,, Service Rd, Marathahalli, Bengaluru

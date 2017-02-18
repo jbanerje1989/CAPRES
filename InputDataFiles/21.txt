@@ -1,0 +1,23 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Skechers Ez Flex 2 - Navigate Walking Shoes , 2399 , 3999 , 5 , 5 , 3 , 1
+Footwear, Women's Shoes, Pure Flats , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Adidas Altros 1.0 W Running Shoes , 1333 , 2399 , 4 , 5 , 5 , 1
+Footwear, Women's Shoes, Puma Wirko Xc Wn'S Sneakers , 1299 , 1999 , 4 , 4.5 , 4 , 1
+Footwear, Women's Shoes, Buywell jitnd Sneakers , 497 , 1099 , 3 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Cutwork Bellies , 470 , 499 , 1 , 1.5 , 3 , 1
+Footwear, Women's Shoes, Crocs Relief Sandals , 1792 , 1995 , 4 , 2.0 , 3 , 1
+Footwear, Women's Shoes, Soft & Sleek Wedges , 499 , 2199 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Chics Boots , 499 , 499 , 1 , 0 , 4 , 1
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2618 , 3495 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Boat Shoes , 2092 , 3499 , 5 , 5 , 3 , 1
+Footwear, Men's Shoes, Diesel Magnete Exposure Low I Sneakers , 7573 , 9490 , 5 , 3.66666666667 , 0 , 1
+Footwear, Men's Shoes, Kenneth Cole Reaction De-Tour Le Loafers , 7573 , 9490 , 5 , 3.66666666667 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Sneakers , 1674 , 2799 , 5 , 5 , 4 , 5
+Footwear, Men's Shoes, United Colors of Benetton Sneakers , 1793 , 2999 , 5 , 5 , 5 , 5
+Footwear, Men's Shoes, Puma Wirko XC 2 DP Sneakers , 1154 , 2099 , 4 , 5 , 5 , 1
+Footwear, Men's Shoes, Adidas Rokewood Mid Lea Outdoors Shoes , 3249 , 4999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Strike Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lee Cooper Corporate Casuals , 2499 , 2499 , 4 , 0 , 4 , 1
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Hip Hop III Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Breeze V Flip Flops , 1399 , 1399 , 3 , 0 , 4 , 1

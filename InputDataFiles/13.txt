@@ -1,0 +1,76 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Women's Clothing, Women's Ethnicwear, Apka Apna Fashion Embroidered Women's Lehenga Choli , 2199 , 7500 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Ram Fashion Self Design Solid Bollywood Velvet Net B... , 2199 , 2535 , 5 , 2.3 , 3 , 5
+Women's Clothing, Women's Ethnicwear, R V Collection Self Design Bollywood Net Sari , 1999 , 3999 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Kashiba Creation Georgette Embroidered Semi-stitched Sa... , 2199 , 4599 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, TirupatiBalaji Georgette Embroidered Semi-stitched Salw... , 2049 , 5999 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, ZofeyFashion Embriodered Lehenga Saree Georgette Net ... , 2300 , 3999 , 5 , 5 , 4 , 5
+Women's Clothing, Women's Ethnicwear, Fidubi Embroidered Women's Lehenga Choli and Dupatta Set , 1999 , 1999 , 3 , 0 , 1 , 5
+Women's Clothing, Women's Ethnicwear, Mac Enterprise Velvet Embroidered Semi-stitched Gown (U... , 2199 , 6499 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Glitzy Embroidered , 2199 , 8999 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Lolla Fashion Embroidered Women's Lehenga Choli and Du... , 2099 , 5500 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Morpankh Enterprise Self Design Bollywood Net Sari , 2299 , 3500 , 5 , 4.4 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Jkv Velvet Embroidered Semi-stitched Gown (Unstitched) , 1999 , 5999 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Ishin Prints Printed Fashion Crepe Sari (Pack of 7) , 2299 , 2999 , 5 , 3.3 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Kalista Self Design Bollywood Chiffon Georgette Sari , 2395 , 5988 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Fabfiza Velvet Embroidered Semi-stitched Salwar Suit Du... , 3299 , 8999 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Vans Fashion Self Design Women's Lehenga Choli and Dup... , 2349 , 2999 , 5 , 3.1 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Arya Fashion Velvet Embroidered Dress/Top Material (Uns... , 1999 , 25999 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Bhakti Creation Embroidered Women's Lehenga Choli and ... , 2899 , 2999 , 5 , 1.3 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Mahavir Creation Self Design Fashion Satin Net Sari , 3333 , 9299 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Chirag Sarees Self Design Banarasi Art Silk Sari , 2999 , 13632 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Surangi Georgette Self Design Semi-stitched Salwar Suit... , 1999 , 6399 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Mahavir Creation Self Design Fashion Satin Net Sari , 3332 , 9299 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Whatshop Net Embroidered Salwar Suit Dupatta Material (... , 1999 , 4999 , 5 , 5 , 1 , 1
+Women's Clothing, Women's Ethnicwear, Admyrin Georgette Self Design Solid Semi-stitched Salw... , 2599 , 6668 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Prafful Georgette Floral Print Semi-stitched Salwar Sui... , 1999 , 3399 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Mimosa Woven Kanjivaram Handloom Tussar Silk Sari , 1999 , 4256 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Khazanakart Net Embroidered Semi-stitched Salwar Suit D... , 1999 , 6000 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Fashion Fast Georgette Embroidered Semi-stitched Salwar... , 1999 , 2999 , 5 , 4.3 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Stylelok Chiffon Self Design Semi-stitched Salwar Suit ... , 2879 , 8679 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Florence Embroidered Women's Lehenga Choli and Dupatta... , 2500 , 8330 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Raagvi Net Embroidered Semi-stitched Gown (Unstitched) , 1999 , 2499 , 4 , 3.0 , 1 , 1
+Women's Clothing, Women's Ethnicwear, Ishin Printed Fashion Crepe Sari (Pack of 7) , 2299 , 2999 , 5 , 3.3 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Khazanakart Georgette Embroidered Semi-stitched Salwar ... , 2199 , 5999 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Zarasboutique Georgette Embroidered Semi-stitched Salwa... , 2000 , 5999 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Cutie Pie Self Design Women's Lehenga Choli and Dupatt... , 2194 , 4999 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Khazanakart Georgette Embroidered Salwar Suit Dupatta M... , 2099 , 3000 , 5 , 4.0 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Asavari Self Design Banarasi Georgette Art Silk Sari , 2249 , 4599 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Darshanethnics Self Design Fashion Handloom Net Sari , 2499 , 9999 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Ishin Printed Paithani Art Silk Sari , 2499 , 4950 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Vaamsi Cotton Printed Dress/Top Material (Unstitched) , 4200 , 7000 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Chirag Sarees Embriodered Fashion Crepe Sari , 2112 , 9599 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, The Fashion World Georgette Embroidered Semi-stitched S... , 1999 , 4406 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Indian E Fashion Embriodered Lehenga Saree Georgette N... , 1999 , 4999 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Panchi Embroidered Women's Lehenga Choli and Dupatta Set , 2445 , 8999 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Araja Embroidered Women's Lehenga Choli and Dupatta Set , 2690 , 6780 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, AttireMe Brasso Net Self Design Semi-stitched Salwar S... , 1999 , 3618 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Fashion Fast Embroidered Salwar Suit Dupatta Material , 1999 , 2999 , 5 , 4.3 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Wilten Fabrics Self Design Bollywood Georgette Sari , 2852 , 5699 , 5 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Red) , 1099 , 2199 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (White) , 1399 , 2799 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Rosemary Hand-Held Bag (Blue-0040CH) , 499 , 699 , 1 , 3.8 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Purple) , 249 , 600 , 1 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Fantosy Hand-held Bag (Blue) , 399 , 1399 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Rosemary Hand-Held Bag (White with Pink-0034) , 499 , 699 , 1 , 3.8 , 3 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Blue::Pink) , 1299 , 2399 , 4 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Green) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Borse Hand-Held Bag (Purple) , 399 , 1200 , 2 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Borse Shoulder Bag (Brown) , 399 , 1500 , 3 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Multicolor) , 249 , 599 , 1 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Diana Korr Hand-Held Bag (Yellow-9) , 1249 , 3350 , 5 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Diana Korr Hand-Held Bag (Blue-40) , 1249 , 3350 , 5 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Brown) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Fostelo Shoulder Bag (Maroon) , 599 , 1799 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Shoulder Bag (Brown) , 499 , 1800 , 3 , 5 , 0 , 1
+Women's Accessories, Women's Handbags, Sms Hand-Held Bag (Brown) , 525 , 1250 , 2 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, JG Shoppe Hand Bag (Black-980) , 495 , 855 , 2 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-Held Bag (Off White) , 499 , 2800 , 4 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Green) , 249 , 599 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Grey) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Diana Korr Hand-Held Bag (Red-6) , 1249 , 3350 , 5 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Pink) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Shoulder Bag (Purple) , 499 , 1800 , 3 , 5 , 0 , 1
+Women's Accessories, Women's Handbags, Shilpkart Hand-Held Bag (Turquoise) , 289 , 549 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Shoulder Bag (Green) , 1199 , 2399 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Bagsy Malone Hand-Held Bag (Purple Plum 120) , 999 , 1699 , 3 , 5 , 3 , 1

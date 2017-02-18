@@ -1,0 +1,88 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Men's Clothing, Men's Jeans, Ben Carter Slim Fit Men's Jeans , 529 , 1399 , 2 , 5 , 3 , 5
+Men's Clothing, Men's Jeans, Alan Woods Slim Fit Men's Jeans , 529 , 1399 , 2 , 5 , 2 , 5
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 649 , 1999 , 3 , 5 , 4 , 5
+Men's Clothing, Men's Jeans, Axsglow Slim Fit Men's Jeans , 499 , 2499 , 4 , 5 , 5 , 5
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 2 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Lee Regular Fit Fit Men's Jeans , 1299 , 2599 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Men's Jeans , 1599 , 1999 , 3 , 3.0 , 5 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Levi's Men's Jeans , 1679 , 2799 , 5 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, High Star Slim Fit Men's Jeans , 599 , 999 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 699 , 1999 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Uber Urban Regular Fit Men's Jeans , 549 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt , 449 , 950 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Mc-John Men's Solid Formal Shirt , 599 , 2099 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Lee Marc Men's Solid Formal Shirt , 650 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, United Colors of Benetton Men's Solid Casual Shirt , 1379 , 2299 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Shirts, Dazzio Men's Solid Casual Shirt , 1090 , 1470 , 3 , 3.5 , 3 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 570 , 1142 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Lee Mark Men's Solid Casual Shirt , 599 , 1749 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Mc-John Men's Solid Formal Shirt , 599 , 2099 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Zavlin Men's Solid Casual Linen Shirt , 499 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Demokrazy Solid Men's Henley T-Shirt , 350 , 599 , 2 , 5 , 5 , 1
+Men's Clothing, Men's Tshirts, ETC Solid Men's Polo Neck T-Shirt (Pack of 2) , 594 , 849 , 2 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Alan Jones Graphic Print Men's Round Neck T-Shirt (Pack... , 699 , 1598 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Jockey Solid Men's Round Neck T-Shirt , 379 , 379 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Trendmakerz Graphic Print Men's Round Neck T-Shirt , 449 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 0 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt , 279 , 939 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 4) , 949 , 3199 , 5 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, ETC Solid Men's Polo Neck T-Shirt (Pack of 2) , 594 , 849 , 2 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Weardo Solid Men's Polo T-Shirt , 328 , 699 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 5) , 1499 , 4999 , 5 , 5 , 5 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Alan Jones Printed Men's Round Neck T-Shirt , 369 , 799 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Quechua Solid Men's Round Neck T-Shirt , 659 , 1199 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Puma Solid Men's Polo T-Shirt , 419 , 699 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo Neck T-Shirt , 279 , 919 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 5) , 1499 , 4999 , 5 , 5 , 5 , 1
+Men's Clothing, Men's Tshirts, Ajile by Pantaloons Solid Men's Polo Neck T-Shirt , 224 , 499 , 1 , 5 , 5 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 4 , 1
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 999 , 2899 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Espresso Casual 3/4 Sleeve Solid Women's Top , 499 , 799 , 2 , 4.7 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 532 , 799 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 550 , 1400 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Lady Stark Party Full Sleeve Solid Women's Top , 490 , 1790 , 4 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Lynda Casual Cape Sleeve Solid Women's Top , 499 , 999 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Goodwill Impex Casual 3/4 Sleeve Solid Women's Top , 399 , 1150 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Hugo Chavez Women's Solid Casual Denim Shirt , 579 , 1499 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Vaak Casual Sleeveless Striped Women's Top , 499 , 699 , 2 , 3.8 , 3 , 1
+Women's Clothing, Women's Tops, Dede's Casual Roll-up Sleeve Printed Women's Top , 399 , 1099 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Peppermint Casual Short Sleeve Embroidered Women's Top , 399 , 399 , 1 , 0 , 3 , 1
+Women's Clothing, Women's Tops, Golden Couture Casual Festive Formal Party Short Sle... , 499 , 999 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Women's Solid Casual Shirt , 532 , 799 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Women's Printed Casual Shirt , 554 , 999 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Gmi Women's Self Design Casual Shirt , 399 , 799 , 2 , 5 , 1 , 1
+Women's Clothing, Women's Tops, Mayra Casual 3/4 Sleeve Solid Women's Top , 550 , 895 , 2 , 4.8 , 4 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 349 , 799 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Vestire Women's Solid Formal Casual Shirt , 359 , 799 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 516 , 699 , 2 , 3.6 , 3 , 1
+Women's Clothing, Women's Tops, Thegudlook Women's Solid Casual Shirt , 665 , 999 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, Golden Girl Casual Sleeveless Solid Women's Top , 289 , 899 , 2 , 5 , 5 , 1
+Women's Clothing, Women's Tops, U&F Casual 3/4 Sleeve Solid Women's Top , 439 , 999 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 349 , 799 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Dede's Casual Short Sleeve Solid Women's Top , 399 , 1199 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Peppermint Casual Sleeveless Printed Women's Top , 319 , 319 , 1 , 0 , 3 , 1
+Women's Clothing, Women's Tops, Peppermint Formal Sleeveless Floral Print Women's Top , 319 , 319 , 1 , 0 , 4 , 1
+Women's Clothing, Women's Tops, Hugo Chavez Casual Short Sleeve Solid Women's Top , 487 , 1575 , 4 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 269 , 499 , 1 , 5 , 2 , 1
+Men's Accessories, Men's Belts, SkyWays Men Evening/Party Casual Blue Genuine Leather Belt Blue-02 , 180 , 399 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Formal Brown Artificial Leather Belt BRN-03 , 131 , 349 , 1 , 5 , 2 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Brown Artificial Leather Belt Brown , 149 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Blimey Men Semi-formal Brown Genuine Leather Belt SolidBrown-07 , 249 , 1099 , 2 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Belt BLBW34 , 299 , 750 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Brown Genuine Leather Belt Black-01 , 356 , 949 , 2 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Genuine Leather Belt Black-01 , 356 , 949 , 2 , 5 , 0 , 1
+Men's Accessories, Men's Belts, WildHorn Men Formal Black Genuine Leather Belt Black , 589 , 4999 , 5 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Belt BLBW33 , 299 , 750 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Formal Brown Artificial Leather Belt BRN-02 , 225 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, OTLS Boys Girls Casual Blue Canvas Belt Deep Navy , 149 , 334 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Black Genuine Leather Reversible Belt Black Brown , 299 , 450 , 1 , 4.3 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Artificial Leather Belt BLK-02 , 180 , 399 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Reversible Belt BLBW08 , 299 , 750 , 1 , 5 , 4 , 1

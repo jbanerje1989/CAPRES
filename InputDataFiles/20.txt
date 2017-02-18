@@ -1,0 +1,148 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Dolphin Miles Stylish Medium Wedges , 315 , 525 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Reebok Quick Lite Lp Running Shoes , 1833 , 3299 , 5 , 5 , 5 , 1
+Footwear, Women's Shoes, Aadolf Flats , 199 , 300 , 1 , 4.3 , 4 , 1
+Footwear, Women's Shoes, Kanchan Motion Wedges , 399 , 499 , 1 , 3.0 , 4 , 1
+Footwear, Women's Shoes, Pure Flats , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Shezone Flats , 449 , 499 , 1 , 2.0 , 4 , 1
+Footwear, Women's Shoes, Puma Sneakers , 1374 , 2499 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Nike Chroma Thong 3 Flip Flops , 599 , 999 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Pure- Welcome 26HF Flats , 299 , 499 , 1 , 5 , 5 , 1
+Footwear, Women's Shoes, Do Bhai Cutwork Bellies , 470 , 499 , 1 , 1.5 , 4 , 1
+Footwear, Women's Shoes, Myra Pair Of Embroidered Slip On Flats , 299 , 799 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Soft & Sleek Wedges , 499 , 2199 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Reebok Gradient Flip Iii Lp Slippers , 499 , 899 , 2 , 5 , 0 , 1
+Footwear, Women's Shoes, Puma Running Shoes , 1649 , 2999 , 4 , 5 , 5 , 1
+Footwear, Women's Shoes, Viger 204/L/Red Slippers , 98 , 999 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Forever Footwear Flats , 299 , 799 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Wedges , 499 , 499 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Aadolf Flats , 119 , 599 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Paduki Ethnic Bellies , 249 , 599 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Reebok Speed Diva Smooth Lp Running Shoes , 1666 , 2999 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Shezone Flats , 449 , 499 , 1 , 2.0 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 349 , 499 , 1 , 4.0 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Lycra Belly Heels , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Puma Lucie Wn S Slippers , 777 , 1399 , 3 , 5 , 0 , 1
+Footwear, Women's Shoes, Hannah Traders Heels , 499 , 700 , 2 , 3.8 , 4 , 1
+Footwear, Women's Shoes, Ridhi Sidhi Ethnic Hand Embroidered 'N' Brocade Slipper... , 249 , 799 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, American Cult Flats , 399 , 998 , 2 , 5 , 2 , 1
+Footwear, Women's Shoes, Dolphin Miles Low Heeled Sandal Heels , 335 , 395 , 1 , 2.5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Wedges , 349 , 599 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Anupamaa Pinky Bellies , 499 , 1299 , 3 , 5 , 4 , 1
+Footwear, Women's Shoes, Puma Flora Flip Flops , 499 , 899 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Reebok Nc Plimsole Summer Lp Sneakers , 1999 , 3599 , 5 , 5 , 1 , 1
+Footwear, Women's Shoes, Dolphin Miles Stylish Wedges , 299 , 475 , 1 , 4.7 , 4 , 1
+Footwear, Women's Shoes, Adorn Heels , 499 , 1199 , 3 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai W017-MOUSE Flats , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Wedges , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Pure- Welcome Flats , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Newfeel Many Walking Shoes (By Decathlon) , 589 , 649 , 2 , 1.9 , 4 , 1
+Footwear, Women's Shoes, Lancer Blue Canvas Shoes , 399 , 399 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 149 , 149 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Ridhi Sidhi Gorgeous Hand Embroidered Red Colored Flats , 349 , 799 , 2 , 5 , 4 , 1
+Footwear, Men's Shoes, Fila Run It Running Shoes , 1666 , 2499 , 4 , 5 , 5 , 1
+Footwear, Men's Shoes, Sparx Sneakers , 1014 , 1249 , 3 , 3.4 , 3 , 1
+Footwear, Men's Shoes, Puma Axis IV XT DP Running Shoes , 1949 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Puma Drongos DP Mid Ankle Sneakers , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Unlimited Mid DP Mid Ankle Sneakers , 3249 , 4999 , 5 , 5 , 0 , 1
+Footwear, Men's Shoes, Puma Pluto DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Wirko XC 2 DP Sneakers , 1154 , 2099 , 4 , 5 , 5 , 1
+Footwear, Men's Shoes, Adidas Rokewood Mid Lea Outdoors Shoes , 3249 , 4999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Strike Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lee Cooper Corporate Casuals , 2499 , 2499 , 4 , 0 , 4 , 1
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Hip Hop III Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Breeze V Flip Flops , 1399 , 1399 , 3 , 0 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 3 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Sparx Sandals , 1275 , 1275 , 3 , 0 , 4 , 1
+Footwear, Men's Shoes, Clarks Reeder Place Corporate Casuals , 3486 , 6999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Fila Trekking Outdoor Shoes , 1999 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Sparx Sandals , 1218 , 1499 , 3 , 3.4 , 4 , 1
+Footwear, Men's Shoes, Adidas Adizero Feather Prime M Running Shoes , 6599 , 11999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Puma Hip Hop Iii Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Lee Cooper Loafers , 2999 , 2999 , 4 , 0 , 5 , 1
+Footwear, Men's Shoes, Adidas Aerobot Indoor Shoes , 3799 , 3799 , 4 , 0 , 3 , 1
+Footwear, Men's Shoes, Adidas Aerobot Indoor Shoes , 3799 , 3799 , 4 , 0 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 1494 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Skech-Flex Training & Gym Shoes , 2999 , 4999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Puma Lazy Slip On DP Sneakers , 2499 , 2499 , 4 , 0 , 5 , 1
+Footwear, Men's Shoes, Puma Atom Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 3 , 1
+Footwear, Men's Shoes, Fila Runaway II Running Shoes , 1533 , 2299 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 3 , 1
+Footwear, Men's Shoes, Puma Ceylon II DP Running Shoes , 2199 , 3999 , 4 , 5 , 5 , 1
+Footwear, Men's Shoes, Puma 917 Mid 2.0 Ind. Sneakers , 1484 , 2699 , 4 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 2 , 5
+Men's Accessories, Men's Belts, WildHide Men Formal Black Genuine Leather Belt Black , 349 , 2999 , 5 , 5 , 4 , 5
+Men's Accessories, Men's Belts, SkyWays Men Evening/Party Casual Black Genuine Leather Belt BLK-02 , 150 , 399 , 1 , 5 , 3 , 5
+Men's Accessories, Men's Belts, OTLS Men Women Casual Black Canvas Belt Black , 149 , 334 , 1 , 5 , 3 , 5
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Artificial Leather Belt BLK-03 , 131 , 349 , 1 , 5 , 2 , 5
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 2 , 5
+Men's Accessories, Men's Belts, SkyWays Men Casual Formal Black Artificial Leather Belt BLK-01 , 131 , 349 , 1 , 5 , 3 , 5
+Men's Accessories, Men's Belts, Allura Men Evening/Party Casual Semi-formal Brown Genuine Leather Belt Brown , 249 , 799 , 1 , 5 , 4 , 5
+Men's Accessories, Men's Belts, Swastika Men Casual Brown Genuine Leather Belt Brown 022 , 499 , 999 , 2 , 5 , 4 , 5
+Men's Accessories, Men's Belts, OTLS Men Women Casual Black Red Canvas Belt Blue, Red , 169 , 379 , 1 , 5 , 4 , 5
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 249 , 999 , 2 , 5 , 3 , 5
+Men's Accessories, Men's Belts, OTLS Men Women Casual Green Canvas Belt Olive , 149 , 333 , 1 , 5 , 3 , 5
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Blue Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Red Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Black Brown Artificial Leather Belt Black Brown , 281 , 749 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Casual Brown Genuine Leather Belt Brown , 345 , 745 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Brown Artificial Leather Belt BRN-01 , 131 , 349 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Evening/Party Casual White Genuine Leather Belt White-02 , 180 , 399 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Black Brown Artificial Leather Belt Black Brown , 243 , 649 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Brown Artificial Leather Belt Brown , 315 , 745 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Brown Artificial Leather Belt BRN-01 , 157 , 349 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Reversible Belt BLBW27 , 299 , 750 , 1 , 5 , 3 , 1
+Footwear, Women's Shoes, Tresmode Bewedged Wedges , 1345 , 2700 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Carlton London Heels , 1990 , 3995 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Van Heusen Bellies , 1073 , 1795 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Lavie Wedges , 1425 , 2595 , 5 , 5 , 5 , 5
+Footwear, Women's Shoes, DONE BY NONE Missing That Holiday Beat Wedges , 1317 , 2399 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Lavie Heels , 719 , 1199 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Van Heusen Wedges , 1492 , 2495 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Superdry Glitter Flip Flops , 1588 , 1990 , 5 , 3.0 , 0 , 5
+Footwear, Women's Shoes, Tresmode Bellies , 1494 , 3000 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Lavie Heels , 779 , 1299 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Carlton London Heels , 1370 , 2495 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Solovoga Mebowed Bellies , 1096 , 2200 , 5 , 5 , 1 , 5
+Footwear, Women's Shoes, Solovoga Tianstrap Flats , 996 , 2000 , 5 , 5 , 3 , 5
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Brown) , 249 , 600 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Rosemary Hand-Held Bag (Blue) , 499 , 699 , 1 , 3.8 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Black) , 1299 , 2399 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Fantosy Shoulder Bag (Blue) , 449 , 1799 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Brown) , 249 , 600 , 1 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Red) , 1099 , 2199 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (White) , 1399 , 2799 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Rosemary Hand-Held Bag (Blue-0040CH) , 499 , 699 , 1 , 3.8 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Purple) , 249 , 600 , 1 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Fantosy Hand-held Bag (Blue) , 399 , 1399 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Rosemary Hand-Held Bag (White with Pink-0034) , 499 , 699 , 1 , 3.8 , 3 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Blue::Pink) , 1299 , 2399 , 4 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Green) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Borse Hand-Held Bag (Purple) , 399 , 1200 , 2 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Borse Shoulder Bag (Brown) , 399 , 1500 , 3 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Multicolor) , 249 , 599 , 1 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Diana Korr Hand-Held Bag (Yellow-9) , 1249 , 3350 , 5 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Diana Korr Hand-Held Bag (Blue-40) , 1249 , 3350 , 5 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Brown) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Fostelo Shoulder Bag (Maroon) , 599 , 1799 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Shoulder Bag (Brown) , 499 , 1800 , 3 , 5 , 0 , 1
+Women's Accessories, Women's Handbags, Sms Hand-Held Bag (Brown) , 525 , 1250 , 2 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, JG Shoppe Hand Bag (Black-980) , 495 , 855 , 2 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-Held Bag (Off White) , 499 , 2800 , 4 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Green) , 249 , 599 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Grey) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Diana Korr Hand-Held Bag (Red-6) , 1249 , 3350 , 5 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Pink) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Shoulder Bag (Purple) , 499 , 1800 , 3 , 5 , 0 , 1
+Women's Accessories, Women's Handbags, Shilpkart Hand-Held Bag (Turquoise) , 289 , 549 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Shoulder Bag (Green) , 1199 , 2399 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Bagsy Malone Hand-Held Bag (Purple Plum 120) , 999 , 1699 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Green) , 249 , 600 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, JG Shoppe Hand Bag (Red-236) , 495 , 855 , 2 , 5 , 4 , 1

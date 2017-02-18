@@ -1,0 +1,76 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Women's Clothing, Women's Ethnicwear, ZofeyFashion Embriodered Lehenga Saree Georgette Net ... , 2300 , 4000 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Neelu Embroidered Women's Lehenga Choli and Dupatta Set , 2199 , 4999 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Monika Silk Mill Georgette Embroidered Self Design Sem... , 1999 , 4599 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Mimosa Woven Kanjivaram Handloom Art Silk Sari , 1999 , 4256 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Mimosa Woven Kanjivaram Handloom Art Silk Sari , 1999 , 4256 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Aesha Embriodered Fashion Georgette Sari , 3325 , 6650 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Chirag Sarees Self Design Solid Fashion Georgette Sari , 4593 , 20877 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Santana Fashion Self Design Fashion Georgette Sari , 2799 , 9999 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Ruddhi Net Printed Semi-stitched Salwar Suit Dupatta Ma... , 6830 , 17195 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, ZofeyFashion Embriodered Lehenga Saree Georgette Net ... , 2400 , 4000 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Glitzy Embroidered , 2199 , 8999 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Lolla Fashion Embroidered Women's Lehenga Choli and Du... , 2099 , 5500 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Morpankh Enterprise Self Design Bollywood Net Sari , 2299 , 3500 , 5 , 4.4 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Jkv Velvet Embroidered Semi-stitched Gown (Unstitched) , 1999 , 5999 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Ishin Prints Printed Fashion Crepe Sari (Pack of 7) , 2299 , 2999 , 5 , 3.3 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Kalista Self Design Bollywood Chiffon Georgette Sari , 2395 , 5988 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Fabfiza Velvet Embroidered Semi-stitched Salwar Suit Du... , 3299 , 8999 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Vans Fashion Self Design Women's Lehenga Choli and Dup... , 2349 , 2999 , 5 , 3.1 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Arya Fashion Velvet Embroidered Dress/Top Material (Uns... , 1999 , 25999 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Bhakti Creation Embroidered Women's Lehenga Choli and ... , 2899 , 2999 , 5 , 1.3 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Mahavir Creation Self Design Fashion Satin Net Sari , 3333 , 9299 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Chirag Sarees Self Design Banarasi Art Silk Sari , 2999 , 13632 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Surangi Georgette Self Design Semi-stitched Salwar Suit... , 1999 , 6399 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Mahavir Creation Self Design Fashion Satin Net Sari , 3332 , 9299 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Whatshop Net Embroidered Salwar Suit Dupatta Material (... , 1999 , 4999 , 5 , 5 , 1 , 1
+Women's Clothing, Women's Ethnicwear, Admyrin Georgette Self Design Solid Semi-stitched Salw... , 2599 , 6668 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Prafful Georgette Floral Print Semi-stitched Salwar Sui... , 1999 , 3399 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Mimosa Woven Kanjivaram Handloom Tussar Silk Sari , 1999 , 4256 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Khazanakart Net Embroidered Semi-stitched Salwar Suit D... , 1999 , 6000 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Fashion Fast Georgette Embroidered Semi-stitched Salwar... , 1999 , 2999 , 5 , 4.3 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Stylelok Chiffon Self Design Semi-stitched Salwar Suit ... , 2879 , 8679 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Florence Embroidered Women's Lehenga Choli and Dupatta... , 2500 , 8330 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Raagvi Net Embroidered Semi-stitched Gown (Unstitched) , 1999 , 2499 , 4 , 3.0 , 1 , 1
+Women's Clothing, Women's Ethnicwear, Ishin Printed Fashion Crepe Sari (Pack of 7) , 2299 , 2999 , 5 , 3.3 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Khazanakart Georgette Embroidered Semi-stitched Salwar ... , 2199 , 5999 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Zarasboutique Georgette Embroidered Semi-stitched Salwa... , 2000 , 5999 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Mahavir Creation Self Design Fashion Satin Net Sari , 3333 , 9299 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Asavari Self Design Banarasi Cotton Organza Sari , 2049 , 3799 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Prafful Georgette Floral Print Salwar Suit Dupatta Mate... , 2039 , 4199 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Mimosa Woven Kanjivaram Handloom Tussar Silk Sari , 1999 , 4256 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Fabfiza Net Embroidered Semi-stitched Salwar Suit Dupat... , 1999 , 4599 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Bhakti Creation Embroidered Women's Lehenga Choli , 2899 , 3699 , 5 , 3.1 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Adah Fashions Georgette Embroidered Salwar Suit Dupatta... , 2679 , 8979 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Fashion Fast Self Design Semi-stitched Salwar Suit Dupa... , 2199 , 3499 , 5 , 4.7 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Nairiti Fashions Embellished Fashion Velvet Net Sari , 4999 , 9499 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Glitzy Embroidered , 2299 , 8999 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Aarna's Collection Embroidered Women's Ghagra Choli D... , 2649 , 8750 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Stylefunia Net Embroidered Semi-stitched Salwar Suit Du... , 1999 , 3999 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, S J Trendz Embroidered Women's Lehenga Choli and Dupat... , 1999 , 2570 , 5 , 3.2 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Hi-Fashion Solid Fashion Net Sari , 2949 , 3599 , 5 , 2.8 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Cutie Pie Self Design Women's Lehenga Choli and Dupatt... , 2194 , 4999 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Khazanakart Georgette Embroidered Salwar Suit Dupatta M... , 2099 , 3000 , 5 , 4.0 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Asavari Self Design Banarasi Georgette Art Silk Sari , 2249 , 4599 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Darshanethnics Self Design Fashion Handloom Net Sari , 2499 , 9999 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Ishin Printed Paithani Art Silk Sari , 2499 , 4950 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Vaamsi Cotton Printed Dress/Top Material (Unstitched) , 4200 , 7000 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Chirag Sarees Embriodered Fashion Crepe Sari , 2112 , 9599 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, The Fashion World Georgette Embroidered Semi-stitched S... , 1999 , 4406 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Indian E Fashion Embriodered Lehenga Saree Georgette N... , 1999 , 4999 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Panchi Embroidered Women's Lehenga Choli and Dupatta Set , 2445 , 8999 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Araja Embroidered Women's Lehenga Choli and Dupatta Set , 2690 , 6780 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, AttireMe Brasso Net Self Design Semi-stitched Salwar S... , 1999 , 3618 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Fashion Fast Embroidered Salwar Suit Dupatta Material , 1999 , 2999 , 5 , 4.3 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Wilten Fabrics Self Design Bollywood Georgette Sari , 2852 , 5699 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Fashion4masti Embroidered Anarkali , 1999 , 4699 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Chirag Sarees Embriodered Fashion Crepe Sari , 3999 , 18177 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, V And V Shop Georgette Embroidered Semi-stitched Salwar... , 1999 , 9000 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Looks & Likes Georgette Embroidered Semi-stitched Salwa... , 4001 , 8050 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Pavechas Self Design Kanjivaram Art Silk Sari , 1999 , 4599 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Ambaji Floral Print Polka Print Daily Wear Georgette S... , 1999 , 5795 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Bride Lara Dutta Georgette Self Design Semi-stitched Sa... , 1999 , 4999 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Pavechas Printed Kanjivaram Art Silk Sari , 1999 , 4499 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Aasri Printed Bhagalpuri Art Silk Net Sari , 2699 , 4200 , 5 , 4.5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Apka Apna Fashion Embroidered Women's Lehenga Choli an... , 2599 , 7000 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Designersareez Self Design Fashion Georgette Sari , 1999 , 4458 , 5 , 5 , 4 , 1

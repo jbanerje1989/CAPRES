@@ -1,0 +1,260 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Women's Clothing, Women's Ethnicwear, Pavechas Self Design Kanjivaram Art Silk Sari , 1999 , 4599 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Ambaji Floral Print Polka Print Daily Wear Georgette S... , 1999 , 5795 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Bride Lara Dutta Georgette Self Design Semi-stitched Sa... , 1999 , 4999 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Pavechas Printed Kanjivaram Art Silk Sari , 1999 , 4499 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Aasri Printed Bhagalpuri Art Silk Net Sari , 2699 , 4200 , 5 , 4.5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Apka Apna Fashion Embroidered Women's Lehenga Choli an... , 2599 , 7000 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Designersareez Self Design Fashion Georgette Sari , 1999 , 4458 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Mac Enterprise Velvet Embroidered Semi-stitched Gown (U... , 2199 , 6499 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Chhavi Fashion Net Embroidered Salwar Suit Dupatta Mate... , 2099 , 7999 , 5 , 5 , 5 , 5
+Women's Clothing, Women's Ethnicwear, Hari Krishna Enterprise Embroidered Women's Lehenga Choli , 1999 , 10099 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Anarkali Devagya Georgette Embroidered Semi-stitched Sa... , 2299 , 5500 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Sj Trendz Self Design Fashion Velvet Brasso Net Art ... , 2099 , 3999 , 5 , 5 , 2 , 5
+Women's Clothing, Women's Ethnicwear, Shree Creation Net Georgette Embroidered Dress/Top Mat... , 1999 , 3899 , 5 , 5 , 1 , 5
+Women's Clothing, Women's Ethnicwear, Kamani Garment Embroidered Women's Lehenga Choli , 2000 , 2999 , 5 , 4.3 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Welcreation Embroidered Women's Lehenga Choli and Dupa... , 2000 , 5700 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Ishin Designer Studio Printed Fashion Georgette Sari (P... , 2299 , 3999 , 5 , 5 , 4 , 5
+Women's Clothing, Women's Ethnicwear, Krishna Emporia Velvet Embroidered Semi-stitched Gown (... , 2059 , 2990 , 5 , 4.1 , 1 , 5
+Women's Clothing, Women's Ethnicwear, Jkv Velvet Embroidered Semi-stitched Gown (Unstitched) , 1999 , 5599 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Ethnicwear, Shreeji Fashion Georgette Embroidered Salwar Suit Dupat... , 1999 , 3999 , 5 , 5 , 1 , 5
+Women's Clothing, Women's Ethnicwear, Hari Krishna Enterprise Embroidered Women's Lehenga Choli , 1999 , 9555 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Ethnicwear, Khazanakart Georgette Embroidered Salwar Suit Dupatta M... , 2099 , 3000 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Ruddhi Self Design Fashion Georgette Sari , 2201 , 7978 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Bhavi Self Design Fashion Chiffon Sari , 2049 , 5999 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Kashiba Creation Georgette Embroidered Semi-stitched Sa... , 1999 , 2499 , 4 , 3.0 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Kamela Saree Embroidered Women's Lehenga Choli and Dup... , 2999 , 3999 , 5 , 3.5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, ZofeyFashion Embriodered Lehenga Saree Georgette Net ... , 2300 , 4000 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Neelu Embroidered Women's Lehenga Choli and Dupatta Set , 2199 , 4999 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Monika Silk Mill Georgette Embroidered Self Design Sem... , 1999 , 4599 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Mimosa Woven Kanjivaram Handloom Art Silk Sari , 1999 , 4256 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Mimosa Woven Kanjivaram Handloom Art Silk Sari , 1999 , 4256 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Aesha Embriodered Fashion Georgette Sari , 3325 , 6650 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Chirag Sarees Self Design Solid Fashion Georgette Sari , 4593 , 20877 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Santana Fashion Self Design Fashion Georgette Sari , 2799 , 9999 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Ruddhi Net Printed Semi-stitched Salwar Suit Dupatta Ma... , 6830 , 17195 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, ZofeyFashion Embriodered Lehenga Saree Georgette Net ... , 2400 , 4000 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Glitzy Embroidered , 2199 , 8999 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Lolla Fashion Embroidered Women's Lehenga Choli and Du... , 2099 , 5500 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Morpankh Enterprise Self Design Bollywood Net Sari , 2299 , 3500 , 5 , 4.4 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Jkv Velvet Embroidered Semi-stitched Gown (Unstitched) , 1999 , 5999 , 5 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Pink) , 999 , 1999 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Black) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Rosemary Hand-Held Bag (White) , 499 , 599 , 1 , 2.6 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Brown) , 1199 , 2199 , 4 , 5 , 0 , 1
+Women's Accessories, Women's Handbags, Butterflies Shoulder Bag (Red) , 1099 , 2199 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Multicolor) , 249 , 599 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Meridian Shoulder Bag (Beige) , 599 , 1199 , 2 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, RRTC Hand-Held Bag (Tan) , 1245 , 1995 , 3 , 4.7 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Red) , 1299 , 2399 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Fastrack Shoulder Bag (Black) , 760 , 885 , 2 , 2.4 , 4 , 1
+Women's Accessories, Women's Handbags, Borse Hand-Held Bag (Black) , 399 , 1200 , 2 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Fantosy Shoulder Bag (Black) , 449 , 1799 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Butterflies Shoulder Bag (Blue) , 1499 , 2899 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Alessia Hand-held Bag (Black) , 527 , 999 , 2 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Beige) , 1399 , 2599 , 4 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Fostelo Shoulder Bag (Black) , 599 , 1799 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Pink) , 1399 , 2599 , 4 , 5 , 2 , 1
+Women's Accessories, Women's Handbags, Butterflies Shoulder Bag (Beige) , 1599 , 3099 , 5 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Green) , 249 , 600 , 1 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Fantosy Hand-held Bag (Purple) , 399 , 1399 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Butterflies Shoulder Bag (Red) , 1199 , 2199 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Rastogi Handicrafts Shoulder Bag (Multicolor 2) , 299 , 799 , 2 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Red) , 249 , 600 , 1 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Brown) , 999 , 1999 , 3 , 5 , 1 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Brown) , 225 , 600 , 1 , 5 , 0 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Black) , 1399 , 2599 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Brown) , 1199 , 2399 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Beige) , 1099 , 2199 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Red) , 275 , 600 , 1 , 5 , 3 , 1
+Footwear, Women's Shoes, Lavie Heels , 779 , 1299 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Carlton London Heels , 1370 , 2495 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Solovoga Mebowed Bellies , 1096 , 2200 , 5 , 5 , 1 , 5
+Footwear, Women's Shoes, Solovoga Tianstrap Flats , 996 , 2000 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Lavie Flats , 659 , 1099 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Lavie Bellies , 659 , 1099 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Superdry Lifestyle Shoes , 6775 , 8490 , 5 , 3.0 , 0 , 1
+Footwear, Women's Shoes, Kenneth Cole Reaction Flats , 3583 , 4490 , 5 , 3.0 , 0 , 1
+Footwear, Women's Shoes, Carlton London Lifestyle Shoes , 2193 , 3995 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Superdry Californi Flip Flops , 1588 , 1990 , 5 , 3.0 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 5 , 1
+Footwear, Women's Shoes, Carlton London Flats , 1497 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Wedges , 1492 , 2995 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Flats , 1243 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Loafers , 1243 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Van Heusen Heels , 1492 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Flats , 658 , 1199 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Solester Kate Green Bellies , 449 , 999 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Tops, Lynda Casual 3/4 Sleeve Floral Print Women's Top , 699 , 999 , 2 , 4.0 , 4 , 1
+Women's Clothing, Women's Tops, Hugo Chavez Casual Sleeveless Solid Women's Top , 497 , 1199 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Addyvero Floral Print Women's Tunic , 647 , 1299 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Mayra Party 3/4 Sleeve Solid Women's Top , 549 , 895 , 2 , 4.8 , 2 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Casual 3/4 Sleeve Solid Women's Top , 349 , 899 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Athena Casual Short Sleeve Printed Women's Top , 898 , 2499 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Leelan Casual Short Sleeve Geometric Print Women's Top , 299 , 700 , 2 , 5 , 5 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 1 , 1
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 550 , 1499 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Cult Fiction Solid Women's Round Neck T-Shirt , 599 , 599 , 2 , 0 , 4 , 1
+Women's Clothing, Women's Tops, U&F Casual 3/4 Sleeve Solid Women's Top , 439 , 999 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Kasturi Casual Full Sleeve Solid Women's Top , 499 , 1999 , 4 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Kasturi Casual Full Sleeve Solid Women's Top , 499 , 1699 , 4 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Bedazzle Casual 3/4 Sleeve Graphic Print Women's Top , 399 , 1200 , 3 , 5 , 2 , 1
+Women's Clothing, Women's Tops, Bedazzle Casual 3/4 Sleeve Printed Women's Top , 399 , 1200 , 3 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Kashana Fashions Casual 3/4 Sleeve Floral Print Women's... , 399 , 1499 , 3 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 516 , 699 , 2 , 3.6 , 3 , 1
+Women's Clothing, Women's Tops, U&F Casual 3/4 Sleeve Solid Women's Top , 499 , 1349 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Vvoguish Casual 3/4 Sleeve Printed Women's Top , 443 , 699 , 2 , 4.6 , 1 , 1
+Women's Clothing, Women's Tops, Protext Women's Solid Casual Shirt , 599 , 1499 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 419 , 699 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 532 , 799 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, India Inc Casual Cape Sleeve Printed Women's Top , 249 , 1099 , 3 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Kasturi Women's Solid Casual Denim Shirt , 699 , 2399 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Tops, So Sweety Printed Women's Round Neck T-Shirt (Pack of 4) , 499 , 999 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 5 , 1
+Women's Clothing, Women's Tops, So Sweety Printed Women's Round Neck T-Shirt (Pack of 4) , 499 , 999 , 2 , 5 , 5 , 1
+Women's Clothing, Women's Tops, Golden Couture Casual Party Festive Formal Full Slee... , 499 , 999 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Trend18 Casual 3/4 Sleeve Printed Women's Top , 492 , 799 , 2 , 4.8 , 4 , 1
+Women's Clothing, Women's Tops, Neburu Women's Solid Casual Shirt , 649 , 1399 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 4 , 1
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 999 , 2899 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Espresso Casual 3/4 Sleeve Solid Women's Top , 499 , 799 , 2 , 4.7 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 532 , 799 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 550 , 1400 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Lady Stark Party Full Sleeve Solid Women's Top , 490 , 1790 , 4 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Lynda Casual Cape Sleeve Solid Women's Top , 499 , 999 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Goodwill Impex Casual 3/4 Sleeve Solid Women's Top , 399 , 1150 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Hugo Chavez Women's Solid Casual Denim Shirt , 579 , 1499 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Vaak Casual Sleeveless Striped Women's Top , 499 , 699 , 2 , 3.8 , 3 , 1
+Women's Clothing, Women's Tops, Dede's Casual Roll-up Sleeve Printed Women's Top , 399 , 1099 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Peppermint Casual Short Sleeve Embroidered Women's Top , 399 , 399 , 1 , 0 , 3 , 1
+Women's Clothing, Women's Tops, Golden Couture Casual Festive Formal Party Short Sle... , 499 , 999 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Women's Solid Casual Shirt , 532 , 799 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, Gas Slim Fit Women's Jeans , 4194 , 6990 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, Wrangler Sleeveless Solid Women's Jacket , 1347 , 2695 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, GANT Women's Gathered Dress , 5998 , 11999 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, GANT Cropped Narrow Leg Fit Women's Jeans , 3998 , 7999 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, GANT Narrow Fit Fit Women's Jeans , 3998 , 7999 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, French Connection Women's Gathered Dress , 3936 , 6999 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, Wrangler Full Sleeve Solid Women's Jacket , 2446 , 3495 , 5 , 4.0 , 0 , 5
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Self Design Women's Top , 1017 , 1695 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, Wrangler Skinny Fit Fit Women's Jeans , 1397 , 2795 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Self Design Women's Top , 1606 , 2295 , 5 , 4.0 , 0 , 5
+Women's Clothing, Women's Tops, Vero Moda Solid Women's Gathered Skirt , 847 , 1695 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, Gas Women's Jeans , 4794 , 7990 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, Vero Moda Casual Sleeveless Printed Women's Top , 1046 , 1495 , 5 , 4.0 , 0 , 5
+Women's Clothing, Women's Tops, Vero Moda Slim Fit Women's Trousers , 1247 , 2495 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, Vero Moda Solid Women's Peplum Skirt , 1627 , 2895 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, Wrangler Slim Fit Women's Trousers , 1836 , 2295 , 5 , 3.0 , 5 , 5
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Self Design Women's Top , 777 , 1295 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, Gas Skinny Fit Fit Women's Jeans , 4194 , 6990 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, Gas Printed Women's V-neck T-Shirt , 2094 , 3490 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, Wrangler Skinny Fit Women's Trousers , 1836 , 2295 , 5 , 3.0 , 2 , 5
+Women's Clothing, Women's Tops, Gas Full Sleeve Solid Women's Denim Jacket , 7990 , 7990 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Wrangler Women's Printed Casual Top , 887 , 1395 , 5 , 4.6 , 4 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Women's Checkered Formal Shirt , 448 , 799 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Biba Printed Women's Tunic , 1999 , 1999 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Self Design Women's Top , 777 , 1295 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Biba Regular Fit Women's Trousers , 719 , 1199 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Biba Printed Women's Tunic , 1399 , 1399 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Striped Women's Top , 1197 , 1995 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Casual Short Sleeve Floral Print ... , 448 , 799 , 5 , 5 , 3 , 1
+Footwear, Women's Shoes, Dolphin Miles Stylish Wedges , 299 , 475 , 1 , 4.7 , 4 , 1
+Footwear, Women's Shoes, Adorn Heels , 499 , 1199 , 3 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai W017-MOUSE Flats , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Wedges , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Pure- Welcome Flats , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Newfeel Many Walking Shoes (By Decathlon) , 589 , 649 , 2 , 1.9 , 4 , 1
+Footwear, Women's Shoes, Lancer Blue Canvas Shoes , 399 , 399 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 149 , 149 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Ridhi Sidhi Gorgeous Hand Embroidered Red Colored Flats , 349 , 799 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt (Pack of 2) , 799 , 1267 , 3 , 4.6 , 4 , 5
+Men's Clothing, Men's Shirts, Venga Men's Solid Casual Shirt , 285 , 325 , 1 , 2.2 , 2 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 549 , 1299 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt (Pack of 2) , 799 , 1690 , 4 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 899 , 2 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt (Pack of 3) , 1199 , 1665 , 4 , 3.7 , 3 , 5
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt , 449 , 1099 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt , 449 , 1099 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Koolpals Men's Solid Formal Shirt , 349 , 800 , 2 , 5 , 2 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 549 , 1299 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 899 , 2 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 1469 , 3 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt (Pack of 3) , 1199 , 2199 , 4 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Lee Marc Men's Solid Formal Shirt , 650 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Striped Formal Shirt , 349 , 800 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 549 , 1039 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt , 449 , 950 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 1469 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 899 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Being Fab Men's Solid Casual Shirt , 429 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 977 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Denim Shirt , 885 , 1771 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt , 449 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Being Fab Men's Solid Casual Shirt , 429 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, HRX Men's Solid Casual Shirt , 749 , 1499 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 549 , 1039 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Solid Formal Shirt , 349 , 800 , 2 , 5 , 1 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Solid Formal Shirt , 349 , 780 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 685 , 1367 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Solid Formal Shirt , 359 , 780 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Lee Mark Men's Solid Casual Shirt , 599 , 1749 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Shirts, Playfox Men's Solid Casual, Party, Formal Shirt , 689 , 1995 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, HRX Men's Solid Casual Shirt , 749 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Striped Formal Shirt , 349 , 800 , 2 , 5 , 1 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Striped Formal Shirt , 349 , 800 , 2 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, I-Voc Men's Solid Casual Shirt , 599 , 1399 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Denim Shirt , 699 , 1302 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 977 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Yuva Men's Solid Formal Shirt , 499 , 1299 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 570 , 1142 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Yuva Men's Solid Formal Shirt , 499 , 600 , 2 , 2.6 , 3 , 1
+Men's Clothing, Men's Shirts, Global Nomad Men's Solid Casual Shirt , 699 , 999 , 2 , 4.0 , 4 , 1
+Men's Clothing, Men's Shirts, Protext Men's Solid Formal Shirt , 598 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Striped Formal Shirt , 349 , 800 , 2 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Being Fab Men's Solid Casual Shirt , 329 , 1099 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, United Colors of Benetton Men's Solid Casual Shirt , 1259 , 2099 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 949 , 1899 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Ivoc Men's Solid Formal Shirt , 299 , 899 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt , 449 , 950 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Mc-John Men's Solid Formal Shirt , 599 , 2099 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Lee Marc Men's Solid Formal Shirt , 650 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, United Colors of Benetton Men's Solid Casual Shirt , 1379 , 2299 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Shirts, Dazzio Men's Solid Casual Shirt , 1090 , 1470 , 3 , 3.5 , 3 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 570 , 1142 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Lee Mark Men's Solid Casual Shirt , 599 , 1749 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Mc-John Men's Solid Formal Shirt , 599 , 2099 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Zavlin Men's Solid Casual Linen Shirt , 499 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Ramani Men's Solid Formal Shirt , 499 , 1099 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Ivoc Men's Solid Formal Shirt , 325 , 899 , 2 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 949 , 1899 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, GHPC Men's Solid Casual Shirt , 499 , 1299 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Zovi Men's Solid Casual Shirt , 399 , 799 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 570 , 1142 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 799 , 1599 , 4 , 5 , 5 , 1
+Men's Clothing, Men's Tshirts, Alan Jones Printed Men's Round Neck T-Shirt , 369 , 799 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Quechua Solid Men's Round Neck T-Shirt , 659 , 1199 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Puma Solid Men's Polo T-Shirt , 419 , 699 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo Neck T-Shirt , 279 , 919 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 5) , 1499 , 4999 , 5 , 5 , 5 , 1
+Men's Clothing, Men's Tshirts, Ajile by Pantaloons Solid Men's Polo Neck T-Shirt , 224 , 499 , 1 , 5 , 5 , 1
+Men's Clothing, Men's Tshirts, Huetrap Graphic Print Men's Round Neck T-Shirt , 499 , 499 , 1 , 0 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt , 279 , 939 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Unisopent Designs Solid Men's V-neck T-Shirt , 349 , 499 , 1 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Trendmakerz Graphic Print Men's Round Neck T-Shirt , 449 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Difference of Opinion Printed Men's Round Neck T-Shirt , 499 , 499 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Amore Printed Men's Round Neck Reversible T-Shirt , 199 , 799 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 5) , 1499 , 4999 , 5 , 5 , 5 , 1
+Men's Clothing, Men's Tshirts, Huetrap Graphic Print Men's Round Neck T-Shirt , 499 , 499 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Unisopent Designs Solid Men's V-neck T-Shirt , 349 , 499 , 1 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Alan Jones Printed Men's Round Neck T-Shirt (Pack of 2) , 699 , 1598 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Gritstones Solid Men's Round Neck T-Shirt , 519 , 649 , 2 , 3.0 , 3 , 1
+Men's Clothing, Men's Tshirts, Leana Striped Men's Henley T-Shirt , 329 , 758 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 629 , 1499 , 3 , 5 , 3 , 1

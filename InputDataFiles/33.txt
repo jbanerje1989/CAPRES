@@ -1,0 +1,80 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Myra Pair Of Multicolored Flats , 319 , 899 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Paduki Ethnic Footwear Flats , 249 , 599 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Do Bhai Flats , 499 , 499 , 1 , 0 , 4 , 5
+Footwear, Women's Shoes, Remson India Black gola Flats , 399 , 499 , 1 , 3.0 , 4 , 5
+Footwear, Women's Shoes, Paduki Ethnic Bellies , 249 , 599 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Reebok Speed Diva Smooth Lp Running Shoes , 1666 , 2999 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 280 , 499 , 1 , 5 , 2 , 1
+Footwear, Women's Shoes, Aadolf Heels , 299 , 1400 , 3 , 5 , 5 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 299 , 499 , 1 , 5 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 280 , 499 , 1 , 5 , 5 , 1
+Footwear, Women's Shoes, Queen Steps Bellies , 399 , 799 , 2 , 5 , 0 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 280 , 499 , 1 , 5 , 3 , 1
+Footwear, Women's Shoes, Queen Steps Wedges , 449 , 899 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Do Bhai she-White Flats , 475 , 499 , 1 , 1.4 , 4 , 1
+Footwear, Women's Shoes, Aadolf Flats , 119 , 599 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Forever Footwear Flats , 219 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Acto SL-03 Running Shoes , 499 , 499 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Jade Tie Up Flats , 399 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Neon-Deep Brown Ballerinas Bellies , 299 , 499 , 1 , 5 , 3 , 1
+Footwear, Women's Shoes, Forever Footwear Heels , 299 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Shezone Flats , 449 , 499 , 1 , 2.0 , 4 , 1
+Footwear, Women's Shoes, Shezone Flats , 449 , 499 , 1 , 2.0 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 349 , 499 , 1 , 4.0 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Lycra Belly Heels , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Puma Lucie Wn S Slippers , 777 , 1399 , 3 , 5 , 0 , 1
+Footwear, Women's Shoes, Hannah Traders Heels , 499 , 700 , 2 , 3.8 , 4 , 1
+Footwear, Women's Shoes, Ridhi Sidhi Ethnic Hand Embroidered 'N' Brocade Slipper... , 249 , 799 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, American Cult Flats , 399 , 998 , 2 , 5 , 2 , 1
+Footwear, Women's Shoes, Dolphin Miles Low Heeled Sandal Heels , 335 , 395 , 1 , 2.5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Wedges , 349 , 599 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Anupamaa Pinky Bellies , 499 , 1299 , 3 , 5 , 4 , 1
+Footwear, Women's Shoes, Puma Flora Flip Flops , 499 , 899 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Reebok Nc Plimsole Summer Lp Sneakers , 1999 , 3599 , 5 , 5 , 1 , 1
+Footwear, Women's Shoes, Dolphin Miles Stylish Wedges , 299 , 475 , 1 , 4.7 , 4 , 1
+Footwear, Women's Shoes, Adorn Heels , 499 , 1199 , 3 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai W017-MOUSE Flats , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Wedges , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Pure- Welcome Flats , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Newfeel Many Walking Shoes (By Decathlon) , 589 , 649 , 2 , 1.9 , 4 , 1
+Footwear, Women's Shoes, Lancer Blue Canvas Shoes , 399 , 399 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 149 , 149 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Ridhi Sidhi Gorgeous Hand Embroidered Red Colored Flats , 349 , 799 , 2 , 5 , 4 , 1
+Footwear, Men's Shoes, Adidas Altros 1.0 M Running Shoes , 1374 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Lotto Pounce Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Argus DP Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Fila Scroll Sneakers , 1799 , 2699 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Hip Hop 4 Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Reebok On Court Iv Lp Canvas Shoes , 1299 , 1999 , 3 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Street Rider Wns Ind Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Sir Corbett Hector Lace Up Shoes , 799 , 1999 , 3 , 5 , 3 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1264 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Brent Dp Running Shoes , 1819 , 2799 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Lotto Rapid Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Walk 2 Walking Shoes , 2399 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Run Ultra Running Shoes , 3899 , 6499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Nivia Destroyer Spain Football Studs , 559 , 799 , 2 , 5 , 4 , 1
+Footwear, Men's Shoes, Fila Blown Running Shoes , 1733 , 2599 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Tremor Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Starling DP Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP burnt olive-white swan-w Sneakers , 1494 , 2299 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Woodland Sandals , 3195 , 3195 , 5 , 0 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Fashion 15 SS 5 Flip Flops , 348 , 499 , 5 , 5 , 5 , 5
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2543 , 3395 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Loafers , 2690 , 4499 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Woodland Sneakers , 2543 , 3395 , 5 , 4.33333333333 , 0 , 1
+Footwear, Men's Shoes, Kenneth Cole Reaction After Market Loafers , 7181 , 8999 , 5 , 3.66666666667 , 0 , 1
+Footwear, Women's Shoes, Van Heusen Wedges , 1492 , 2495 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Superdry Glitter Flip Flops , 1588 , 1990 , 5 , 3.0 , 0 , 5
+Footwear, Women's Shoes, Tresmode Bellies , 1494 , 3000 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Lavie Heels , 779 , 1299 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Carlton London Heels , 1370 , 2495 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Solovoga Mebowed Bellies , 1096 , 2200 , 5 , 5 , 1 , 5
+Footwear, Women's Shoes, Solovoga Tianstrap Flats , 996 , 2000 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Lavie Flats , 659 , 1099 , 5 , 5 , 4 , 5

@@ -1,0 +1,165 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Myra Pair Of Multicolored Flats , 319 , 899 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Paduki Ethnic Footwear Flats , 249 , 599 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Do Bhai Flats , 499 , 499 , 1 , 0 , 4 , 5
+Footwear, Women's Shoes, Remson India Black gola Flats , 399 , 499 , 1 , 3.0 , 4 , 5
+Footwear, Women's Shoes, Forever Footwear Flats , 299 , 799 , 2 , 5 , 3 , 5
+Footwear, Women's Shoes, Pure Flats , 299 , 499 , 1 , 5 , 4 , 5
+Footwear, Women's Shoes, Reebok Classic Proton Lp Sneakers , 1277 , 2299 , 4 , 5 , 4 , 5
+Footwear, Women's Shoes, Puma Street Rider Wns Dp Sneakers , 1819 , 2799 , 4 , 4.5 , 4 , 5
+Footwear, Women's Shoes, Do Bhai Dot Leopard , 499 , 499 , 1 , 0 , 4 , 5
+Footwear, Women's Shoes, Dolphin Miles Designer Wedges Wedges , 315 , 525 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Royal Collection Bellies , 399 , 799 , 2 , 5 , 5 , 5
+Footwear, Women's Shoes, Do Bhai Flats , 299 , 499 , 1 , 5 , 4 , 5
+Footwear, Women's Shoes, Cenizas Collage Fly Wedges , 440 , 799 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 5
+Footwear, Women's Shoes, Kanchan Sandals , 399 , 870 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 5
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 4 , 5
+Footwear, Women's Shoes, Do Bhai Flats , 280 , 499 , 1 , 5 , 5 , 5
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 5
+Footwear, Women's Shoes, Select Black Sneakers , 499 , 999 , 2 , 5 , 3 , 5
+Footwear, Women's Shoes, Puma Sneakers , 1374 , 2499 , 4 , 5 , 5 , 1
+Footwear, Women's Shoes, Xtrafit XFT DC 53 Running Shoes , 408 , 500 , 2 , 2.8 , 4 , 1
+Footwear, Women's Shoes, Myra Flats , 299 , 949 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Forever Footwear Flats , 299 , 799 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Puma Descendant v2 Wn's IND DP Running Shoes , 2388 , 4299 , 5 , 5 , 0 , 1
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Fila Scroll Sneakers , 1799 , 2699 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Hip Hop 4 Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Reebok On Court Iv Lp Canvas Shoes , 1299 , 1999 , 3 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Street Rider Wns Ind Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Sir Corbett Hector Lace Up Shoes , 799 , 1999 , 3 , 5 , 3 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1264 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Brent Dp Running Shoes , 1819 , 2799 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Lotto Rapid Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Walk 2 Walking Shoes , 2399 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Run Ultra Running Shoes , 3899 , 6499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Nivia Destroyer Spain Football Studs , 559 , 799 , 2 , 5 , 4 , 1
+Footwear, Men's Shoes, Fila Blown Running Shoes , 1733 , 2599 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Tremor Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Starling DP Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP burnt olive-white swan-w Sneakers , 1494 , 2299 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Woody DP turbulence Sandals , 1169 , 1799 , 3 , 5 , 3 , 1
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Reebok Realflex Speed 2.0 Running Shoes , 4199 , 6999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Adidas Ermis M Running Shoes , 2999 , 2999 , 4 , 0 , 3 , 1
+Footwear, Men's Shoes, Puma Kuris II Ind. Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Tremor Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, adidas Adi Rio Flip Flops , 999 , 999 , 2 , 0 , 3 , 1
+Footwear, Men's Shoes, Puma PUMA Rebound v.2 Hi Sneakers , 2474 , 4499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Pacer Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Kevler 2 DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Stylox Slim Fit Men's Jeans , 449 , 1299 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Lee Skinny Fit Fit Men's Jeans , 1149 , 2299 , 4 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Lee Skinny Fit Fit Men's Jeans , 1149 , 2299 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Modo Regular Fit Men's Jeans , 499 , 1199 , 2 , 5 , 2 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Fit Men's Jeans , 1199 , 1999 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, High Star Slim Fit Men's Jeans , 599 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Club Vintage Slim Fit Men's Jeans , 499 , 1599 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Uber Urban Regular Fit Men's Jeans , 599 , 1699 , 3 , 5 , 5 , 1
+Men's Clothing, Men's Jeans, Leana Regular Fit Men's Jeans , 599 , 1500 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Jeans, Levi's Regular Fit Fit Men's Jeans , 2959 , 3699 , 5 , 3.0 , 5 , 1
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 1199 , 3999 , 5 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Stylox Slim Fit Men's Jeans , 799 , 1299 , 2 , 4.8 , 5 , 1
+Men's Clothing, Men's Jeans, Lee Regular Fit Men's Jeans , 1349 , 2699 , 5 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Lee Skinny Fit Fit Men's Jeans , 1149 , 2299 , 4 , 5 , 5 , 1
+Men's Clothing, Men's Jeans, Newport Straight Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 1 , 1
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt (Pack of 2) , 799 , 1267 , 3 , 4.6 , 4 , 5
+Men's Clothing, Men's Shirts, Venga Men's Solid Casual Shirt , 285 , 325 , 1 , 2.2 , 2 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 549 , 1299 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt (Pack of 2) , 799 , 1690 , 4 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 899 , 2 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt (Pack of 3) , 1199 , 1665 , 4 , 3.7 , 3 , 5
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt , 449 , 1099 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt , 449 , 1099 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Koolpals Men's Solid Formal Shirt , 349 , 800 , 2 , 5 , 2 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 549 , 1299 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 899 , 2 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 1469 , 3 , 5 , 4 , 5
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt (Pack of 3) , 1199 , 2199 , 4 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Lee Marc Men's Solid Formal Shirt , 650 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Striped Formal Shirt , 349 , 800 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 549 , 1039 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt , 449 , 950 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 1469 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 899 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Being Fab Men's Solid Casual Shirt , 429 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 499 , 977 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Denim Shirt , 885 , 1771 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Suspense Men's Solid Casual Shirt , 449 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Being Fab Men's Solid Casual Shirt , 429 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, HRX Men's Solid Casual Shirt , 749 , 1499 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 549 , 1039 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Solid Formal Shirt , 349 , 800 , 2 , 5 , 1 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Solid Formal Shirt , 349 , 780 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 685 , 1367 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Solid Formal Shirt , 359 , 780 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Lee Mark Men's Solid Casual Shirt , 599 , 1749 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Shirts, Playfox Men's Solid Casual, Party, Formal Shirt , 689 , 1995 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, HRX Men's Solid Casual Shirt , 749 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Striped Formal Shirt , 349 , 800 , 2 , 5 , 1 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Striped Formal Shirt , 349 , 800 , 2 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, I-Voc Men's Solid Casual Shirt , 599 , 1399 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Denim Shirt , 699 , 1302 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, ETC Solid Men's Polo Neck T-Shirt (Pack of 2) , 594 , 849 , 2 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 2) , 499 , 1699 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, SayItLoud Graphic Print Men's Round Neck T-Shirt , 499 , 799 , 2 , 4.7 , 4 , 1
+Men's Clothing, Men's Tshirts, Inkovy Solid Men's Hooded T-Shirt , 399 , 499 , 1 , 3.0 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 2) , 639 , 2099 , 5 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Alan Jones Printed Men's Round Neck T-Shirt (Pack of 2) , 699 , 1598 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 8) , 1699 , 5699 , 5 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 8) , 1699 , 5699 , 5 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Unisopent Designs Solid Men's Round Neck T-Shirt , 479 , 599 , 2 , 3.0 , 3 , 1
+Men's Clothing, Men's Tshirts, Elaborado Graphic Print Men's Round Neck T-Shirt , 639 , 799 , 2 , 3.0 , 3 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 629 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, SayItLoud Graphic Print Men's Round Neck T-Shirt , 499 , 799 , 2 , 4.7 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Pink) , 1899 , 4199 , 5 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Lengloy Shoulder Bag (Maroon) , 499 , 1700 , 3 , 5 , 0 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Brown) , 245 , 600 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Black) , 249 , 600 , 1 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Butterflies Shoulder Bag (Blue::Green) , 1499 , 2799 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Fantosy Shoulder Bag (Grey Black) , 449 , 1799 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Pink) , 999 , 1999 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Black) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Rosemary Hand-Held Bag (White) , 499 , 599 , 1 , 2.6 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Brown) , 1199 , 2199 , 4 , 5 , 0 , 1
+Women's Accessories, Women's Handbags, Butterflies Shoulder Bag (Red) , 1099 , 2199 , 4 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 4 , 1
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 999 , 2899 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Espresso Casual 3/4 Sleeve Solid Women's Top , 499 , 799 , 2 , 4.7 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 532 , 799 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 550 , 1400 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Lady Stark Party Full Sleeve Solid Women's Top , 490 , 1790 , 4 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Lynda Casual Cape Sleeve Solid Women's Top , 499 , 999 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Goodwill Impex Casual 3/4 Sleeve Solid Women's Top , 399 , 1150 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Hugo Chavez Women's Solid Casual Denim Shirt , 579 , 1499 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Vaak Casual Sleeveless Striped Women's Top , 499 , 699 , 2 , 3.8 , 3 , 1
+Women's Clothing, Women's Tops, Dede's Casual Roll-up Sleeve Printed Women's Top , 399 , 1099 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Peppermint Casual Short Sleeve Embroidered Women's Top , 399 , 399 , 1 , 0 , 3 , 1
+Women's Clothing, Women's Tops, Golden Couture Casual Festive Formal Party Short Sle... , 499 , 999 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Women's Solid Casual Shirt , 532 , 799 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Women's Printed Casual Shirt , 554 , 999 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Gmi Women's Self Design Casual Shirt , 399 , 799 , 2 , 5 , 1 , 1
+Women's Clothing, Women's Tops, Mayra Casual 3/4 Sleeve Solid Women's Top , 550 , 895 , 2 , 4.8 , 4 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 349 , 799 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Vestire Women's Solid Formal Casual Shirt , 359 , 799 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 516 , 699 , 2 , 3.6 , 3 , 1
+Women's Clothing, Women's Tops, Thegudlook Women's Solid Casual Shirt , 665 , 999 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, Golden Girl Casual Sleeveless Solid Women's Top , 289 , 899 , 2 , 5 , 5 , 1
+Women's Clothing, Women's Tops, U&F Casual 3/4 Sleeve Solid Women's Top , 439 , 999 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 349 , 799 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Dede's Casual Short Sleeve Solid Women's Top , 399 , 1199 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Peppermint Casual Sleeveless Printed Women's Top , 319 , 319 , 1 , 0 , 3 , 1
+Women's Clothing, Women's Tops, Peppermint Formal Sleeveless Floral Print Women's Top , 319 , 319 , 1 , 0 , 4 , 1
+Women's Clothing, Women's Tops, Hugo Chavez Casual Short Sleeve Solid Women's Top , 487 , 1575 , 4 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 269 , 499 , 1 , 5 , 2 , 1
+Women's Clothing, Women's Tops, Dede's Casual Short Sleeve Floral Print Women's Top , 399 , 1099 , 3 , 5 , 2 , 1
+Women's Clothing, Women's Tops, Dede's Casual Roll-up Sleeve Printed Women's Top , 399 , 1099 , 3 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 349 , 799 , 2 , 5 , 2 , 1
+Women's Clothing, Women's Tops, Lynda Casual Short Sleeve Printed Women's Top , 499 , 999 , 2 , 5 , 5 , 1

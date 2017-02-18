@@ -1,0 +1,94 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Royal Collection Bellies , 399 , 799 , 2 , 5 , 5 , 5
+Footwear, Women's Shoes, Do Bhai Flats , 299 , 499 , 1 , 5 , 4 , 5
+Footwear, Women's Shoes, Cenizas Collage Fly Wedges , 440 , 799 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 5
+Footwear, Women's Shoes, Kanchan Sandals , 399 , 870 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 5
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 4 , 5
+Footwear, Women's Shoes, Do Bhai Flats , 280 , 499 , 1 , 5 , 5 , 5
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 5
+Footwear, Women's Shoes, Select Black Sneakers , 499 , 999 , 2 , 5 , 3 , 5
+Footwear, Women's Shoes, Puma Sneakers , 1374 , 2499 , 4 , 5 , 5 , 1
+Footwear, Women's Shoes, Xtrafit XFT DC 53 Running Shoes , 408 , 500 , 2 , 2.8 , 4 , 1
+Footwear, Women's Shoes, Myra Flats , 299 , 949 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Forever Footwear Flats , 299 , 799 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Puma Descendant v2 Wn's IND DP Running Shoes , 2388 , 4299 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lancer Purple Canvas Shoes , 399 , 399 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Dolphin Miles Wedges , 315 , 525 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Puma Street Rider Wn's DP Sneakers , 1819 , 2799 , 4 , 4.5 , 4 , 1
+Footwear, Women's Shoes, Ridhi Sidhi Bead Studded Flats , 349 , 899 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 349 , 499 , 1 , 4.0 , 4 , 1
+Footwear, Men's Shoes, Adidas Altros 1.0 M Running Shoes , 1374 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Lotto Pounce Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Argus DP Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Fila Scroll Sneakers , 1799 , 2699 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Hip Hop 4 Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Reebok On Court Iv Lp Canvas Shoes , 1299 , 1999 , 3 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Street Rider Wns Ind Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Sir Corbett Hector Lace Up Shoes , 799 , 1999 , 3 , 5 , 3 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1264 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Brent Dp Running Shoes , 1819 , 2799 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Lotto Rapid Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Walk 2 Walking Shoes , 2399 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Run Ultra Running Shoes , 3899 , 6499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Nivia Destroyer Spain Football Studs , 559 , 799 , 2 , 5 , 4 , 1
+Footwear, Men's Shoes, Fila Blown Running Shoes , 1733 , 2599 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Tremor Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Starling DP Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP burnt olive-white swan-w Sneakers , 1494 , 2299 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Woody DP turbulence Sandals , 1169 , 1799 , 3 , 5 , 3 , 1
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Reebok Realflex Speed 2.0 Running Shoes , 4199 , 6999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Adidas Ermis M Running Shoes , 2999 , 2999 , 4 , 0 , 3 , 1
+Footwear, Men's Shoes, Puma Kuris II Ind. Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Tremor Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, adidas Adi Rio Flip Flops , 999 , 999 , 2 , 0 , 3 , 1
+Footwear, Men's Shoes, Puma PUMA Rebound v.2 Hi Sneakers , 2474 , 4499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Pacer Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Kevler 2 DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Nova Ind. Sports Sandals , 879 , 1599 , 3 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Unlimited Mid DP Mid Ankle Sneakers , 3249 , 4999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Puma Atom Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma TX-3 Sneakers , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Axis III Ind. Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Osu v4 DP Running Shoes , 3249 , 4999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Globalite Roadster Boots , 749 , 999 , 2 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Puma Carlos Ind. Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Pacer Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Axis III DP Running Shoes , 1949 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Women's Shoes, Lavie Heels , 779 , 1299 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Carlton London Heels , 1370 , 2495 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Solovoga Mebowed Bellies , 1096 , 2200 , 5 , 5 , 1 , 5
+Footwear, Women's Shoes, Solovoga Tianstrap Flats , 996 , 2000 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Lavie Flats , 659 , 1099 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Lavie Bellies , 659 , 1099 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Superdry Lifestyle Shoes , 6775 , 8490 , 5 , 3.0 , 0 , 1
+Footwear, Women's Shoes, Kenneth Cole Reaction Flats , 3583 , 4490 , 5 , 3.0 , 0 , 1
+Footwear, Women's Shoes, Carlton London Lifestyle Shoes , 2193 , 3995 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Superdry Californi Flip Flops , 1588 , 1990 , 5 , 3.0 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 5 , 1
+Footwear, Women's Shoes, Carlton London Flats , 1497 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Wedges , 779 , 1299 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Wedges , 1492 , 2995 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Flats , 1243 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Loafers , 1243 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Van Heusen Heels , 1492 , 2495 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lavie Flats , 658 , 1199 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Solester Kate Green Bellies , 449 , 999 , 5 , 5 , 2 , 1
+Footwear, Women's Shoes, Lavie Flats , 603 , 1099 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Flats , 546 , 995 , 5 , 5 , 2 , 1
+Footwear, Women's Shoes, Lavie Flats , 696 , 1395 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Bellies , 944 , 1895 , 5 , 5 , 5 , 1
+Footwear, Women's Shoes, Carlton London Heels , 1243 , 2495 , 5 , 5 , 3 , 1
+Footwear, Women's Shoes, Lavie Heels , 779 , 1299 , 5 , 5 , 5 , 1
+Footwear, Women's Shoes, Tresmode Bellies , 1245 , 2500 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Lavie Heels , 1425 , 2595 , 5 , 5 , 4 , 1
+Footwear, Women's Shoes, Carlton London Heels , 1370 , 2495 , 5 , 5 , 4 , 1

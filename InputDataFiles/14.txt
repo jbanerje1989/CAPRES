@@ -1,0 +1,77 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Women's Clothing, Women's Ethnicwear, Kashiba Creation Georgette Embroidered Semi-stitched Sa... , 2199 , 4599 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, TirupatiBalaji Georgette Embroidered Semi-stitched Salw... , 2049 , 5999 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, ZofeyFashion Embriodered Lehenga Saree Georgette Net ... , 2300 , 3999 , 5 , 5 , 4 , 5
+Women's Clothing, Women's Ethnicwear, Fidubi Embroidered Women's Lehenga Choli and Dupatta Set , 1999 , 1999 , 3 , 0 , 1 , 5
+Women's Clothing, Women's Ethnicwear, Mac Enterprise Velvet Embroidered Semi-stitched Gown (U... , 2199 , 6499 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Chhavi Fashion Net Embroidered Salwar Suit Dupatta Mate... , 2099 , 7999 , 5 , 5 , 5 , 5
+Women's Clothing, Women's Ethnicwear, Hari Krishna Enterprise Embroidered Women's Lehenga Choli , 1999 , 10099 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Anarkali Devagya Georgette Embroidered Semi-stitched Sa... , 2299 , 5500 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Sj Trendz Self Design Fashion Velvet Brasso Net Art ... , 2099 , 3999 , 5 , 5 , 2 , 5
+Women's Clothing, Women's Ethnicwear, Shree Creation Net Georgette Embroidered Dress/Top Mat... , 1999 , 3899 , 5 , 5 , 1 , 5
+Women's Clothing, Women's Ethnicwear, Kamani Garment Embroidered Women's Lehenga Choli , 2000 , 2999 , 5 , 4.3 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Welcreation Embroidered Women's Lehenga Choli and Dupa... , 2000 , 5700 , 5 , 5 , 3 , 5
+Women's Clothing, Women's Ethnicwear, Ishin Designer Studio Printed Fashion Georgette Sari (P... , 2299 , 3999 , 5 , 5 , 4 , 5
+Women's Clothing, Women's Ethnicwear, Krishna Emporia Velvet Embroidered Semi-stitched Gown (... , 2059 , 2990 , 5 , 4.1 , 1 , 5
+Women's Clothing, Women's Ethnicwear, Jkv Velvet Embroidered Semi-stitched Gown (Unstitched) , 1999 , 5599 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Ethnicwear, Shreeji Fashion Georgette Embroidered Salwar Suit Dupat... , 1999 , 3999 , 5 , 5 , 1 , 5
+Women's Clothing, Women's Ethnicwear, Hari Krishna Enterprise Embroidered Women's Lehenga Choli , 1999 , 9555 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Ethnicwear, Admyrin Georgette Self Design Solid Semi-stitched Salw... , 2599 , 6668 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Prafful Georgette Floral Print Semi-stitched Salwar Sui... , 1999 , 3399 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Mimosa Woven Kanjivaram Handloom Tussar Silk Sari , 1999 , 4256 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Khazanakart Net Embroidered Semi-stitched Salwar Suit D... , 1999 , 6000 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Fashion Fast Georgette Embroidered Semi-stitched Salwar... , 1999 , 2999 , 5 , 4.3 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Stylelok Chiffon Self Design Semi-stitched Salwar Suit ... , 2879 , 8679 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Florence Embroidered Women's Lehenga Choli and Dupatta... , 2500 , 8330 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Raagvi Net Embroidered Semi-stitched Gown (Unstitched) , 1999 , 2499 , 4 , 3.0 , 1 , 1
+Women's Clothing, Women's Ethnicwear, Ishin Printed Fashion Crepe Sari (Pack of 7) , 2299 , 2999 , 5 , 3.3 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Khazanakart Georgette Embroidered Semi-stitched Salwar ... , 2199 , 5999 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Zarasboutique Georgette Embroidered Semi-stitched Salwa... , 2000 , 5999 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Mahavir Creation Self Design Fashion Satin Net Sari , 3333 , 9299 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Asavari Self Design Banarasi Cotton Organza Sari , 2049 , 3799 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Prafful Georgette Floral Print Salwar Suit Dupatta Mate... , 2039 , 4199 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Mimosa Woven Kanjivaram Handloom Tussar Silk Sari , 1999 , 4256 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Fabfiza Net Embroidered Semi-stitched Salwar Suit Dupat... , 1999 , 4599 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Ethnicwear, Bhakti Creation Embroidered Women's Lehenga Choli , 2899 , 3699 , 5 , 3.1 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Adah Fashions Georgette Embroidered Salwar Suit Dupatta... , 2679 , 8979 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Chirag Sarees Embriodered Fashion Crepe Sari , 3999 , 18177 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, V And V Shop Georgette Embroidered Semi-stitched Salwar... , 1999 , 9000 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Looks & Likes Georgette Embroidered Semi-stitched Salwa... , 4001 , 8050 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Pavechas Self Design Kanjivaram Art Silk Sari , 1999 , 4599 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Ethnicwear, Ambaji Floral Print Polka Print Daily Wear Georgette S... , 1999 , 5795 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Bride Lara Dutta Georgette Self Design Semi-stitched Sa... , 1999 , 4999 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Ethnicwear, Pavechas Printed Kanjivaram Art Silk Sari , 1999 , 4499 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Aasri Printed Bhagalpuri Art Silk Net Sari , 2699 , 4200 , 5 , 4.5 , 4 , 1
+Women's Clothing, Women's Ethnicwear, Apka Apna Fashion Embroidered Women's Lehenga Choli an... , 2599 , 7000 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Ethnicwear, Designersareez Self Design Fashion Georgette Sari , 1999 , 4458 , 5 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Rosemary Hand-Held Bag (Black-0069) , 499 , 599 , 1 , 2.6 , 4 , 5
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Red) , 249 , 599 , 1 , 5 , 4 , 5
+Women's Accessories, Women's Handbags, Meridian Hand-Held Bag (Violet) , 499 , 1899 , 3 , 5 , 3 , 5
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Brown) , 249 , 599 , 1 , 5 , 4 , 5
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Black) , 1099 , 2199 , 4 , 5 , 3 , 5
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Brown) , 249 , 599 , 1 , 5 , 4 , 5
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Blue) , 1499 , 2799 , 4 , 5 , 3 , 5
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Green) , 249 , 599 , 1 , 5 , 4 , 5
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Beige) , 1299 , 2599 , 4 , 5 , 4 , 5
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Black) , 249 , 600 , 1 , 5 , 5 , 5
+Women's Accessories, Women's Handbags, Lengloy Shoulder Bag (Brown) , 499 , 1800 , 3 , 5 , 0 , 5
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Brown) , 1099 , 2199 , 4 , 5 , 4 , 5
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Red) , 249 , 599 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Shoulder Bag (Brown) , 1399 , 2599 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Black) , 249 , 599 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Beige) , 2199 , 3999 , 5 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Pink) , 1299 , 2599 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Lengloy Shoulder Bag (Black) , 499 , 1800 , 3 , 5 , 0 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Black) , 249 , 600 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Multicolor) , 249 , 599 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Brown) , 249 , 600 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Rosemary Hand-Held Bag (Blue) , 499 , 699 , 1 , 3.8 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Black) , 1299 , 2399 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Fantosy Shoulder Bag (Blue) , 449 , 1799 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Brown) , 249 , 600 , 1 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Red) , 1099 , 2199 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (White) , 1399 , 2799 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Rosemary Hand-Held Bag (Blue-0040CH) , 499 , 699 , 1 , 3.8 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Purple) , 249 , 600 , 1 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, Fantosy Hand-held Bag (Blue) , 399 , 1399 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Rosemary Hand-Held Bag (White with Pink-0034) , 499 , 699 , 1 , 3.8 , 3 , 1

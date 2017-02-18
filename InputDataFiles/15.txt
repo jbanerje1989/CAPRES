@@ -1,0 +1,152 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Belt BLBW33 , 299 , 750 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Formal Brown Artificial Leather Belt BRN-02 , 225 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, OTLS Boys Girls Casual Blue Canvas Belt Deep Navy , 149 , 334 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Black Genuine Leather Reversible Belt Black Brown , 299 , 450 , 1 , 4.3 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Artificial Leather Belt BLK-02 , 180 , 399 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Reversible Belt BLBW08 , 299 , 750 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Stylox Men Casual Black Genuine Leather Belt Black-8 , 99 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Formal Brown Artificial Leather Belt BRN-02 , 180 , 399 , 1 , 5 , 2 , 1
+Men's Accessories, Men's Belts, Swastika Men Casual Brown Genuine Leather Belt Brown 022 , 499 , 999 , 2 , 5 , 5 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Semi-formal Black Artificial Leather Belt Black-02 , 187 , 499 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Louis Philippe Men Brown Black Reversible Belt Black/Brown , 1259 , 2099 , 3 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Danmaneao Men Casual Formal Brown Artificial Leather Belt Brown , 275 , 360 , 1 , 3.3 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Purple Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, OTLS Men Women Casual Grey White Canvas Belt Navy, White , 169 , 379 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Swastika Men Casual Brown Genuine Leather Belt Brown 022 , 499 , 999 , 2 , 5 , 5 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Artificial Leather Belt Black , 225 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Best Walk Men Formal Black Genuine Leather Belt black , 149 , 799 , 1 , 5 , 2 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black White Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, WildHide Men Formal Black Genuine Leather Belt Black , 399 , 1299 , 2 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Evening/Party Casual Yellow Genuine Leather Belt Yellow-02 , 180 , 399 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Blimey Men Semi-formal Brown Genuine Leather Belt DustyBrown-05 , 249 , 1099 , 2 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Danmaneao Men Casual Formal Black Artificial Leather Belt Black , 265 , 360 , 1 , 3.6 , 3 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 279 , 999 , 2 , 5 , 4 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Brown Genuine Leather Belt Black-01 , 360 , 799 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Formal Black Artificial Leather Belt BLK-02 , 180 , 399 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, OTLS Men Women Casual Orange Beige Canvas Belt Beige, Brown , 169 , 379 , 1 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Fit Men's Jeans , 1439 , 1799 , 3 , 3.0 , 3 , 1
+Men's Clothing, Men's Jeans, Newport Straight Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Men's Jeans , 539 , 899 , 1 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Skinny Fit Fit Men's Jeans , 2236 , 3195 , 5 , 4.0 , 4 , 1
+Men's Clothing, Men's Jeans, Fashion Regular Fit Men's Jeans , 444 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 0 , 1
+Men's Clothing, Men's Jeans, Ben Carter Slim Fit Men's Jeans , 529 , 1399 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Kook N Keech Regular Fit Men's Jeans , 779 , 1299 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Kook N Keech Regular Fit Men's Jeans , 749 , 1499 , 3 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 629 , 899 , 1 , 4.0 , 0 , 1
+Men's Clothing, Men's Jeans, Ben Carter Slim Fit Men's Jeans , 529 , 1399 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Alan Woods Slim Fit Men's Jeans , 579 , 1399 , 2 , 5 , 5 , 1
+Men's Clothing, Men's Jeans, Club Vintage Slim Fit Men's Jeans , 499 , 1599 , 3 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Fizzaro Regular Fit Men's Jeans , 494 , 1499 , 3 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 2 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Lee Regular Fit Fit Men's Jeans , 1299 , 2599 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Men's Jeans , 1599 , 1999 , 3 , 3.0 , 5 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Levi's Men's Jeans , 1679 , 2799 , 5 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, High Star Slim Fit Men's Jeans , 599 , 999 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 699 , 1999 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Uber Urban Regular Fit Men's Jeans , 549 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Uber Urban Slim Fit Men's Jeans , 599 , 2599 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Axsglow Slim Fit Men's Jeans , 469 , 2499 , 4 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Roadster Slim Fit Men's Jeans , 674 , 1499 , 3 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Alan Woods Slim Fit Men's Jeans , 579 , 1399 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Mc-John Men's Solid Formal Shirt , 599 , 2099 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Zavlin Men's Solid Casual Linen Shirt , 499 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Ramani Men's Solid Formal Shirt , 499 , 1099 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Ivoc Men's Solid Formal Shirt , 325 , 899 , 2 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 949 , 1899 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, GHPC Men's Solid Casual Shirt , 499 , 1299 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Zovi Men's Solid Casual Shirt , 399 , 799 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 570 , 1142 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 799 , 1599 , 4 , 5 , 5 , 1
+Men's Clothing, Men's Shirts, Protext Men's Solid Formal Shirt , 598 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, GHPC Men's Solid Casual Shirt (Pack of 2) , 899 , 2299 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, HRX Men's Checkered Casual Shirt , 719 , 1599 , 4 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Mc-John Men's Solid Formal Shirt (Pack of 2) , 999 , 3999 , 5 , 5 , 1 , 1
+Men's Clothing, Men's Shirts, Roadster Men's Solid Casual Shirt , 629 , 899 , 2 , 4.0 , 0 , 1
+Men's Clothing, Men's Shirts, Roadster Men's Checkered Casual Shirt , 499 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, The Indian Garage Co. Men's Solid Casual Shirt , 839 , 1199 , 3 , 4.0 , 0 , 1
+Men's Clothing, Men's Shirts, GHPC Men's Solid Casual Shirt , 499 , 1299 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Roadster Men's Checkered Casual Shirt , 499 , 999 , 2 , 5 , 5 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 949 , 1899 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Ivoc Men's Solid Casual Shirt , 345 , 1199 , 3 , 5 , 5 , 1
+Men's Clothing, Men's Shirts, Blackberrys Men's Striped Formal Shirt , 1610 , 1895 , 4 , 2.5 , 5 , 1
+Men's Clothing, Men's Shirts, Flippd Men's Printed Casual Shirt , 699 , 999 , 2 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, ITop Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 8) , 1699 , 5699 , 5 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 8) , 1699 , 5699 , 5 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt , 279 , 939 , 2 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 8) , 1699 , 5699 , 5 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo Neck T-Shirt , 279 , 939 , 2 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 4) , 949 , 3199 , 5 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo Neck T-Shirt , 279 , 939 , 2 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 4) , 949 , 3199 , 5 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, Unisopent Designs Solid Men's V-neck T-Shirt , 349 , 499 , 1 , 4.0 , 3 , 5
+Men's Clothing, Men's Tshirts, ETC Solid Men's Polo Neck T-Shirt (Pack of 2) , 594 , 849 , 2 , 4.0 , 4 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 2) , 499 , 1699 , 4 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 2) , 639 , 2099 , 5 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, Jockey Solid Men's V-neck T-Shirt , 349 , 349 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Unisopent Designs Solid Men's V-neck T-Shirt , 349 , 499 , 1 , 4.0 , 3 , 1
+Men's Clothing, Men's Tshirts, ETC Solid Men's Polo Neck T-Shirt (Pack of 2) , 594 , 849 , 2 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 2) , 499 , 1699 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, SayItLoud Graphic Print Men's Round Neck T-Shirt , 499 , 799 , 2 , 4.7 , 4 , 1
+Men's Clothing, Men's Tshirts, Inkovy Solid Men's Hooded T-Shirt , 399 , 499 , 1 , 3.0 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 2) , 639 , 2099 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Mayra Party Sleeveless Solid Women's Top , 549 , 895 , 2 , 4.8 , 4 , 5
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 550 , 1400 , 3 , 5 , 4 , 5
+Women's Clothing, Women's Tops, Vvoguish Women's Solid Casual Shirt , 443 , 599 , 2 , 3.6 , 3 , 5
+Women's Clothing, Women's Tops, Trend 18 Casual 3/4 Sleeve Printed Women's Top , 478 , 699 , 2 , 4.1 , 3 , 5
+Women's Clothing, Women's Tops, Femninora Casual Sleeveless Solid Women's Top , 449 , 799 , 2 , 5 , 3 , 5
+Women's Clothing, Women's Tops, PrettyPataka Casual Sleeveless Solid Women's Top , 699 , 2500 , 5 , 5 , 4 , 5
+Women's Clothing, Women's Tops, Western Route Casual 3/4 Sleeve Solid Women's Top , 299 , 699 , 2 , 5 , 1 , 5
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 550 , 1499 , 3 , 5 , 4 , 5
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 550 , 1299 , 3 , 5 , 4 , 5
+Women's Clothing, Women's Tops, GMI Casual Cape Sleeve Striped Women's Top , 299 , 799 , 2 , 5 , 2 , 5
+Women's Clothing, Women's Tops, Gmi Women's Self Design Casual Shirt , 399 , 799 , 2 , 5 , 3 , 5
+Women's Clothing, Women's Tops, Trend 18 Casual 3/4 Sleeve Printed Women's Top , 478 , 699 , 2 , 4.1 , 3 , 5
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 269 , 499 , 1 , 5 , 3 , 5
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 498 , 799 , 2 , 4.7 , 4 , 5
+Women's Clothing, Women's Tops, Alba Solid Women's Round Neck T-Shirt , 399 , 499 , 1 , 3.0 , 4 , 1
+Women's Clothing, Women's Tops, Lynda Casual 3/4 Sleeve Floral Print Women's Top , 699 , 999 , 2 , 4.0 , 4 , 1
+Women's Clothing, Women's Tops, Hugo Chavez Casual Sleeveless Solid Women's Top , 497 , 1199 , 3 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Fantosy Shoulder Bag (Grey Black) , 449 , 1799 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Pink) , 999 , 1999 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Lengloy Hand-held Bag (Black) , 499 , 1440 , 3 , 5 , 3 , 1
+Women's Accessories, Women's Handbags, Rosemary Hand-Held Bag (White) , 499 , 599 , 1 , 2.6 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand-Held Bag (Brown) , 1199 , 2199 , 4 , 5 , 0 , 1
+Women's Accessories, Women's Handbags, Butterflies Shoulder Bag (Red) , 1099 , 2199 , 4 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Womaniya Shoulder Bag (Multicolor) , 249 , 599 , 1 , 5 , 4 , 1
+Women's Accessories, Women's Handbags, Meridian Shoulder Bag (Beige) , 599 , 1199 , 2 , 5 , 5 , 1
+Women's Accessories, Women's Handbags, RRTC Hand-Held Bag (Tan) , 1245 , 1995 , 3 , 4.7 , 4 , 1
+Women's Accessories, Women's Handbags, Butterflies Hand Bag (Red) , 1299 , 2399 , 4 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Wrangler Slim Fit Women's Trousers , 1147 , 2295 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, W Casual Full Sleeve Floral Print Women's Top , 909 , 1299 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, Wrangler Stretch Fit Women's Jeans , 1756 , 2195 , 5 , 3.0 , 5 , 1
+Women's Clothing, Women's Tops, Biba Regular Fit Women's Trousers , 809 , 899 , 5 , 2.0 , 0 , 1
+Women's Clothing, Women's Tops, Gas Slim Fit Fit Women's Jeans , 7990 , 7990 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Skinny Fit Women's Trousers , 1099 , 1099 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Solid Women's Tunic , 448 , 799 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Only Casual Short Sleeve Solid Women's Top , 847 , 1695 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Biba Regular Fit Women's Trousers , 849 , 1699 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Gas Casual Full Sleeve Solid Women's Top , 5990 , 5990 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Lee Skinny Fit Women's Jeans , 1889 , 2699 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, Gas Printed Women's Round Neck T-Shirt , 1494 , 2490 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Gas Printed Women's Round Neck T-Shirt , 1494 , 2490 , 5 , 5 , 0 , 1

@@ -1,0 +1,173 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Men's Shoes, Sparx Sneakers , 1014 , 1249 , 3 , 3.4 , 3 , 1
+Footwear, Men's Shoes, Puma Axis IV XT DP Running Shoes , 1949 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Puma Drongos DP Mid Ankle Sneakers , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Unlimited Mid DP Mid Ankle Sneakers , 3249 , 4999 , 5 , 5 , 0 , 1
+Footwear, Men's Shoes, Puma Pluto DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Wirko XC 2 DP Sneakers , 1154 , 2099 , 4 , 5 , 5 , 1
+Footwear, Men's Shoes, Adidas Rokewood Mid Lea Outdoors Shoes , 3249 , 4999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Strike Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lee Cooper Corporate Casuals , 2499 , 2499 , 4 , 0 , 4 , 1
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Hip Hop III Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Breeze V Flip Flops , 1399 , 1399 , 3 , 0 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 3 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Sparx Sandals , 1275 , 1275 , 3 , 0 , 4 , 1
+Footwear, Men's Shoes, Clarks Reeder Place Corporate Casuals , 3486 , 6999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Fila Trekking Outdoor Shoes , 1999 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Sparx Sandals , 1218 , 1499 , 3 , 3.4 , 4 , 1
+Footwear, Men's Shoes, Adidas Adizero Feather Prime M Running Shoes , 6599 , 11999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Puma Hip Hop Iii Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Lee Cooper Loafers , 2999 , 2999 , 4 , 0 , 5 , 1
+Footwear, Men's Shoes, Adidas Aerobot Indoor Shoes , 3799 , 3799 , 4 , 0 , 3 , 1
+Footwear, Men's Shoes, Adidas Aerobot Indoor Shoes , 3799 , 3799 , 4 , 0 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 1494 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Skech-Flex Training & Gym Shoes , 2999 , 4999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Puma Lazy Slip On DP Sneakers , 2499 , 2499 , 4 , 0 , 5 , 1
+Footwear, Men's Shoes, Puma Atom Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 3 , 1
+Footwear, Men's Shoes, Fila Runaway II Running Shoes , 1533 , 2299 , 4 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Genuine Leather Belt Black-01 , 356 , 949 , 2 , 5 , 0 , 1
+Men's Accessories, Men's Belts, WildHorn Men Formal Black Genuine Leather Belt Black , 589 , 4999 , 5 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Belt BLBW33 , 299 , 750 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Formal Brown Artificial Leather Belt BRN-02 , 225 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, OTLS Boys Girls Casual Blue Canvas Belt Deep Navy , 149 , 334 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Black Genuine Leather Reversible Belt Black Brown , 299 , 450 , 1 , 4.3 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Artificial Leather Belt BLK-02 , 180 , 399 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Reversible Belt BLBW08 , 299 , 750 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Stylox Men Casual Black Genuine Leather Belt Black-8 , 99 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Formal Brown Artificial Leather Belt BRN-02 , 180 , 399 , 1 , 5 , 2 , 1
+Men's Accessories, Men's Belts, Swastika Men Casual Brown Genuine Leather Belt Brown 022 , 499 , 999 , 2 , 5 , 5 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Semi-formal Black Artificial Leather Belt Black-02 , 187 , 499 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Louis Philippe Men Brown Black Reversible Belt Black/Brown , 1259 , 2099 , 3 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Danmaneao Men Casual Formal Brown Artificial Leather Belt Brown , 275 , 360 , 1 , 3.3 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Purple Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, OTLS Men Women Casual Grey White Canvas Belt Navy, White , 169 , 379 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Swastika Men Casual Brown Genuine Leather Belt Brown 022 , 499 , 999 , 2 , 5 , 5 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Semi-formal Tan Artificial Leather Belt Tan-01 , 187 , 499 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Black Genuine Leather Reversible Belt Black Brown , 299 , 450 , 1 , 4.3 , 4 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Pink Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Walletsnbags Men Boys Formal Black Genuine Leather, Genuine Leather Belt B5-BLK , 499 , 699 , 1 , 3.8 , 4 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Casual Brown Genuine Leather Belt Brown , 345 , 699 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Hornbull Men Casual Formal Black Genuine Leather Belt Black , 499 , 1599 , 3 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Swastika Men Formal Brown Genuine Leather Belt Brown-69 , 499 , 999 , 2 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Casual Black Genuine Leather Belt Black , 295 , 699 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Artificial Leather Belt Black , 275 , 399 , 1 , 4.1 , 3 , 1
+Men's Clothing, Men's Jeans, Trendy Trotters Regular Fit Men's Jeans , 498 , 999 , 2 , 5 , 4 , 5
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 549 , 1999 , 3 , 5 , 4 , 5
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 549 , 1999 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Jeans, Uber Urban Regular Fit Men's Jeans , 549 , 1499 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Jeans, Trendy Trotters Regular Fit Men's Jeans , 498 , 999 , 2 , 5 , 3 , 5
+Men's Clothing, Men's Jeans, Uber Urban Regular Fit Men's Jeans , 1049 , 2998 , 5 , 5 , 3 , 5
+Men's Clothing, Men's Jeans, Flyjohn Slim Fit Men's Jeans , 498 , 1099 , 2 , 5 , 3 , 5
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 629 , 899 , 1 , 4.0 , 3 , 5
+Men's Clothing, Men's Jeans, Axsglow Slim Fit Men's Jeans , 469 , 2499 , 4 , 5 , 0 , 5
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 1099 , 3999 , 5 , 5 , 3 , 5
+Men's Clothing, Men's Jeans, Uber Urban Regular Fit Men's Jeans , 599 , 1499 , 3 , 5 , 3 , 5
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 4 , 5
+Men's Clothing, Men's Jeans, Ben Carter Slim Fit Men's Jeans , 529 , 1399 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Ben Carter Slim Fit Men's Jeans , 529 , 1399 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Ave Slim Fit Men's Jeans , 549 , 1198 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 0 , 1
+Men's Clothing, Men's Jeans, Indigen Slim Fit Men's Jeans , 699 , 999 , 2 , 4.0 , 3 , 1
+Men's Clothing, Men's Jeans, Alan Woods Slim Fit Men's Jeans , 529 , 1399 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 699 , 1999 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Newport Straight Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 0 , 1
+Men's Clothing, Men's Jeans, Fashion Regular Fit Men's Jeans , 444 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Fit Men's Jeans , 1439 , 1799 , 3 , 3.0 , 3 , 1
+Men's Clothing, Men's Jeans, Newport Straight Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Men's Jeans , 539 , 899 , 1 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Skinny Fit Fit Men's Jeans , 2236 , 3195 , 5 , 4.0 , 4 , 1
+Men's Clothing, Men's Jeans, Fashion Regular Fit Men's Jeans , 444 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 0 , 1
+Men's Clothing, Men's Jeans, Ben Carter Slim Fit Men's Jeans , 529 , 1399 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Kook N Keech Regular Fit Men's Jeans , 779 , 1299 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Kook N Keech Regular Fit Men's Jeans , 749 , 1499 , 3 , 5 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 1793 , 2999 , 5 , 5 , 4 , 5
+Footwear, Men's Shoes, Woodland Boots , 2768 , 3695 , 5 , 4.33333333333 , 5 , 1
+Footwear, Men's Shoes, Woodland Leather Sandals , 1944 , 2595 , 5 , 4.33333333333 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Sneakers , 1674 , 2799 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2618 , 3495 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Leather Sandals , 1944 , 2595 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2093 , 2795 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Sandals , 3195 , 3195 , 5 , 0 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Fashion 15 SS 5 Flip Flops , 348 , 499 , 5 , 5 , 5 , 5
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2543 , 3395 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Loafers , 2690 , 4499 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Woodland Sneakers , 2543 , 3395 , 5 , 4.33333333333 , 0 , 1
+Footwear, Men's Shoes, Kenneth Cole Reaction After Market Loafers , 7181 , 8999 , 5 , 3.66666666667 , 0 , 1
+Men's Clothing, Men's Shirts, Being Fab Men's Solid Casual Shirt , 329 , 1099 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, United Colors of Benetton Men's Solid Casual Shirt , 1259 , 2099 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 949 , 1899 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Ivoc Men's Solid Formal Shirt , 299 , 899 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Top Notch Men's Solid Casual Shirt , 449 , 950 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Mc-John Men's Solid Formal Shirt , 599 , 2099 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Lee Marc Men's Solid Formal Shirt , 650 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, United Colors of Benetton Men's Solid Casual Shirt , 1379 , 2299 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Shirts, Dazzio Men's Solid Casual Shirt , 1090 , 1470 , 3 , 3.5 , 3 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 570 , 1142 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Lee Mark Men's Solid Casual Shirt , 599 , 1749 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Mc-John Men's Solid Formal Shirt , 599 , 2099 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Zavlin Men's Solid Casual Linen Shirt , 499 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Ramani Men's Solid Formal Shirt , 499 , 1099 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Ivoc Men's Solid Formal Shirt , 325 , 899 , 2 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 949 , 1899 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, GHPC Men's Solid Casual Shirt , 499 , 1299 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Zovi Men's Solid Casual Shirt , 399 , 799 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Shirt , 570 , 1142 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 799 , 1599 , 4 , 5 , 5 , 1
+Men's Clothing, Men's Shirts, Protext Men's Solid Formal Shirt , 598 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, GHPC Men's Solid Casual Shirt (Pack of 2) , 899 , 2299 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, HRX Men's Checkered Casual Shirt , 719 , 1599 , 4 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Mc-John Men's Solid Formal Shirt (Pack of 2) , 999 , 3999 , 5 , 5 , 1 , 1
+Men's Clothing, Men's Shirts, Roadster Men's Solid Casual Shirt , 629 , 899 , 2 , 4.0 , 0 , 1
+Men's Clothing, Men's Shirts, Roadster Men's Checkered Casual Shirt , 499 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, The Indian Garage Co. Men's Solid Casual Shirt , 839 , 1199 , 3 , 4.0 , 0 , 1
+Men's Clothing, Men's Shirts, GHPC Men's Solid Casual Shirt , 499 , 1299 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Roadster Men's Checkered Casual Shirt , 499 , 999 , 2 , 5 , 5 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 949 , 1899 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Ivoc Men's Solid Casual Shirt , 345 , 1199 , 3 , 5 , 5 , 1
+Men's Clothing, Men's Shirts, Blackberrys Men's Striped Formal Shirt , 1610 , 1895 , 4 , 2.5 , 5 , 1
+Men's Clothing, Men's Shirts, Flippd Men's Casual Shirt , 769 , 1099 , 3 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 8) , 1699 , 5699 , 5 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 8) , 1699 , 5699 , 5 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Unisopent Designs Solid Men's Round Neck T-Shirt , 479 , 599 , 2 , 3.0 , 3 , 1
+Men's Clothing, Men's Tshirts, Elaborado Graphic Print Men's Round Neck T-Shirt , 639 , 799 , 2 , 3.0 , 3 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 629 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, SayItLoud Graphic Print Men's Round Neck T-Shirt , 499 , 799 , 2 , 4.7 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Izinc Solid Men's V-neck T-Shirt , 374 , 499 , 1 , 3.5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 8) , 1699 , 5699 , 5 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 8) , 1699 , 5699 , 5 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 5) , 1499 , 4999 , 5 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Demokrazy Solid Men's Henley T-Shirt , 350 , 599 , 2 , 5 , 5 , 1
+Men's Clothing, Men's Tshirts, ETC Solid Men's Polo Neck T-Shirt (Pack of 2) , 594 , 849 , 2 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Alan Jones Graphic Print Men's Round Neck T-Shirt (Pack... , 699 , 1598 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Jockey Solid Men's Round Neck T-Shirt , 379 , 379 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Trendmakerz Graphic Print Men's Round Neck T-Shirt , 449 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 0 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt , 279 , 939 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 4) , 949 , 3199 , 5 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, ETC Solid Men's Polo Neck T-Shirt (Pack of 2) , 594 , 849 , 2 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Weardo Solid Men's Polo T-Shirt , 328 , 699 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 8) , 1699 , 5699 , 5 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt , 279 , 939 , 2 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 8) , 1699 , 5699 , 5 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo Neck T-Shirt , 279 , 939 , 2 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 4) , 949 , 3199 , 5 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo Neck T-Shirt , 279 , 939 , 2 , 5 , 3 , 5
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 4) , 949 , 3199 , 5 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 4 , 5
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 3 , 5

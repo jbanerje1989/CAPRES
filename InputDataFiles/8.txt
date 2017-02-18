@@ -1,0 +1,57 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 499 , 1099 , 3 , 5 , 4 , 5
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 499 , 999 , 2 , 5 , 3 , 5
+Women's Clothing, Women's Tops, Mayra Casual Sleeveless Printed Women's Top , 399 , 895 , 2 , 5 , 3 , 5
+Women's Clothing, Women's Tops, Mayra Party Sleeveless Printed Women's Top , 399 , 895 , 2 , 5 , 2 , 5
+Women's Clothing, Women's Tops, Mayra Party 3/4 Sleeve Solid Women's Top , 549 , 895 , 2 , 4.8 , 3 , 5
+Women's Clothing, Women's Tops, Clo Clu Women's Solid Casual Shirt , 550 , 1990 , 4 , 5 , 5 , 5
+Women's Clothing, Women's Tops, Mayra Party Sleeveless Solid Women's Top , 549 , 895 , 2 , 4.8 , 4 , 5
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 550 , 1400 , 3 , 5 , 4 , 5
+Women's Clothing, Women's Tops, Vvoguish Women's Solid Casual Shirt , 443 , 599 , 2 , 3.6 , 3 , 5
+Women's Clothing, Women's Tops, Trend 18 Casual 3/4 Sleeve Printed Women's Top , 478 , 699 , 2 , 4.1 , 3 , 5
+Women's Clothing, Women's Tops, Femninora Casual Sleeveless Solid Women's Top , 449 , 799 , 2 , 5 , 3 , 5
+Women's Clothing, Women's Tops, PrettyPataka Casual Sleeveless Solid Women's Top , 699 , 2500 , 5 , 5 , 4 , 5
+Women's Clothing, Women's Tops, Western Route Casual 3/4 Sleeve Solid Women's Top , 299 , 699 , 2 , 5 , 1 , 5
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 550 , 1499 , 3 , 5 , 4 , 5
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 550 , 1299 , 3 , 5 , 4 , 5
+Women's Clothing, Women's Tops, GMI Casual Cape Sleeve Striped Women's Top , 299 , 799 , 2 , 5 , 2 , 5
+Women's Clothing, Women's Tops, Gmi Women's Self Design Casual Shirt , 399 , 799 , 2 , 5 , 3 , 5
+Women's Clothing, Women's Tops, Trend 18 Casual 3/4 Sleeve Printed Women's Top , 478 , 699 , 2 , 4.1 , 3 , 5
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 269 , 499 , 1 , 5 , 3 , 5
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 498 , 799 , 2 , 4.7 , 4 , 5
+Women's Clothing, Women's Tops, Alba Solid Women's Round Neck T-Shirt , 399 , 499 , 1 , 3.0 , 4 , 1
+Women's Clothing, Women's Tops, Lynda Casual 3/4 Sleeve Floral Print Women's Top , 699 , 999 , 2 , 4.0 , 4 , 1
+Women's Clothing, Women's Tops, Hugo Chavez Casual Sleeveless Solid Women's Top , 497 , 1199 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Addyvero Floral Print Women's Tunic , 647 , 1299 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Mayra Party 3/4 Sleeve Solid Women's Top , 549 , 895 , 2 , 4.8 , 2 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Casual 3/4 Sleeve Solid Women's Top , 349 , 899 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Athena Casual Short Sleeve Printed Women's Top , 898 , 2499 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Leelan Casual Short Sleeve Geometric Print Women's Top , 299 , 700 , 2 , 5 , 5 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 1 , 1
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 550 , 1499 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Cult Fiction Solid Women's Round Neck T-Shirt , 599 , 599 , 2 , 0 , 4 , 1
+Women's Clothing, Women's Tops, U&F Casual 3/4 Sleeve Solid Women's Top , 439 , 999 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Kasturi Casual Full Sleeve Solid Women's Top , 499 , 1999 , 4 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Kasturi Casual Full Sleeve Solid Women's Top , 499 , 1699 , 4 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Bedazzle Casual 3/4 Sleeve Graphic Print Women's Top , 399 , 1200 , 3 , 5 , 2 , 1
+Women's Clothing, Women's Tops, Bedazzle Casual 3/4 Sleeve Printed Women's Top , 399 , 1200 , 3 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Kashana Fashions Casual 3/4 Sleeve Floral Print Women's... , 399 , 1499 , 3 , 5 , 3 , 1
+Women's Clothing, Women's Tops, W Casual Short Sleeve Self Design Women's Top , 629 , 899 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Women's Checkered Formal Shirt , 448 , 799 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Scullers Regular Fit Women's Trousers , 1709 , 1899 , 5 , 2.0 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Women's Printed Casual Shirt , 1186 , 1695 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, Only Printed Women's Round Neck T-Shirt , 847 , 1695 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Solid Women's Tunic , 448 , 799 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Gas Printed Women's V-neck T-Shirt , 1194 , 1990 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Biba Casual Sleeveless Solid Women's Top , 599 , 599 , 5 , 0 , 2 , 1
+Women's Clothing, Women's Tops, Vero Moda Women's Printed Casual Shirt , 1017 , 1695 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Wrangler Slim Fit Women's Trousers , 1147 , 2295 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, W Casual Full Sleeve Floral Print Women's Top , 909 , 1299 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, Wrangler Stretch Fit Women's Jeans , 1756 , 2195 , 5 , 3.0 , 5 , 1
+Women's Clothing, Women's Tops, Biba Regular Fit Women's Trousers , 809 , 899 , 5 , 2.0 , 0 , 1
+Women's Clothing, Women's Tops, Gas Slim Fit Fit Women's Jeans , 7990 , 7990 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Skinny Fit Women's Trousers , 1099 , 1099 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Solid Women's Tunic , 448 , 799 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Only Casual Short Sleeve Solid Women's Top , 847 , 1695 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Biba Regular Fit Women's Trousers , 849 , 1699 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Gas Casual Full Sleeve Solid Women's Top , 5990 , 5990 , 5 , 0 , 0 , 1

@@ -1,0 +1,84 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Men's Clothing, Men's Jeans, Stylox Slim Fit Men's Jeans , 799 , 1299 , 2 , 4.8 , 5 , 1
+Men's Clothing, Men's Jeans, Lee Regular Fit Men's Jeans , 1349 , 2699 , 5 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Lee Skinny Fit Fit Men's Jeans , 1149 , 2299 , 4 , 5 , 5 , 1
+Men's Clothing, Men's Jeans, Newport Straight Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 1 , 1
+Men's Clothing, Men's Jeans, Leana Regular Fit Men's Jeans , 699 , 1700 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Lee Slim Fit Fit Men's Jeans , 1149 , 2299 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Newport Straight Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, High Star Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Flyjohn Slim Fit Men's Jeans , 498 , 1099 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 0 , 1
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 549 , 1999 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Jeans, Fizzaro Regular Fit Men's Jeans , 444 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Newport Straight Fit Fit Men's Jeans , 629 , 899 , 1 , 4.0 , 3 , 1
+Men's Clothing, Men's Shirts, Blackberrys Men's Striped Formal Shirt , 1610 , 1895 , 4 , 2.5 , 5 , 1
+Men's Clothing, Men's Shirts, Flippd Men's Casual Shirt , 769 , 1099 , 3 , 4.0 , 4 , 1
+Men's Clothing, Men's Shirts, Wrangler Men's Casual Shirt , 1536 , 2195 , 4 , 4.0 , 5 , 1
+Men's Clothing, Men's Shirts, Mc-John Men's Solid Formal Shirt , 599 , 2099 , 4 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Global Nomad Men's Checkered Casual Shirt , 699 , 999 , 2 , 4.0 , 3 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Denim Shirt , 860 , 1722 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, HRX Men's Polka Print Casual Shirt , 719 , 1599 , 4 , 5 , 5 , 1
+Men's Clothing, Men's Shirts, Lee Marc Men's Solid Casual Denim Shirt , 950 , 1299 , 3 , 3.6 , 3 , 1
+Men's Clothing, Men's Shirts, Marc N' Park Men's Solid Casual Shirt , 800 , 1199 , 3 , 4.3 , 3 , 1
+Men's Clothing, Men's Shirts, United Colors of Benetton Men's Solid Casual Shirt , 1379 , 2299 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 5) , 1499 , 4999 , 5 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Demokrazy Solid Men's Henley T-Shirt , 350 , 599 , 2 , 5 , 5 , 1
+Men's Clothing, Men's Tshirts, ETC Solid Men's Polo Neck T-Shirt (Pack of 2) , 594 , 849 , 2 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Alan Jones Graphic Print Men's Round Neck T-Shirt (Pack... , 699 , 1598 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Jockey Solid Men's Round Neck T-Shirt , 379 , 379 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Trendmakerz Graphic Print Men's Round Neck T-Shirt , 449 , 999 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 0 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt , 279 , 939 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt (Pack of 4) , 949 , 3199 , 5 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, ETC Solid Men's Polo Neck T-Shirt (Pack of 2) , 594 , 849 , 2 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Weardo Solid Men's Polo T-Shirt , 328 , 699 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 5) , 1499 , 4999 , 5 , 5 , 5 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Alan Jones Printed Men's Round Neck T-Shirt , 369 , 799 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 516 , 699 , 2 , 3.6 , 3 , 1
+Women's Clothing, Women's Tops, U&F Casual 3/4 Sleeve Solid Women's Top , 499 , 1349 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Vvoguish Casual 3/4 Sleeve Printed Women's Top , 443 , 699 , 2 , 4.6 , 1 , 1
+Women's Clothing, Women's Tops, Protext Women's Solid Casual Shirt , 599 , 1499 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 419 , 699 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 532 , 799 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, India Inc Casual Cape Sleeve Printed Women's Top , 249 , 1099 , 3 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Kasturi Women's Solid Casual Denim Shirt , 699 , 2399 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Tops, So Sweety Printed Women's Round Neck T-Shirt (Pack of 4) , 499 , 999 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 5 , 1
+Women's Clothing, Women's Tops, So Sweety Printed Women's Round Neck T-Shirt (Pack of 4) , 499 , 999 , 2 , 5 , 5 , 1
+Women's Clothing, Women's Tops, Golden Couture Casual Party Festive Formal Full Slee... , 499 , 999 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Trend18 Casual 3/4 Sleeve Printed Women's Top , 492 , 799 , 2 , 4.8 , 4 , 1
+Women's Clothing, Women's Tops, Neburu Women's Solid Casual Shirt , 649 , 1399 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 4 , 1
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 999 , 2899 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Espresso Casual 3/4 Sleeve Solid Women's Top , 499 , 799 , 2 , 4.7 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Casual 3/4 Sleeve Printed Women's Top , 532 , 799 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 550 , 1400 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Lady Stark Party Full Sleeve Solid Women's Top , 490 , 1790 , 4 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Lynda Casual Cape Sleeve Solid Women's Top , 499 , 999 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Goodwill Impex Casual 3/4 Sleeve Solid Women's Top , 399 , 1150 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Hugo Chavez Women's Solid Casual Denim Shirt , 579 , 1499 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Vaak Casual Sleeveless Striped Women's Top , 499 , 699 , 2 , 3.8 , 3 , 1
+Women's Clothing, Women's Tops, Dede's Casual Roll-up Sleeve Printed Women's Top , 399 , 1099 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Peppermint Casual Short Sleeve Embroidered Women's Top , 399 , 399 , 1 , 0 , 3 , 1
+Women's Clothing, Women's Tops, Golden Couture Casual Festive Formal Party Short Sle... , 499 , 999 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Women's Solid Casual Shirt , 532 , 799 , 2 , 4.3 , 4 , 1
+Women's Clothing, Women's Tops, Thegudlook Women's Printed Casual Shirt , 554 , 999 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Gmi Women's Self Design Casual Shirt , 399 , 799 , 2 , 5 , 1 , 1
+Women's Clothing, Women's Tops, Mayra Casual 3/4 Sleeve Solid Women's Top , 550 , 895 , 2 , 4.8 , 4 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 349 , 799 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Vestire Women's Solid Formal Casual Shirt , 359 , 799 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Gas Printed Women's V-neck T-Shirt , 2094 , 3490 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, Wrangler Skinny Fit Women's Trousers , 1836 , 2295 , 5 , 3.0 , 2 , 5
+Women's Clothing, Women's Tops, Gas Full Sleeve Solid Women's Denim Jacket , 7990 , 7990 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Wrangler Women's Printed Casual Top , 887 , 1395 , 5 , 4.6 , 4 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Women's Checkered Formal Shirt , 448 , 799 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Biba Printed Women's Tunic , 1999 , 1999 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Self Design Women's Top , 777 , 1295 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Biba Regular Fit Women's Trousers , 719 , 1199 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Biba Printed Women's Tunic , 1399 , 1399 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Striped Women's Top , 1197 , 1995 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Casual Short Sleeve Floral Print ... , 448 , 799 , 5 , 5 , 3 , 1

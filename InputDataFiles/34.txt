@@ -1,0 +1,40 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Goyal Black Flats , 198 , 600 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Puma Street Rider Wns Ind Running shoes , 1539 , 2799 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Reebok Classic Proton Lp Sneakers , 1277 , 2299 , 4 , 5 , 0 , 1
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Pure- Welcome PF01 Flats , 299 , 499 , 1 , 5 , 2 , 1
+Footwear, Women's Shoes, Skechers Ez Flex 2 - Navigate Walking Shoes , 2399 , 3999 , 5 , 5 , 3 , 1
+Footwear, Women's Shoes, Pure Flats , 299 , 499 , 1 , 5 , 4 , 1
+Footwear, Women's Shoes, Adidas Altros 1.0 W Running Shoes , 1333 , 2399 , 4 , 5 , 5 , 1
+Footwear, Women's Shoes, Puma Wirko Xc Wn'S Sneakers , 1299 , 1999 , 4 , 4.5 , 4 , 1
+Footwear, Women's Shoes, Buywell jitnd Sneakers , 497 , 1099 , 3 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Cutwork Bellies , 470 , 499 , 1 , 1.5 , 3 , 1
+Footwear, Women's Shoes, Crocs Relief Sandals , 1792 , 1995 , 4 , 2.0 , 3 , 1
+Footwear, Women's Shoes, Soft & Sleek Wedges , 499 , 2199 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Chics Boots , 499 , 499 , 1 , 0 , 4 , 1
+Footwear, Men's Shoes, Puma Axis IV XT DP Running Shoes , 1949 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Puma Drongos DP Mid Ankle Sneakers , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Unlimited Mid DP Mid Ankle Sneakers , 3249 , 4999 , 5 , 5 , 0 , 1
+Footwear, Men's Shoes, Puma Pluto DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Wirko XC 2 DP Sneakers , 1154 , 2099 , 4 , 5 , 5 , 1
+Footwear, Men's Shoes, Adidas Rokewood Mid Lea Outdoors Shoes , 3249 , 4999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Strike Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lee Cooper Corporate Casuals , 2499 , 2499 , 4 , 0 , 4 , 1
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Hip Hop III Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Breeze V Flip Flops , 1399 , 1399 , 3 , 0 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 3 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Women's Shoes, Forever Footwear Flats , 219 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Acto SL-03 Running Shoes , 499 , 499 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Jade Tie Up Flats , 399 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Neon-Deep Brown Ballerinas Bellies , 299 , 499 , 1 , 5 , 3 , 1
+Footwear, Women's Shoes, Forever Footwear Heels , 299 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Shezone Flats , 449 , 499 , 1 , 2.0 , 4 , 1
+Footwear, Women's Shoes, Shezone Flats , 449 , 499 , 1 , 2.0 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 349 , 499 , 1 , 4.0 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Lycra Belly Heels , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Puma Lucie Wn S Slippers , 777 , 1399 , 3 , 5 , 0 , 1
+Footwear, Women's Shoes, Hannah Traders Heels , 499 , 700 , 2 , 3.8 , 4 , 1
+Footwear, Women's Shoes, Ridhi Sidhi Ethnic Hand Embroidered 'N' Brocade Slipper... , 249 , 799 , 2 , 5 , 3 , 1

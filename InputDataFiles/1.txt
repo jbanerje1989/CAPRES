@@ -1,0 +1,303 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Myra Pair Of Multicolored Flats , 319 , 899 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Paduki Ethnic Footwear Flats , 249 , 599 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Do Bhai Flats , 499 , 499 , 1 , 0 , 4 , 5
+Footwear, Women's Shoes, Remson India Black gola Flats , 399 , 499 , 1 , 3.0 , 4 , 5
+Footwear, Women's Shoes, Forever Footwear Flats , 299 , 799 , 2 , 5 , 3 , 5
+Footwear, Women's Shoes, Pure Flats , 299 , 499 , 1 , 5 , 4 , 5
+Footwear, Women's Shoes, Reebok Classic Proton Lp Sneakers , 1277 , 2299 , 4 , 5 , 4 , 5
+Footwear, Women's Shoes, Puma Street Rider Wns Dp Sneakers , 1819 , 2799 , 4 , 4.5 , 4 , 5
+Footwear, Women's Shoes, Do Bhai Dot Leopard , 499 , 499 , 1 , 0 , 4 , 5
+Footwear, Women's Shoes, Dolphin Miles Designer Wedges Wedges , 315 , 525 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Royal Collection Bellies , 399 , 799 , 2 , 5 , 5 , 5
+Footwear, Women's Shoes, Do Bhai Flats , 299 , 499 , 1 , 5 , 4 , 5
+Footwear, Women's Shoes, Cenizas Collage Fly Wedges , 440 , 799 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 5
+Footwear, Women's Shoes, Kanchan Sandals , 399 , 870 , 2 , 5 , 4 , 5
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 5
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 4 , 5
+Footwear, Women's Shoes, Do Bhai Flats , 280 , 499 , 1 , 5 , 5 , 5
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 5
+Footwear, Women's Shoes, Select Black Sneakers , 499 , 999 , 2 , 5 , 3 , 5
+Footwear, Women's Shoes, Puma Sneakers , 1374 , 2499 , 4 , 5 , 5 , 1
+Footwear, Women's Shoes, Xtrafit XFT DC 53 Running Shoes , 408 , 500 , 2 , 2.8 , 4 , 1
+Footwear, Women's Shoes, Myra Flats , 299 , 949 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Forever Footwear Flats , 299 , 799 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Puma Descendant v2 Wn's IND DP Running Shoes , 2388 , 4299 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Lancer Purple Canvas Shoes , 399 , 399 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Dolphin Miles Wedges , 315 , 525 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Puma Street Rider Wn's DP Sneakers , 1819 , 2799 , 4 , 4.5 , 4 , 1
+Footwear, Women's Shoes, Ridhi Sidhi Bead Studded Flats , 349 , 899 , 2 , 5 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 349 , 499 , 1 , 4.0 , 4 , 1
+Footwear, Women's Shoes, Goyal Black Flats , 198 , 600 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Puma Street Rider Wns Ind Running shoes , 1539 , 2799 , 4 , 5 , 4 , 1
+Footwear, Women's Shoes, Reebok Classic Proton Lp Sneakers , 1277 , 2299 , 4 , 5 , 0 , 1
+Footwear, Women's Shoes, Puma Flip Flops , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Men's Shoes, Fila Scroll Sneakers , 1799 , 2699 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Lotto Rapid Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Ceylon Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Skechers Go Walk 2 Walking Shoes , 2399 , 3999 , 4 , 5 , 5 , 5
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Pluto DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 5
+Footwear, Men's Shoes, Adidas Altros 1.0 M Running Shoes , 1374 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Lotto Pounce Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Argus DP Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Fila Scroll Sneakers , 1799 , 2699 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Hip Hop 4 Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Reebok On Court Iv Lp Canvas Shoes , 1299 , 1999 , 3 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Street Rider Wns Ind Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Sir Corbett Hector Lace Up Shoes , 799 , 1999 , 3 , 5 , 3 , 5
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP Sneakers , 1264 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Lynus DP Sneakers , 1494 , 2299 , 4 , 5 , 4 , 5
+Footwear, Men's Shoes, Puma Brent Dp Running Shoes , 1819 , 2799 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Rider DP Running Shoes , 1649 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Lotto Rapid Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Walk 2 Walking Shoes , 2399 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Skechers Go Run Ultra Running Shoes , 3899 , 6499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Nivia Destroyer Spain Football Studs , 559 , 799 , 2 , 5 , 4 , 1
+Footwear, Men's Shoes, Fila Blown Running Shoes , 1733 , 2599 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Tremor Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Starling DP Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Limnos CAT 2 DP burnt olive-white swan-w Sneakers , 1494 , 2299 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Woody DP turbulence Sandals , 1169 , 1799 , 3 , 5 , 3 , 1
+Footwear, Men's Shoes, Puma Running Shoes , 2199 , 3999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Reebok Realflex Speed 2.0 Running Shoes , 4199 , 6999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Adidas Ermis M Running Shoes , 2999 , 2999 , 4 , 0 , 3 , 1
+Footwear, Men's Shoes, Puma Kuris II Ind. Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Tremor Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, adidas Adi Rio Flip Flops , 999 , 999 , 2 , 0 , 3 , 1
+Footwear, Men's Shoes, Puma PUMA Rebound v.2 Hi Sneakers , 2474 , 4499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Lotto Pacer Running Shoes , 1124 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Kevler 2 DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Nova Ind. Sports Sandals , 879 , 1599 , 3 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Unlimited Mid DP Mid Ankle Sneakers , 3249 , 4999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Puma Atom Fashion DP Running Shoes , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma TX-3 Sneakers , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Axis III Ind. Running Shoes , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Osu v4 DP Running Shoes , 3249 , 4999 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Axis IV XT DP Running Shoes , 1949 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, Puma Drongos DP Mid Ankle Sneakers , 1649 , 2999 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Unlimited Mid DP Mid Ankle Sneakers , 3249 , 4999 , 5 , 5 , 0 , 1
+Footwear, Men's Shoes, Puma Pluto DP Running Shoes , 2364 , 4299 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Wirko XC 2 DP Sneakers , 1154 , 2099 , 4 , 5 , 5 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Artificial Leather Belt BLK-02 , 180 , 399 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Abhinavs Men Formal Casual Black Brown Genuine Leather Reversible Belt BLBW08 , 299 , 750 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Stylox Men Casual Black Genuine Leather Belt Black-8 , 99 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Formal Brown Artificial Leather Belt BRN-02 , 180 , 399 , 1 , 5 , 2 , 1
+Men's Accessories, Men's Belts, Swastika Men Casual Brown Genuine Leather Belt Brown 022 , 499 , 999 , 2 , 5 , 5 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Semi-formal Black Artificial Leather Belt Black-02 , 187 , 499 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Louis Philippe Men Brown Black Reversible Belt Black/Brown , 1259 , 2099 , 3 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Danmaneao Men Casual Formal Brown Artificial Leather Belt Brown , 275 , 360 , 1 , 3.3 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Purple Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, OTLS Men Women Casual Grey White Canvas Belt Navy, White , 169 , 379 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 299 , 999 , 2 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Swastika Men Casual Brown Genuine Leather Belt Brown 022 , 499 , 999 , 2 , 5 , 5 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Artificial Leather Belt Black , 225 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Best Walk Men Formal Black Genuine Leather Belt black , 149 , 799 , 1 , 5 , 2 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black White Genuine Leather Belt Black-01 , 318 , 849 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, WildHide Men Formal Black Genuine Leather Belt Black , 399 , 1299 , 2 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Evening/Party Casual Yellow Genuine Leather Belt Yellow-02 , 180 , 399 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, Blimey Men Semi-formal Brown Genuine Leather Belt DustyBrown-05 , 249 , 1099 , 2 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Danmaneao Men Casual Formal Black Artificial Leather Belt Black , 265 , 360 , 1 , 3.6 , 3 , 1
+Men's Accessories, Men's Belts, Bluth Men Formal Black Artificial Leather Reversible Belt Black Brown , 279 , 999 , 2 , 5 , 4 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Brown Genuine Leather Belt Black-01 , 360 , 799 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Formal Black Artificial Leather Belt BLK-02 , 180 , 399 , 1 , 5 , 4 , 1
+Men's Accessories, Men's Belts, OTLS Men Women Casual Orange Beige Canvas Belt Beige, Brown , 169 , 379 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Formal Casual Black Artificial Leather Belt BLK-02 , 225 , 499 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Black Brown Genuine Leather Reversible Belt Black and Brown , 345 , 745 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, SkyWays Men Evening/Party Casual Purple Genuine Leather Belt Purple-02 , 180 , 399 , 1 , 5 , 3 , 1
+Men's Accessories, Men's Belts, Winsome Men Formal Black Genuine Leather Belt BT-02 Black , 149 , 209 , 1 , 3.8 , 3 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Casual Black Canvas Belt Black , 199 , 350 , 1 , 5 , 2 , 1
+Men's Accessories, Men's Belts, SkyWays Men Casual Semi-formal Tan Artificial Leather Belt Tan-01 , 187 , 499 , 1 , 5 , 0 , 1
+Men's Accessories, Men's Belts, Winsome Deal Men Formal Casual Black Genuine Leather Belt Black , 345 , 745 , 1 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Ave Slim Fit Men's Jeans , 549 , 1198 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 0 , 1
+Men's Clothing, Men's Jeans, Indigen Slim Fit Men's Jeans , 699 , 999 , 2 , 4.0 , 3 , 1
+Men's Clothing, Men's Jeans, Alan Woods Slim Fit Men's Jeans , 529 , 1399 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 699 , 1999 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Newport Straight Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 0 , 1
+Men's Clothing, Men's Jeans, Fashion Regular Fit Men's Jeans , 444 , 1499 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Fit Men's Jeans , 1439 , 1799 , 3 , 3.0 , 3 , 1
+Men's Clothing, Men's Jeans, Newport Straight Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Men's Jeans , 539 , 899 , 1 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Skinny Fit Fit Men's Jeans , 2236 , 3195 , 5 , 4.0 , 4 , 1
+Men's Clothing, Men's Jeans, Fashion Regular Fit Men's Jeans , 444 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 625 , 999 , 2 , 4.7 , 0 , 1
+Men's Clothing, Men's Jeans, Ben Carter Slim Fit Men's Jeans , 529 , 1399 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Kook N Keech Regular Fit Men's Jeans , 779 , 1299 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Kook N Keech Regular Fit Men's Jeans , 749 , 1499 , 3 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 629 , 899 , 1 , 4.0 , 0 , 1
+Men's Clothing, Men's Jeans, Ben Carter Slim Fit Men's Jeans , 529 , 1399 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Alan Woods Slim Fit Men's Jeans , 579 , 1399 , 2 , 5 , 5 , 1
+Men's Clothing, Men's Jeans, Club Vintage Slim Fit Men's Jeans , 499 , 1599 , 3 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Fizzaro Regular Fit Men's Jeans , 494 , 1499 , 3 , 5 , 1 , 1
+Men's Clothing, Men's Jeans, Newport Slim Fit Fit Men's Jeans , 599 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 2 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Lee Regular Fit Fit Men's Jeans , 1299 , 2599 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Levi's Slim Fit Men's Jeans , 1599 , 1999 , 3 , 3.0 , 5 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Levi's Men's Jeans , 1679 , 2799 , 5 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, High Star Slim Fit Men's Jeans , 599 , 999 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Eprilla Slim Fit Men's Jeans , 699 , 1999 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Jeans, Uber Urban Regular Fit Men's Jeans , 549 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Wrangler Regular Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Jeans, Uber Urban Slim Fit Men's Jeans , 599 , 2599 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Jeans, Wrangler Slim Fit Fit Men's Jeans , 1377 , 2295 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, United Colors of Benetton Basic I Flip Flops , 348 , 499 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Woodland Leather Sandals , 1944 , 2595 , 5 , 4.33333333333 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Sneakers , 1494 , 2499 , 5 , 5 , 4 , 5
+Footwear, Men's Shoes, Diesel Palky Klawny Corporate Casuals , 11962 , 14990 , 5 , 3.66666666667 , 0 , 1
+Footwear, Men's Shoes, Kenneth Cole Reaction Proud 2 Be Le Monk Strap , 7972 , 9990 , 5 , 3.66666666667 , 0 , 1
+Footwear, Men's Shoes, Diesel Leegos City Loafers , 8770 , 10990 , 5 , 3.66666666667 , 0 , 1
+Footwear, Men's Shoes, Woodland Leather Sandals , 1944 , 2595 , 5 , 4.33333333333 , 5 , 1
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 1793 , 2999 , 5 , 5 , 4 , 5
+Footwear, Men's Shoes, Woodland Boots , 2768 , 3695 , 5 , 4.33333333333 , 5 , 1
+Footwear, Men's Shoes, Woodland Leather Sandals , 1944 , 2595 , 5 , 4.33333333333 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Sneakers , 1674 , 2799 , 5 , 5 , 4 , 1
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2618 , 3495 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Leather Sandals , 1944 , 2595 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2093 , 2795 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Sandals , 3195 , 3195 , 5 , 0 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Fashion 15 SS 5 Flip Flops , 348 , 499 , 5 , 5 , 5 , 5
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2543 , 3395 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, United Colors of Benetton Loafers , 2690 , 4499 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Woodland Sneakers , 2543 , 3395 , 5 , 4.33333333333 , 0 , 1
+Footwear, Men's Shoes, Kenneth Cole Reaction After Market Loafers , 7181 , 8999 , 5 , 3.66666666667 , 0 , 1
+Men's Clothing, Men's Shirts, GHPC Men's Solid Casual Shirt , 499 , 1299 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Roadster Men's Checkered Casual Shirt , 499 , 999 , 2 , 5 , 5 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 949 , 1899 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Ivoc Men's Solid Casual Shirt , 345 , 1199 , 3 , 5 , 5 , 1
+Men's Clothing, Men's Shirts, Blackberrys Men's Striped Formal Shirt , 1610 , 1895 , 4 , 2.5 , 5 , 1
+Men's Clothing, Men's Shirts, Flippd Men's Casual Shirt , 769 , 1099 , 3 , 4.0 , 4 , 1
+Men's Clothing, Men's Shirts, Wrangler Men's Casual Shirt , 1536 , 2195 , 4 , 4.0 , 5 , 1
+Men's Clothing, Men's Shirts, Mc-John Men's Solid Formal Shirt , 599 , 2099 , 4 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, Global Nomad Men's Checkered Casual Shirt , 699 , 999 , 2 , 4.0 , 3 , 1
+Men's Clothing, Men's Shirts, Rodid Men's Solid Casual Denim Shirt , 860 , 1722 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, HRX Men's Polka Print Casual Shirt , 719 , 1599 , 4 , 5 , 5 , 1
+Men's Clothing, Men's Shirts, Lee Marc Men's Solid Casual Denim Shirt , 950 , 1299 , 3 , 3.6 , 3 , 1
+Men's Clothing, Men's Shirts, Marc N' Park Men's Solid Casual Shirt , 800 , 1199 , 3 , 4.3 , 3 , 1
+Men's Clothing, Men's Shirts, United Colors of Benetton Men's Solid Casual Shirt , 1379 , 2299 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Solid Formal Shirt , 349 , 800 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, NPC Men's Solid Formal Shirt , 599 , 2099 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Shirts, Dazzio Men's Solid Casual Shirt , 1090 , 1470 , 3 , 3.5 , 4 , 1
+Men's Clothing, Men's Shirts, HRX Men's Checkered Casual Shirt , 679 , 1699 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Shirts, Mast & Harbour Men's Checkered Formal Shirt , 764 , 1699 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Shirts, Koolpals Men's Solid Formal Shirt , 349 , 780 , 2 , 5 , 1 , 1
+Men's Clothing, Men's Shirts, GHPC Men's Solid Casual Shirt , 499 , 1299 , 3 , 5 , 2 , 1
+Men's Clothing, Men's Shirts, United Colors of Benetton Men's Solid Casual Shirt , 1379 , 2299 , 4 , 5 , 0 , 1
+Men's Clothing, Men's Shirts, Ruggers Men's Checkered Casual Shirt , 549 , 999 , 2 , 5 , 0 , 1
+Men's Clothing, Men's Shirts, Flippd Men's Casual Shirt , 769 , 1099 , 3 , 4.0 , 4 , 1
+Men's Clothing, Men's Shirts, Lee Men's Checkered Casual Shirt , 949 , 1899 , 4 , 5 , 5 , 1
+Men's Clothing, Men's Shirts, Flippd Men's Printed Casual Shirt , 699 , 999 , 2 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Difference of Opinion Printed Men's Round Neck T-Shirt , 499 , 499 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Amore Printed Men's Round Neck Reversible T-Shirt , 199 , 799 , 2 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 669 , 1699 , 4 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt (Pack of 5) , 1499 , 4999 , 5 , 5 , 5 , 1
+Men's Clothing, Men's Tshirts, Huetrap Graphic Print Men's Round Neck T-Shirt , 499 , 499 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Unisopent Designs Solid Men's V-neck T-Shirt , 349 , 499 , 1 , 4.0 , 4 , 1
+Men's Clothing, Men's Tshirts, Alan Jones Printed Men's Round Neck T-Shirt (Pack of 2) , 699 , 1598 , 4 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Henley T-Shirt , 329 , 1099 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Gritstones Solid Men's Round Neck T-Shirt , 519 , 649 , 2 , 3.0 , 3 , 1
+Men's Clothing, Men's Tshirts, Leana Striped Men's Henley T-Shirt , 329 , 758 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Top Notch Solid Men's Henley T-Shirt (Pack of 2) , 629 , 1499 , 3 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Rodid Solid Men's V-neck T-Shirt , 399 , 1000 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Rodid Solid Men's V-neck T-Shirt , 399 , 1000 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, TSX Solid Men's Polo T-Shirt , 279 , 939 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Jockey Solid Men's Round Neck T-Shirt , 379 , 379 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Duke Striped Men's Polo Neck T-Shirt (Pack of 2) , 725 , 725 , 2 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Zovi Solid Men's Round Neck T-Shirt , 149 , 299 , 1 , 5 , 4 , 1
+Men's Clothing, Men's Tshirts, Alan Jones Printed Men's Round Neck T-Shirt , 369 , 799 , 2 , 5 , 3 , 1
+Men's Clothing, Men's Tshirts, Jockey Solid Men's V-neck T-Shirt , 349 , 349 , 1 , 0 , 4 , 1
+Men's Clothing, Men's Tshirts, Lee Printed Men's Round Neck T-Shirt , 599 , 1199 , 3 , 5 , 0 , 1
+Footwear, Women's Shoes, Carlton London Heels , 1990 , 3995 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Carlton London Flats , 745 , 1495 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Carlton London Bellies , 1197 , 1995 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, La Isla Heels , 779 , 2599 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Solovoga Bairun Flats , 1096 , 2200 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Tresmode Bewedged Wedges , 1345 , 2700 , 5 , 5 , 4 , 5
+Footwear, Women's Shoes, Carlton London Heels , 1990 , 3995 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Van Heusen Bellies , 1073 , 1795 , 5 , 5 , 0 , 5
+Footwear, Women's Shoes, Lavie Wedges , 1425 , 2595 , 5 , 5 , 5 , 5
+Footwear, Women's Shoes, DONE BY NONE Missing That Holiday Beat Wedges , 1317 , 2399 , 5 , 5 , 0 , 5
+Women's Clothing, Women's Tops, U&F Casual 3/4 Sleeve Solid Women's Top , 439 , 999 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 349 , 799 , 2 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Dede's Casual Short Sleeve Solid Women's Top , 399 , 1199 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Peppermint Casual Sleeveless Printed Women's Top , 319 , 319 , 1 , 0 , 3 , 1
+Women's Clothing, Women's Tops, Peppermint Formal Sleeveless Floral Print Women's Top , 319 , 319 , 1 , 0 , 4 , 1
+Women's Clothing, Women's Tops, Hugo Chavez Casual Short Sleeve Solid Women's Top , 487 , 1575 , 4 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 269 , 499 , 1 , 5 , 2 , 1
+Women's Clothing, Women's Tops, Dede's Casual Short Sleeve Floral Print Women's Top , 399 , 1099 , 3 , 5 , 2 , 1
+Women's Clothing, Women's Tops, Dede's Casual Roll-up Sleeve Printed Women's Top , 399 , 1099 , 3 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 349 , 799 , 2 , 5 , 2 , 1
+Women's Clothing, Women's Tops, Lynda Casual Short Sleeve Printed Women's Top , 499 , 999 , 2 , 5 , 5 , 1
+Women's Clothing, Women's Tops, U&F Casual 3/4 Sleeve Solid Women's Top , 439 , 999 , 2 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Peppermint Casual Short Sleeve Checkered Women's Top , 319 , 319 , 1 , 0 , 4 , 1
+Women's Clothing, Women's Tops, Vvoguish Casual Full Sleeve Solid Women's Top , 443 , 699 , 2 , 4.6 , 3 , 1
+Women's Clothing, Women's Tops, Exhort Fashion Solid Women's Round Neck T-Shirt (Pack o... , 269 , 499 , 1 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Honey by Pantaloons Printed Women's Round Neck T-Shirt , 199 , 249 , 1 , 3.0 , 4 , 1
+Women's Clothing, Women's Tops, Vvoguish Casual 3/4 Sleeve Paisley Women's Top , 443 , 699 , 2 , 4.6 , 3 , 1
+Women's Clothing, Women's Tops, Be Style Printed Women's Round Neck T-Shirt (Pack of 3) , 649 , 747 , 2 , 2.3 , 4 , 1
+Women's Clothing, Women's Tops, Vvoguish Casual 3/4 Sleeve Polka Print Women's Top , 443 , 599 , 2 , 3.6 , 3 , 1
+Women's Clothing, Women's Tops, Cation Casual 3/4 Sleeve Solid Women's Top , 499 , 1199 , 3 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Eves Pret A Porter Solid Women's Tunic , 475 , 1049 , 3 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Mayra Party Sleeveless Self Design Women's Top , 550 , 1195 , 3 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Athena Casual Full Sleeve Solid Women's Top , 799 , 1590 , 4 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Peppermint Casual Short Sleeve Floral Print Women's Top , 429 , 429 , 1 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Cult Fiction Polka Print Women's Fashion Neck T-Shirt , 699 , 699 , 2 , 0 , 4 , 1
+Women's Clothing, Women's Tops, Vero Moda Printed Women's Round Neck T-Shirt , 597 , 995 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Gas Skinny Fit Women's Jeans , 5990 , 5990 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, W Casual 3/4 Sleeve Solid Women's Top , 769 , 1099 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Printed Women's Top , 906 , 1295 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Printed Women's Top , 777 , 1295 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Wrangler Stretch Fit Women's Jeans , 1396 , 1995 , 5 , 4.0 , 4 , 1
+Women's Clothing, Women's Tops, Vero Moda Women's Solid Casual Shirt , 1377 , 2295 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Striped Women's A-line Skirt , 1147 , 2295 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Wrangler Sleeveless Solid Women's Jacket , 1347 , 2695 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Solid Women's Tunic , 448 , 799 , 5 , 5 , 4 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Sleeveless Self Design Women's Top , 1746 , 2495 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, Gas Skinny Fit Fit Women's Jeans , 2994 , 4990 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, French Connection Printed Women's Round Neck T-Shirt , 3373 , 5999 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Only Casual Short Sleeve Solid Women's Top , 747 , 1495 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Solid Women's Top , 2446 , 3495 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, Only Casual Full Sleeve Striped Women's Top , 2295 , 2295 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, GAS Women's Solid Casual Shirt , 1995 , 3990 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Women's Solid Casual Shirt , 1017 , 1695 , 5 , 5 , 5 , 1
+Women's Clothing, Women's Tops, Gas Slim Fit Women's Jeans , 2994 , 4990 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, W Casual 3/4 Sleeve Solid Women's Top , 1348 , 2699 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Printed Women's Top , 777 , 1295 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, W Casual 3/4 Sleeve Self Design Women's Top , 909 , 1299 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, GAS Regular Fit Women's Jeans , 3569 , 6490 , 5 , 5 , 2 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Solid Women's Top , 1737 , 2895 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Self Design Women's Top , 1886 , 2695 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, Wrangler Slim Fit Women's Jeans , 1377 , 2295 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Short Sleeve Solid Women's Top , 647 , 1295 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Gas Solid Women's Round Neck T-Shirt , 2394 , 3990 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Gas Solid Women's Round Neck T-Shirt , 2394 , 3990 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Only Women's Solid Casual Shirt , 997 , 1995 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Only Sports Sleeveless Printed Women's Top , 647 , 1295 , 5 , 5 , 1 , 1
+Women's Clothing, Women's Tops, Gas Slim Fit Fit Women's Jeans , 9500 , 9500 , 5 , 0 , 0 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Printed Women's Tunic , 719 , 799 , 5 , 2.0 , 4 , 1
+Women's Clothing, Women's Tops, Vero Moda Casual Sleeveless Printed Women's Top , 1617 , 2695 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Gas Skinny Fit Women's Jeans , 4194 , 6990 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, W Casual Short Sleeve Self Design Women's Top , 629 , 899 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Women's Checkered Formal Shirt , 448 , 799 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Scullers Regular Fit Women's Trousers , 1709 , 1899 , 5 , 2.0 , 0 , 1
+Women's Clothing, Women's Tops, Vero Moda Women's Printed Casual Shirt , 1186 , 1695 , 5 , 4.0 , 0 , 1
+Women's Clothing, Women's Tops, Only Printed Women's Round Neck T-Shirt , 847 , 1695 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Style Quotient by Noi Solid Women's Tunic , 448 , 799 , 5 , 5 , 3 , 1
+Women's Clothing, Women's Tops, Gas Printed Women's V-neck T-Shirt , 1194 , 1990 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Biba Casual Sleeveless Solid Women's Top , 599 , 599 , 5 , 0 , 2 , 1
+Women's Clothing, Women's Tops, Vero Moda Women's Printed Casual Shirt , 1017 , 1695 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, Wrangler Slim Fit Women's Trousers , 1147 , 2295 , 5 , 5 , 0 , 1
+Women's Clothing, Women's Tops, W Casual Full Sleeve Floral Print Women's Top , 909 , 1299 , 5 , 4.0 , 0 , 1

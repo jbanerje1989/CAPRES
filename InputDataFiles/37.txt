@@ -1,0 +1,36 @@
+Product Type, Item Type, Item Name, Cost(with discount), Cost(without discount), Brand, Discount, Quality, Media Influence
+Footwear, Women's Shoes, Aadolf Flats , 119 , 599 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Forever Footwear Flats , 219 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Acto SL-03 Running Shoes , 499 , 499 , 1 , 0 , 4 , 1
+Footwear, Women's Shoes, Jade Tie Up Flats , 399 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Neon-Deep Brown Ballerinas Bellies , 299 , 499 , 1 , 5 , 3 , 1
+Footwear, Women's Shoes, Forever Footwear Heels , 299 , 799 , 2 , 5 , 4 , 1
+Footwear, Women's Shoes, Shezone Flats , 449 , 499 , 1 , 2.0 , 4 , 1
+Footwear, Women's Shoes, Shezone Flats , 449 , 499 , 1 , 2.0 , 3 , 1
+Footwear, Women's Shoes, Do Bhai Flats , 349 , 499 , 1 , 4.0 , 4 , 1
+Footwear, Women's Shoes, Do Bhai Lycra Belly Heels , 499 , 499 , 1 , 0 , 3 , 1
+Footwear, Women's Shoes, Puma Lucie Wn S Slippers , 777 , 1399 , 3 , 5 , 0 , 1
+Footwear, Women's Shoes, Hannah Traders Heels , 499 , 700 , 2 , 3.8 , 4 , 1
+Footwear, Women's Shoes, Ridhi Sidhi Ethnic Hand Embroidered 'N' Brocade Slipper... , 249 , 799 , 2 , 5 , 3 , 1
+Footwear, Men's Shoes, Puma Hip Hop III Ind. Sneakers , 1624 , 2499 , 4 , 5 , 4 , 1
+Footwear, Men's Shoes, Puma Breeze V Flip Flops , 1399 , 1399 , 3 , 0 , 4 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 3 , 1
+Footwear, Men's Shoes, TerraVulc Running Shoes , 371 , 495 , 1 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Sparx Sandals , 1275 , 1275 , 3 , 0 , 4 , 1
+Footwear, Men's Shoes, Clarks Reeder Place Corporate Casuals , 3486 , 6999 , 5 , 5 , 5 , 1
+Footwear, Men's Shoes, Fila Trekking Outdoor Shoes , 1999 , 2999 , 4 , 5 , 3 , 1
+Footwear, Men's Shoes, United Colors of Benetton Sneakers , 2391 , 3999 , 5 , 5 , 0 , 1
+Footwear, Men's Shoes, Diesel Urbany Sprawl Low Sneakers , 7573 , 9490 , 5 , 3.66666666667 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Boat Shoes , 2092 , 3499 , 5 , 5 , 3 , 1
+Footwear, Men's Shoes, Woodland Outdoors Shoes , 2543 , 3395 , 5 , 4.33333333333 , 0 , 1
+Footwear, Men's Shoes, United Colors of Benetton Corporate Casuals , 2092 , 3499 , 5 , 5 , 3 , 5
+Footwear, Men's Shoes, United Colors of Benetton Fashion XV SS IV Flip Flops , 558 , 799 , 5 , 5 , 0 , 5
+Footwear, Men's Shoes, United Colors of Benetton Fashion XV SS IV Flip Flops , 558 , 799 , 5 , 5 , 5 , 5
+Footwear, Men's Shoes, Woodland Outdoors Shoes , 2318 , 3095 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Outdoors Shoes , 2543 , 3395 , 5 , 4.33333333333 , 4 , 1
+Footwear, Men's Shoes, Woodland Outdoor Shoes , 2543 , 3395 , 5 , 4.33333333333 , 5 , 1
+Footwear, Women's Shoes, Lavie Bellies , 659 , 1099 , 5 , 5 , 3 , 5
+Footwear, Women's Shoes, Superdry Lifestyle Shoes , 6775 , 8490 , 5 , 3.0 , 0 , 1
+Footwear, Women's Shoes, Kenneth Cole Reaction Flats , 3583 , 4490 , 5 , 3.0 , 0 , 1
+Footwear, Women's Shoes, Carlton London Lifestyle Shoes , 2193 , 3995 , 5 , 5 , 0 , 1
+Footwear, Women's Shoes, Superdry Californi Flip Flops , 1588 , 1990 , 5 , 3.0 , 0 , 1
