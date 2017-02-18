@@ -18,7 +18,6 @@ public class DriverClass {
 		// Should have only one object
 		DriverClass object = new DriverClass();
 		object.PreInitialization();
-		
 		// Exclusive to single user. For each user a separate class is required to be created
 		UserClass user = new UserClass("queryDataRaw_infrequent_1");
 		GraphPruning userG = new GraphPruning();
@@ -28,7 +27,7 @@ public class DriverClass {
 				roadNetworkObj.getVertexLocation(user.getEndDest()),
 				user.getTimeConstraint(),
 				roadNetworkObj);
-		
+
 		ItemPruning userI = new ItemPruning(userG, 
 				itemInventoryObj, 
 				user.getItemList(), 
@@ -42,7 +41,6 @@ public class DriverClass {
 		
 		// Execute Dynamic Program with the retrieved values
 		DynamicProgram DP = new DynamicProgram(roadNetworkObj, user, userG, userI, vertexToVisit);
-		
 		// Execute Heuristic with the retrieved values
 	}
 }

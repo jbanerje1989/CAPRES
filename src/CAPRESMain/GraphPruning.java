@@ -33,7 +33,6 @@ public class GraphPruning {
 				vertexMap.put(v,v);
 			}
 		}
-		System.out.println(vertex.size());
 		// Create the edge list
 		for(int v: vertex){
 			List<Integer> vEdge = new ArrayList<Integer>();
@@ -41,14 +40,13 @@ public class GraphPruning {
 			int index = 0;
 			for(int u : object.edgeList().get(v)){
 				if(vertexMap.containsKey(u)){
-					if(object.getShortestPath(S, v) + object.getShortestPath(v, u) + object.getShortestPath(u, D) <= T){
+					if(object.getShortestPath(S, u) + object.getShortestPath(u, v) + object.getShortestPath(v, D) <= T){
 						vEdge.add(u);
 						vEdgeWeight.add(object.edgeWeightList().get(v).get(index));
 					}
 				}
 				index ++;
 			}	
-			System.out.println(vEdge.size());
 			edge.put(v, vEdge);
 			edgeWeight.put(v, vEdgeWeight);
 		}

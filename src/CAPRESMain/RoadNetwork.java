@@ -43,21 +43,23 @@ public class RoadNetwork {
 		// Input file containing edge information
 		scan = new Scanner(new File("InputDataFiles/CommuteTimeMatrix.txt"));
 		int index = 0; // Index to hold the current vertex 
+		String[][] comMatrix = new String[vertex.size()][vertex.size()];
 		while(scan.hasNext()){
-			String[] line = scan.nextLine().split(" ");
+			comMatrix[index] = scan.nextLine().split(" ");
+			index ++;
+		}
+		
+		for(int i = 0; i < vertex.size(); i++){
 			List<Integer> edgeList = new ArrayList<Integer>();
 			List<Integer> edgeListWeight = new ArrayList<Integer>();
-			int index2 = 0; // holds the vertex number connected to index
-			for(String str: line){
-				if(Integer.parseInt(str) != 0){
-					edgeList.add(index2);
-					edgeListWeight.add(Integer.parseInt(str));
+			for(int j = 0; j < vertex.size(); j++){
+				if(Integer.parseInt(comMatrix[j][i]) != 0){
+					edgeList.add(j);
+					edgeListWeight.add(Integer.parseInt(comMatrix[j][i]));
 				}
-				index2 ++;
 			}
-			edge.put(index, edgeList);
-			edgeWeight.put(index, edgeListWeight);
-			index ++;
+			edge.put(i, edgeList);
+			edgeWeight.put(i, edgeListWeight);
 		}
 		scan.close();
 	}
