@@ -29,7 +29,8 @@ public class DriverClass {
 				user.getTimeConstraint(),
 				roadNetworkObj);
 
-		ItemPruning userI = new ItemPruning(userG, 
+		ItemPruning userI = new ItemPruning(
+				userG, 
 				itemInventoryObj, 
 				user.getItemList(), 
 				user.getNumItems(), 
@@ -41,7 +42,8 @@ public class DriverClass {
 				vertexToVisit.add(roadNetworkObj.getVertexLocation(loc));
 		
 		// Execute Dynamic Program with the retrieved values
-		DynamicProgram DP = new DynamicProgram(roadNetworkObj, user, userG, userI, vertexToVisit);
+		// DynamicProgram DP = new DynamicProgram(roadNetworkObj, user, userG, userI, vertexToVisit);
 		// Execute Heuristic with the retrieved values
+		Heuristic1 obj = new Heuristic1(roadNetworkObj, user, userG, userI, vertexToVisit, 0); 
 	}
 }

@@ -8,7 +8,7 @@ import java.util.List;
 public class ItemPruning {
 	private HashMap<Integer, HashMap<String, List<List<Double>>>> itemValues;
 	ItemPruning(GraphPruning gObject, 
-			ItemInventory itemObject, 
+			ItemInventory itemObject,
 			List<String> itemList, 
 			List<Integer> itemNum, 
 			List<Double> persona){
