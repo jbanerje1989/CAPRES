@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
 
@@ -13,7 +14,7 @@ public class UserClass {
 	private String startDest;
 	private String endDest;
 	private List<String> itemList;
-	private List<Integer> numItems;
+	private HashMap<String, Integer> numItems;
 	private List<String> nodeToVisit;
 	private List<Double> persona;
 	private int numRecommendation;
@@ -25,8 +26,9 @@ public class UserClass {
 		endDest = scan.nextLine();
 		itemList = Arrays.asList(scan.nextLine().split("; "));
 		String[] itemNums = scan.nextLine().split(" ");
-		numItems = new ArrayList<Integer>();
-		for(String str: itemNums) numItems.add(Integer.parseInt(str));
+		numItems = new HashMap<String, Integer>();
+		int index = 0;
+		for(String str: itemNums) { numItems.put(itemList.get(index), Integer.parseInt(str)); index++;}
 		nodeToVisit = Arrays.asList(scan.nextLine().split("; "));
 		String[] personaVal = scan.nextLine().split(" ");
 		persona = new ArrayList<Double>();
@@ -40,7 +42,7 @@ public class UserClass {
 	public String getStartDest() { return startDest;}
 	public String getEndDest() { return endDest;}
 	public List<String> getItemList() { return itemList;}
-	public List<Integer> getNumItems() { return numItems;}
+	public HashMap<String, Integer> getNumItems() { return numItems;}
 	public List<String> getNodeToVisit() { return nodeToVisit;}
 	public List<Double> getPersona() { return persona;}
 	public int getNumRecommendation() { return numRecommendation;}

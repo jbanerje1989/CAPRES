@@ -10,25 +10,23 @@ public class ItemPruning {
 	ItemPruning(GraphPruning gObject, 
 			ItemInventory itemObject,
 			List<String> itemList, 
-			List<Integer> itemNum, 
+			HashMap<String, Integer> itemNum, 
 			List<Double> persona){
 		
 		itemValues = new HashMap<Integer, HashMap<String, List<List<Double>>>>();
 		for(int vertex: gObject.vertexList()){
 			HashMap<String, List<List<Double>>> itemValuesInVertex = new HashMap<String, List<List<Double>>>();
 			if(itemObject.getItemInventory().containsKey(vertex)){
-				int index = 0;
 				for(String item: itemList){	
 					if(itemObject.getItemContentInVertex().get(vertex).containsKey(item)){
 						List<List<Double>> itemValuesReturned = returnSortedList(
 								itemObject.getItemInventory().get(vertex),
 								itemObject.getItemContentInVertex().get(vertex).get(item),
 								item,
-								itemNum.get(index),
+								itemNum.get(item),
 								persona);
 						itemValuesInVertex.put(item, itemValuesReturned);
 					}
-					index ++;
 				}
 			}
 			itemValues.put(vertex, itemValuesInVertex);
@@ -77,7 +75,7 @@ public class ItemPruning {
 	}
 	
 	private double similarityScore(List<Double> personaVal, List<Double> itemFeatureVal){
-		List<Double> weights = Arrays.asList(-3.04, -2.57, -2.57, -3.10); // the weights of the features
+		List<Double> weights = Arrays.asList(3.04, 2.57, 2.57, 3.10); // the weights of the features
 		double simScore = 0.0;
 		for(int index = 0; index < weights.size(); index++){
 			simScore += weights.get(index) * (1/ (1 + 
@@ -87,7 +85,7 @@ public class ItemPruning {
 	}
 	
 	// sort list1 and based on ordering of list1 order list2
-	private void twoArrayListSort(List<Double> list1, List<Double> list2){
+	public void twoArrayListSort(List<Double> list1, List<Double> list2){
 		for(int i = 1; i < list1.size(); i++){
 			int j = i;
 			while(list1.get(j-1) > list1.get(j)){
