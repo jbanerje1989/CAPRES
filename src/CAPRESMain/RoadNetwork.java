@@ -17,6 +17,8 @@ public class RoadNetwork {
 	private HashMap<String, Integer> vertexLocation; // Vertex Location
 	private HashMap<Integer, List<Integer>> edge; // edgeList of pruned graph
 	private HashMap<Integer, List<Integer>> edgeWeight; // edgeWeight of pruned graph
+	private HashMap<Integer, List<Integer>> edgeRev; // edgeList of pruned graph reversed
+	private HashMap<Integer, List<Integer>> edgeWeightRev; // edgeWeight of pruned graph reversed
 	private HashMap<List<Integer>, Integer> shortestPath; // all pair shortest path
 	
 	RoadNetwork() throws FileNotFoundException{
@@ -27,6 +29,8 @@ public class RoadNetwork {
 		vertexLocation = new HashMap<String, Integer>();
 		edge = new HashMap<Integer, List<Integer>>(); 
 		edgeWeight = new HashMap<Integer, List<Integer>>(); 
+		edgeRev = new HashMap<Integer, List<Integer>>(); 
+		edgeWeightRev = new HashMap<Integer, List<Integer>>(); 
 		shortestPath = new HashMap<List<Integer>, Integer>(); 
 		
 		// Input File containing road network node data
@@ -60,6 +64,19 @@ public class RoadNetwork {
 			}
 			edge.put(i, edgeList);
 			edgeWeight.put(i, edgeListWeight);
+		}
+		
+		for(int i = 0; i < vertex.size(); i++){
+			List<Integer> edgeList = new ArrayList<Integer>();
+			List<Integer> edgeListWeight = new ArrayList<Integer>();
+			for(int j = 0; j < vertex.size(); j++){
+				if(Integer.parseInt(comMatrix[i][j]) != 0){
+					edgeList.add(i);
+					edgeListWeight.add(Integer.parseInt(comMatrix[i][j]));
+				}
+			}
+			edgeRev.put(i, edgeList);
+			edgeWeightRev.put(i, edgeListWeight);
 		}
 		scan.close();
 	}
@@ -105,6 +122,12 @@ public class RoadNetwork {
 	
 	// Return Edge Weight
 	public HashMap<Integer, List<Integer>> edgeWeightList() { return edgeWeight;}
+	
+	// Return Edge List of reverse graph
+	public HashMap<Integer, List<Integer>> edgeListRev() { return edgeRev;}
+		
+	// Return Edge Weight of reverse graph
+	public HashMap<Integer, List<Integer>> edgeWeightListRev() { return edgeWeightRev;}
 	
 	// Return vertex latitude
 	public HashMap<Integer, Double> getLatitude() { return latitude;}

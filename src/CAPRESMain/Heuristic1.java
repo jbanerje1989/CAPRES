@@ -100,6 +100,12 @@ public class Heuristic1 {
 						// If the vertex has no item to pick
 						else
 							compSolNoItemInVertex(onVertex, fromVertexList, timeToLook, user, vertexToVisit, time, permNum);
+					 
+					 // Delete non required solutions on this vertex
+					 if(roadNetworkObj.getVertexLocation(user.getEndDest()) == onVertex) continue;
+					 int timeStep = time - Collections.max(userG.edgeWeightListRev().get(onVertex));
+					 if(solOnVertex.containsKey(Arrays.asList(timeStep, onVertex)))
+						 solOnVertex.remove(Arrays.asList(timeStep, onVertex));
 				}
 			}
 			
@@ -113,10 +119,12 @@ public class Heuristic1 {
 					}
 				}
 			}
+			solOnVertex.clear();
 			allFinalSolution = sortOnPerm(allFinalSolution, permNum, user);
 			for(int index = 0; index < Math.min(allFinalSolution.size(), user.getNumRecommendation()); index++){
 				finalSolution.add(allFinalSolution.get(index));
 			}
+			allFinalSolution.clear();
 		}
 
 		// Comparator method 1
@@ -558,7 +566,7 @@ public class Heuristic1 {
 		}
 
 		// Print the final solution
-		public void prtinSolution(GraphPruning userG){
+		public void printSolution(GraphPruning userG){
 			int k = 1;
 			for(Solution S: finalSolution){
 				List<Integer> pathSol = S.path;

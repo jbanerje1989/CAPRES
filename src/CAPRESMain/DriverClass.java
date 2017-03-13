@@ -33,7 +33,7 @@ public class DriverClass {
 		DriverClass object = new DriverClass();
 		object.PreInitialization();
 		// Exclusive to single user. For each user a separate class is required to be created
-		UserClass user = new UserClass("queryDataRaw_infrequent_1");
+		UserClass user = new UserClass("queryDataRaw_infrequent_2");
 		
 		// Execute graph pruning
 		long startTime = System.currentTimeMillis();
@@ -46,6 +46,15 @@ public class DriverClass {
 		long endTime   = System.currentTimeMillis();
 		long totalTime = endTime - startTime;
 		System.out.println("Total Time to prune Graph: " + (double) totalTime / 1000.0 + " seconds"); 
+		
+		boolean flag = true;
+		for(Integer vertex: userG.edgeList().keySet())
+			if(userG.edgeList().get(vertex).size() != 0) flag = false;
+		
+		if(flag){
+			System.out.println("Nothing to solve, increase time constraint");
+			return;
+		}
 		
 		// Execute Item pruning
 		startTime = System.currentTimeMillis();
@@ -68,7 +77,8 @@ public class DriverClass {
 		System.out.println("================================================================================");
 		System.out.println("Dynamic Program Solution");
 		startTime = System.currentTimeMillis();
-		// DynamicProgram DP = new DynamicProgram(roadNetworkObj, user, userG, userI, vertexToVisit);
+		DynamicProgram DP = new DynamicProgram(roadNetworkObj, user, userG, userI, vertexToVisit, permNum);
+		DP.printSolution(userG);
 		endTime   = System.currentTimeMillis();
 		totalTime = endTime - startTime;
 		System.out.println("Total Time: " + (double) totalTime / 1000.0 + " seconds"); 
@@ -82,7 +92,7 @@ public class DriverClass {
 		endTime   = System.currentTimeMillis();
 		totalTime = endTime - startTime;
 		System.out.println("Total Time: " + (double) totalTime / 1000.0 + " seconds"); 
-		obj.prtinSolution(userG);
+		obj.printSolution(userG);
 		System.out.println("================================================================================");
 	}
 }
