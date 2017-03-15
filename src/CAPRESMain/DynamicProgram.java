@@ -93,6 +93,7 @@ public class DynamicProgram {
 			
 			// Iterate over all time steps and nodes
 			for(int time = 0; time <= user.getTimeConstraint(); time++){
+				System.out.println(time);
 				for(int onVertex: userG.vertexList()){
 					 int fromVertexIndex = 0;
 					 List<Integer> fromVertexList = new ArrayList<Integer>();
@@ -123,10 +124,11 @@ public class DynamicProgram {
 						 solOnVertex.remove(Arrays.asList(timeStep, onVertex));
 				}
 			}
+			
 			//Get the final solution
 			finalSolution = new ArrayList<DynSolution>();
 			List<DynSolution> allFinalSolution = new ArrayList<DynSolution>();
-			for(int time = 0; time < user.getTimeConstraint(); time ++){
+			for(int time = 0; time <= user.getTimeConstraint(); time ++){
 				if(solOnVertex.containsKey(Arrays.asList(time, roadNetworkObj.getVertexLocation(user.getEndDest())))){
 					for(Integer nodeSolutions: 
 					 solOnVertex.get(Arrays.asList(time, roadNetworkObj.getVertexLocation(user.getEndDest()))).keySet()){
@@ -167,6 +169,13 @@ public class DynamicProgram {
 					if(!solOnVertex.containsKey(Arrays.asList(time, onVertex))){
 						solOfNodeVisit.put(numNodeVisit, new HashMap<List<Integer>, List<DynSolution>>());
 						solOnVertex.put(Arrays.asList(time, onVertex), solOfNodeVisit);
+					}
+					else{
+						for(Integer nodeV: solOnVertex.get(Arrays.asList(time, onVertex)).keySet())
+								solOfNodeVisit.put(nodeV, solOnVertex.get(Arrays.asList(time, onVertex)).get(nodeV));
+						solOfNodeVisit.put(numNodeVisit, new HashMap<List<Integer>, List<DynSolution>>());
+						solOnVertex.replace(Arrays.asList(time, onVertex), solOfNodeVisit);
+								
 					}
 					computeRecursiveScore(onVertex, fromVertexList, timeToLook, userI, vertexToVisit, 
 							itemVectorAppendCost, user, time, numNodeVisit, currentCost);
@@ -300,7 +309,10 @@ public class DynamicProgram {
 									int indexToIncludeItr = 0;
 									for(List<Double> simScoreCost: 
 										userI.getItemValues().get(onVertex).get(indexMapToItemName.get(itemPosIndex))){
-										if(simScoreCost.get(1) + solToAdd.cumCost > currentCost) continue;
+										if(simScoreCost.get(1) + solToAdd.cumCost > currentCost){
+											indexToIncludeItr ++;
+											continue;
+										}
 										boolean flag = false;
 										if(solToAdd.itemToNodeMap.containsKey(onVertex))
 											if(solToAdd.itemToNodeMap.get(onVertex).
@@ -308,8 +320,10 @@ public class DynamicProgram {
 												flag = true;
 										if(flag)
 											if(solToAdd.itemToNodeMap.get(onVertex).
-											 get(indexMapToItemName.get(itemPosIndex)).contains(indexToIncludeItr))
+											 get(indexMapToItemName.get(itemPosIndex)).contains(indexToIncludeItr)){
+												indexToIncludeItr ++;
 												continue;
+											}
 										if(simScoreCost.get(0) > maxScore){
 											maxScore = simScoreCost.get(0);
 											costToInclude = simScoreCost.get(1);
@@ -317,7 +331,7 @@ public class DynamicProgram {
 										}
 										indexToIncludeItr ++;
 									}
-									
+
 									if(indexToInclude == -1) continue;
 									
 									solToAdd.cumSimScore += maxScore;
@@ -334,7 +348,7 @@ public class DynamicProgram {
 									else{
 										int numItemVal = solToAdd.cumEachTypeItemPicked.
 												get(indexMapToItemName.get(itemPosIndex));
-										solToAdd.cumEachTypeItemPicked.replace(indexMapToItemName.get(itemPosIndex), numItemVal);
+										solToAdd.cumEachTypeItemPicked.replace(indexMapToItemName.get(itemPosIndex), numItemVal + 1);
 										List<Double> costNew = new ArrayList<Double>();
 										for(Double c: solToAdd.cost.get(indexMapToItemName.get(itemPosIndex)))
 											costNew.add(c);
@@ -376,7 +390,7 @@ public class DynamicProgram {
 											solToAdd.itemToNodeMap.put(onVertex, itemToIndexMap);
 										}
 									}
-									newSolution.add(solToAdd);
+									newSolution.add(solToAdd);								
 									newSolution = sortOnPerm(newSolution, 6, user);
 									if(newSolution.size() > user.getNumRecommendation()) 
 										newSolution.remove(newSolution.size() - 1);
@@ -389,12 +403,23 @@ public class DynamicProgram {
 			
 			// put the solution to the index
 			if(newSolution.size() == 0) return;
-			HashMap<List<Integer>, List<DynSolution>> newSolOfItem = new HashMap<List<Integer>, List<DynSolution>>();
-			newSolOfItem.put(itemVectorAppendCost, newSolution);
 			HashMap<Integer, HashMap<List<Integer>, List<DynSolution>>> newSolOfNodeVisit = 
 					new HashMap<Integer, HashMap<List<Integer>, List<DynSolution>>>();
-			newSolOfNodeVisit.put(numNodeVisit, newSolOfItem);
-			solOnVertex.put(Arrays.asList(time, onVertex), newSolOfNodeVisit);
+			for(Integer nodeV: solOnVertex.get(Arrays.asList(time, onVertex)).keySet())
+				newSolOfNodeVisit.put(nodeV, solOnVertex.get(Arrays.asList(time, onVertex)).get(nodeV));
+			if(!newSolOfNodeVisit.containsKey(numNodeVisit)){
+				HashMap<List<Integer>, List<DynSolution>> newSolOfItem = new HashMap<List<Integer>, List<DynSolution>>();
+				newSolOfItem.put(itemVectorAppendCost, newSolution);
+				newSolOfNodeVisit.put(numNodeVisit, newSolOfItem);
+			}
+			else{
+				HashMap<List<Integer>, List<DynSolution>> newSolOfItem = new HashMap<List<Integer>, List<DynSolution>>();
+				for(List<Integer> vec: newSolOfNodeVisit.get(numNodeVisit).keySet())
+					newSolOfItem.put(vec, newSolOfNodeVisit.get(numNodeVisit).get(vec));
+				newSolOfItem.put(itemVectorAppendCost, newSolution);
+				newSolOfNodeVisit.replace(numNodeVisit, newSolOfItem);
+			}
+			solOnVertex.replace(Arrays.asList(time, onVertex), newSolOfNodeVisit);
 		}
 		
 		// Comparator method 1

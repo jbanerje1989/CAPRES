@@ -112,7 +112,7 @@ public class Heuristic1 {
 			//Get the final solution
 			finalSolution = new ArrayList<Solution>();
 			List<Solution> allFinalSolution = new ArrayList<Solution>();
-			for(int time = 0; time < user.getTimeConstraint(); time ++){
+			for(int time = 0; time <= user.getTimeConstraint(); time ++){
 				if(solOnVertex.containsKey(Arrays.asList(time, roadNetworkObj.getVertexLocation(user.getEndDest())))){
 					for(Solution S: solOnVertex.get(Arrays.asList(time, roadNetworkObj.getVertexLocation(user.getEndDest())))){
 						allFinalSolution.add(S);

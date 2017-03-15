@@ -24,7 +24,7 @@ public class DriverClass {
 		 * 4: (simScore, node, item)
 		 * 5: (simScore, item, node)
 		 */
-		int permNum = 1;
+		int permNum = 2;
 		if(permNum <= -1 && permNum >= 6){
 			System.out.println(" Enter a valid permutation ordering");
 			return;
@@ -67,12 +67,12 @@ public class DriverClass {
 		endTime   = System.currentTimeMillis();
 		totalTime = endTime - startTime;
 		System.out.println("Total Time to prune Items: " + (double) totalTime / 1000.0 + " seconds"); 
-		
+		// System.out.println(userI.getItemValues());
 		List<Integer> vertexToVisit = new ArrayList<Integer>();
 		for(String loc : user.getNodeToVisit())
 			if(userG.vertexList().contains(roadNetworkObj.getVertexLocation(loc)))
 				vertexToVisit.add(roadNetworkObj.getVertexLocation(loc));
-		
+		System.out.println(userI.getItemValues());
 		// Execute Dynamic Program with the retrieved values
 		System.out.println("================================================================================");
 		System.out.println("Dynamic Program Solution");

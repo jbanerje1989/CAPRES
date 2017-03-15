@@ -51,7 +51,7 @@ public class ItemPruning {
 			List<Double> itemFeatureVal = new ArrayList<Double>();
 			for(int index2 = value.size() - 4; index2 < value.size(); index2++)
 				itemFeatureVal.add(Double.parseDouble(value.get(index2)));
-			double itemCost = Math.ceil(Double.parseDouble(value.get(value.size()-6)) /100);
+			double itemCost = Math.ceil(Double.parseDouble(value.get(value.size()-6)) /1000);
 			double score = similarityScore(personaVal, itemFeatureVal);
 			if(pScore.size() == itemConstraint){
 				if(pScore.get(0) < score){
